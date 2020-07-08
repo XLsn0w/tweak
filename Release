@@ -1,0 +1,9 @@
+Origin: XLsn0w 
+Label: XLsn0w's debs
+Suite: stable
+Version: 0.0.1
+Codename: com.xlsn0w.debs
+Architectures: iphoneos-arm
+Components: main
+Description: XLsn0w Repo for debs
+Icon:
