@@ -1,0 +1,83 @@
+Package: com.xlsn0w.dingtalkgpsfaker
+Version: 0.0.1-1
+Architecture: iosre
+Maintainer: XLsn0w
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.xlsn0w.dingtalkgpsfaker_0.0.1-1_iosre.deb
+Size: 4996
+MD5sum: 41d1df9ad26c5ab18d864d599d3c27d3
+SHA1: 51929999f2147bf61302080f00cf5b21c7ac8e20
+SHA256: 7e7d45a93992d491789265ba911843b31c658906d9f567ef30a4b64e8dc02d06
+Section: iosre
+Description: 钉钉打卡 伪装GPS
+Author: XLsn0w
+Name: 钉钉打卡伪装
+
+Package: com.xlsn0w.flex
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: XLsn0w
+Installed-Size: 1784
+Depends: mobilesubstrate
+Filename: debs/com.xlsn0w.flex_1.0.1-1_iphoneos-arm.deb
+Size: 614406
+MD5sum: 92b9f9f22efe002f080b559c517649f0
+SHA1: 8bf439a16097b57c8de92fa5f3e4a936222ab670
+SHA256: 599e7f2e76abb8e31bf1b44eb76b90edb3b08b87accd2abb160326656b4cfebe
+Section: XLsn0w
+Description: FLEX deb插件版
+Author: XLsn0w
+Name: FLEX
+
+Package: com.xlsn0w.wifipassword
+Version: 1.5.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: BigBoss
+Installed-Size: 40
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.xlsn0w.wifiviewer_1.5.0_iphoneos-arm.deb
+Size: 1420
+MD5sum: 8e0bf930db2854cd5dcaa2a67ae46806
+SHA1: 644a522ff6eda481c2d9252ab94969df60f42a1b
+SHA256: 19f44f8fdd9a40702bcce8f77ea66fe7f17aba75c851613d612db68038ec677a
+Section: Tweaks
+Description: 在设置中查看保存的WiFi密码 (xlsn0w)
+Tag: purpose::extension
+Author: xlsn0w
+Dev: xlsn0w
+Name: NetworkList
+Sponsor: xlsn0w
+
+Package: com.xlsn0w.wxhongbao
+Version: 3.0.0-5+debug
+Architecture: tweak
+Maintainer: XLsn0w
+Installed-Size: 504
+Depends: mobilesubstrate
+Filename: debs/com.xlsn0w.wxhongbao_3.0.0-5+debug_tweak.deb
+Size: 144410
+MD5sum: bc6feac64cae5165cf883502861b7251
+SHA1: b1e971194c014b6e7cce1334644a4a8248e1e5e2
+SHA256: 38486ff974f4493df0b06a13e5943ea659430a03b741175e8aad035c434e2d3e
+Section: Tweaks
+Description: 微信自动抢红包助手 QQ:946434404
+Author: XLsn0w
+Name: 微信红包专家
+
+Package: com.xlsn0w.wxmanager
+Version: 2.0.0-1+debug
+Architecture: ios
+Maintainer: XLsn0w
+Installed-Size: 416
+Depends: mobilesubstrate
+Filename: debs/com.xlsn0w.wxmanager_2.0.0-1+debug_ios.deb
+Size: 110246
+MD5sum: 6d005074525f7602d6de27781a3522ca
+SHA1: ca2e551b8beb003281db2eeb912d1c166bb6381f
+SHA256: 63c1fd6f8a0c42c852d7481242c93595f15160ef51e1d613162614b19a7bcad8
+Section: Tweaks
+Description: 微信管家
+Author: XLsn0w
+Name: 微信管家
+
