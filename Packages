@@ -1,3 +1,479 @@
+Package: com.booleanmagic.wicarrier
+Version: 1.1.5
+Architecture: iphoneos-arm
+Maintainer: Ryan Petrich <rpetrich+wicarrier@gmail.com>
+Installed-Size: 184
+Depends: mobilesubstrate, firmware (>= 3.0)
+Filename: debs/com.booleanmagic.wicarrier_1.1.5_iphoneos-arm.deb
+Size: 12556
+MD5sum: 5b17f58a0a7a0e6594aec4995afe50b0
+SHA1: 22d47a42ac35d4fd2224a31898513c26db7e79d0
+SHA256: 8ef3b2778415ce2a9ac833f2fd0e63a76c48505046283c481025194d483838ab
+Section: Tweaks
+Description: Display WiFi network in status bar
+Author: Ryan Petrich <rpetrich+wicarrier@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=WiCarrierDp
+Dev: rpetrich
+Name: WiCarrier
+Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=WiCarrierDp
+
+Package: com.rpetrich.actiwidget
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Ryan Petrich
+Installed-Size: 28
+Depends: firmware (>= 5.0), mobilesubstrate, com.chpwn.weeloader, libactivator (>= 1.7.5~beta10)
+Filename: debs/com.rpetrich.actiwidget_0.1_iphoneos-arm.deb
+Size: 7468
+MD5sum: 3ca41995283c895b2363068ea5ccf9a0
+SHA1: d132df169f96eb17fede69eda325855f9a4eb7fb
+SHA256: 54dee47da9d1a123384da02dc8bf6cdbc0db869a9a3b248278bfcf262234a78b
+Section: Addons (NotificationCenter)
+Description: Activator-integration for the Notification Center
+Author: Ryan Petrich
+Name: Actiwidget
+
+Package: com.rpetrich.autopaste
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5001), firmware (>= 9.0), preferenceloader
+Filename: debs/com.rpetrich.autopaste_0.1_iphoneos-arm.deb
+Size: 10350
+MD5sum: 35a57fa0a1e5c0a247d4f900fd61a75d
+SHA1: a96678cd83a463f1b119ce8ecbb6570569757908
+SHA256: d4aa425422a2ecd9af1f7c80ef139e615c99b0d45233af26e5a0e2f201ce766d
+Section: Tweaks
+Description: Automatically paste when a GIF is copied
+Author: Ryan Petrich <rpetrich+autopaste@gmail.com>
+Depiction: http://rpetri.ch/cydia/autopaste/
+Dev: rpetrich
+Name: AutoPaste
+Website: http://rpetri.ch/cydia/autopaste/
+
+Package: com.rpetrich.curiosa
+Version: 0.9~beta3
+Architecture: iphoneos-arm
+Installed-Size: 480
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader (>= 2.0), libactivator (>= 1.8.3), apt7, shell-cmds, cydia
+Filename: debs/com.rpetrich.curiosa_0.9_beta3_iphoneos-arm.deb
+Size: 49012
+MD5sum: ec854b893f7ab000e61c5ac22bfd76f4
+SHA1: 8aace2bbf581380e61066cfd0a7e3d0eeb2149fc
+SHA256: 2a51822fc972993ee517f1e205884659cf1d59fe52cc33e236b5a28c40787b1f
+Section: Tweaks
+Priority: optional
+Homepage: http://rpetri.ch/cydia/curiosa/
+Description: Background updates and notifications for Cydia
+Tag: purpose::extension
+Author: Ryan Petrich <rpetrich+curiosa@gmail.com>
+Depiction: http://rpetri.ch/cydia/curiosa/
+Dev: rpetrich
+Name: Curiosa
+
+Package: com.rpetrich.deepend
+Version: 0.2
+Architecture: iphoneos-arm
+Installed-Size: 56
+Depends: firmware (>= 4.0), mobilesubstrate, preferenceloader (>= 2.0), gyroscope | gsc.gyroscope
+Filename: debs/com.rpetrich.deepend_0.2_iphoneos-arm.deb
+Size: 19464
+MD5sum: 6cc86d1e3135d81ff0356089a690e1d9
+SHA1: ef81c1cfed397cc70f4d3318025b581d2546e093
+SHA256: e2c26add5d940ec28a77564714bf0753407e0352d6871c08c48b1e7080dfa617
+Section: Tweaks
+Priority: optional
+Description: Dive into SpringBoard!
+ A simple tweak that shifts the wallpaper based on the device orientation
+Author: Ryan Petrich
+Name: DeepEnd
+
+Package: com.rpetrich.emphasize
+Version: 0.2.1
+Architecture: iphoneos-arm
+Maintainer: Ryan Petrich <rpetrich+emphasize@gmail.com>
+Installed-Size: 28
+Depends: mobilesubstrate, firmware (>= 5.0), applist (>= 1.5.3)
+Filename: debs/com.rpetrich.emphasize_0.2.1_iphoneos-arm.deb
+Size: 6924
+MD5sum: 76474a3da6a92e4b53bdfe7189eccca0
+SHA1: 4219ec9e639011de57ef6318ff827443e48ae1e9
+SHA256: b4f6bf4cd2cd631fed689adf324aa896bd5f66a553b5e01bbd11f0df8cb88b84
+Section: Tweaks
+Description: Customizable control color schemes
+Author: Ryan Petrich <rpetrich+emphasize@gmail.com>
+Depiction: http://rpetri.ch/cydia/emphasize/
+Dev: rpetrich
+Icon: file:///System/Library/PreferenceBundles/Wallpaper.bundle/icon.png
+Name: Emphasize
+Website: http://rpetri.ch/cydia/emphasize/
+
+Package: com.rpetrich.fastblurrednotificationcenter
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: Ryan Petrich <rpetrich+fastblurrednotificationcenter@gmail.com>
+Installed-Size: 20
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: debs/com.rpetrich.fastblurrednotificationcenter_0.2_iphoneos-arm.deb
+Size: 4606
+MD5sum: b105d9ffdddf811180842563aba111be
+SHA1: 5cc4cf6718d6a8c16f31eebd08966154f7a2d20b
+SHA256: c323775b4533e19cd69e0c850b7bc14601a7868d33daf278bd25f2e63f4452fd
+Section: Tweaks
+Description: More efficient version of BlurriedNCBackground
+Author: Ryan Petrich <rpetrich+fastblurrednotificationcenter@gmail.com>
+Dev: rpetrich
+Name: FastBlurredNotificationCenter
+
+Package: com.rpetrich.flipcontrolcenter
+Version: 1.0.4~beta1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 876
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5001), preferenceloader (>= 2.2.2), com.a3tweaks.flipswitch (>= 1.0.15~beta1)
+Conflicts: com.plipala.ccsettings, de.j-gessner.ccloader (<< 1.2.2), kr.slak.cctoggles
+Replaces: com.plipala.ccsettings, de.j-gessner.ccloader (<< 1.2.2), kr.slak.cctoggles
+Filename: debs/com.rpetrich.flipcontrolcenter_1.0.4_beta1_iphoneos-arm.deb
+Size: 135830
+MD5sum: 4b571dbb584dbc38e6b52e1d25431e26
+SHA1: 4b9bf1d19c0c760ed3556e80a7373fc789cf8af5
+SHA256: d93821463e9e66ef94c5b237945bca2e267d07cdba1d0704ee6d7b179f65bd40
+Section: Tweaks
+Priority: optional
+Homepage: http://rpetri.ch/cydia/flipcontrolcenter/beta/
+Description: Customizable Control Center Switches
+Tag: purpose::extension
+Author: Ryan Petrich <rpetrich+flipcontrolcenter@gmail.com>
+Depiction: http://rpetri.ch/cydia/flipcontrolcenter/beta/
+Dev: rpetrich
+Icon: file:///System/Library/CoreServices/SpringBoard.app/controlcenter.png
+Name: FlipControlCenter
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.rpetrich.iconrenamer
+Version: 1.2.6
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 200
+Depends: firmware (>= 4.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Replaces: netskao.iconrenamerx
+Filename: debs/com.rpetrich.iconrenamer_1.2.6_iphoneos-arm.deb
+Size: 18398
+MD5sum: 9a26c3d08853ac3084090c7f2e296562
+SHA1: 0a6854edffcbea1bc736f296922d4cc7dd760275
+SHA256: 3e2674a3d8fba1ad244f4567b8f64d4d31540a804539ca437656ec7b5043312c
+Section: Tweaks
+Homepage: http://rpetri.ch/cydia/iconrenamer/
+Description: Rename icons from your SpringBoard
+Tag: purpose::extension
+Author: Ryan Petrich <rpetrich@gmail.com>
+Depiction: http://rpetri.ch/cydia/iconrenamer/
+Dev: rpetrich
+Name: Icon Renamer
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.rpetrich.lockshare
+Version: 0.2
+Architecture: iphoneos-arm
+Installed-Size: 72
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.rpetrich.lockshare_0.2_iphoneos-arm.deb
+Size: 3944
+MD5sum: 166e155d9c3288b80f62a1199c269c5e
+SHA1: 091efb710c8df21cfb09c3c87555e402b2c3a933
+SHA256: 3768fd318f9f2c0ca43b16ba4d6e035d196207c285d953769928a3c7640be119
+Section: Tweaks
+Priority: optional
+Description: Share photos from the lock screen camera
+Author: Ryan Petrich
+Name: Sharelock
+
+Package: com.rpetrich.mailmend
+Version: 0.2.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0), firmware (<< 13.4.5)
+Filename: debs/com.rpetrich.mailmend_0.2.1_iphoneos-arm.deb
+Size: 9872
+MD5sum: acede3fc21a5c4ec202edce9d6716169
+SHA1: 3bf4cb6de456ed363d7eeb7323762f5f5d65e967
+SHA256: 0a289ae07a12fc40a6e47b8b4dcb8356be124c0a0145787c289bc21515ba85ea
+Section: Tweaks
+Homepage: https://www.rpetrich.com/cydia/mailmend/
+Description: Mends a few bugs in MobileMail's MIME.framework
+Tag: purpose::extension
+Author: Ryan Petrich <rpetrich+mailmend@gmail.com>
+Depiction: https://www.rpetrich.com/cydia/mailmend/
+Dev: rpetrich
+Name: MailMend
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.rpetrich.monocle
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: thebigboss.org <http://thebigboss.org>
+Installed-Size: 48
+Depends: firmware (>= 4.0), mobilesubstrate, libactivator (>= 1.6.2), preferenceloader
+Filename: debs/com.rpetrich.monocle_0.2_iphoneos-arm.deb
+Size: 13158
+MD5sum: cd6d21790386c4cc12918fb015ec13f9
+SHA1: 88ca374fbe626a49e2cbeca7f119ff2ee114375f
+SHA256: 1acd8bbf404059c3ac50619114f6b90fbfd1b5f3ba4b8cc3e1c2922db3b509fb
+Section: Tweaks
+Description: Fullscreen For Everything, default event is shake. For best results install with SwipeBack
+Tag: purpose::extension
+Author: Ryan Petrich <rpetrich+monocle@gmail.com>
+Dev: rpetrich
+Name: Monocle
+
+Package: com.rpetrich.norespringchirp
+Version: 0.2
+Architecture: iphoneos-arm
+Installed-Size: 72
+Depends: firmware (>= 3), mobilesubstrate
+Filename: debs/com.rpetrich.norespringchirp_0.2_iphoneos-arm.deb
+Size: 3948
+MD5sum: 08476d58d29f7ce3d5c9354896872b40
+SHA1: 18562da674748f3d8a392cbee5de312583abac0b
+SHA256: 3286775ca590b6fea49f169e0a754aa266c0c0146f6cfbb6baa7d416042e0afd
+Section: Tweaks
+Priority: optional
+Description: Disable that infernal power connected sound on respring
+Author: Ryan Petrich
+Name: NoRespringChirp
+
+Package: com.rpetrich.pebbleactivator
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: Ryan Petrich <rpetrich+pebbleactivator@gmail.com>
+Installed-Size: 360
+Depends: mobilesubstrate, preferenceloader (>= 2.2), libactivator (>= 1.7.5~beta7), firmware (>= 6), firmware (<< 6.2)
+Filename: debs/cydiastore_com.rpetrich.pebbleactivator_v0.2.deb
+Size: 198432
+MD5sum: 759f5da7b16ab259d042e691b80eb356
+SHA1: e86556e1ea5a58bcb06ef3e47c87d5f6eb2025e4
+SHA256: a4fb5dae0679ecefaac3e496c6c88ed5a149cba51aa649c55706c11bb9403af0
+Section: Tweaks
+Description: Integrate Pebble smart watch with Activator
+Author: Ryan Petrich <rpetrich+pebbleactivator@gmail.com>
+Depiction: http://rpetri.ch/cydia/pebbleactivator/
+Dev: rpetrich
+Name: PebbleActivator
+Website: http://rpetri.ch/cydia/pebbleactivator/
+
+Package: com.rpetrich.powercuff
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 156
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: debs/com.rpetrich.powercuff_0.1_iphoneos-arm.deb
+Size: 10960
+MD5sum: eaa94a5fb28d6c96f0d26e370a8042b4
+SHA1: d3d376d53f677bf2b31c58a3a80e25b92da1d245
+SHA256: 26c38ea724f6186dbb029fc7f68a20bf04c6ab5b42366e3783c629a0cb881240
+Section: Tweaks
+Homepage: http://rpetri.ch/cydia/powercuff/
+Description: Select from additional low power device states
+Tag: purpose::extension
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Depiction: http://rpetri.ch/cydia/powercuff/
+Dev: rpetrich
+Name: Powercuff
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.rpetrich.pushprivacy
+Version: 0.1
+Architecture: iphoneos-arm
+Installed-Size: 36
+Depends: firmware (>= 5), mobilesubstrate, preferenceloader, applist (>= 1.4.3)
+Filename: debs/com.rpetrich.pushprivacy_0.1_iphoneos-arm.deb
+Size: 4740
+MD5sum: dd8665b9f6468d565109cf631731fce0
+SHA1: 84eeb3f89653cd1c177849e2675a83846e91a700
+SHA256: 73cd773dc6d31261ce5d653e30f8d42a119dd6df5dab3017d7d09b7319dff87d
+Section: Tweaks
+Priority: optional
+Description: Configurable lock screen privacy for push notifications
+Author: Ryan Petrich
+Name: PushPrivacy
+
+Package: com.rpetrich.respringcachefix
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 16
+Depends: firmware (>= 6.1), mobilesubstrate
+Filename: debs/com.rpetrich.respringcachefix_0.2_iphoneos-arm.deb
+Size: 2106
+MD5sum: 598b555ac9d5859ab52b71e45321818a
+SHA1: 71c19ce0fdcd2830afb53c32d1d2b4d5f04ca495
+SHA256: 8f0c934d07264b2e28d01e702bce9585b444ba84d946c4b2afa7a80e912a4fdb
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=respringCacheFixData
+Description: Cleanup junk temporary files that are dropped every respring
+Tag: purpose::extension
+Author: Ryan Petrich <rpetrich@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=respringCacheFixData
+Dev: rpetrich
+Name: RespringCacheFix
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.rpetrich.rocketbootstrap
+Version: 1.0.9
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 596
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
+Filename: debs/com.rpetrich.rocketbootstrap_1.0.9_iphoneos-arm.deb
+Size: 37192
+MD5sum: 612e3c55752ee8cfc631e341c5618795
+SHA1: 6c2cb0c69f77b84090f76ebfa909bf64e40b11b9
+SHA256: 1f6aed403c557eec1ac93bdb2fc50fe5e9808f230783480ea488a2f42880642f
+Section: Tweaks
+Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Tag: purpose::extension, role::developer
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Dev: rpetrich
+Name: RocketBootstrap
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.rpetrich.sliderbar
+Version: 0.1
+Architecture: iphoneos-arm
+Installed-Size: 16
+Depends: firmware (>= 3.0), mobilesubstrate
+Filename: debs/com.rpetrich.sliderbar_0.1_iphoneos-arm.deb
+Size: 3010
+MD5sum: 8fd83e7bd2d8c72a994118b87be419f2
+SHA1: fe45556a66eac03019582a970359c989ed14c24c
+SHA256: 2a680dd9eb6db33313e5fd96c303364b2e703837fc585b476fdd7f6e81aa0e2c
+Section: Tweaks
+Priority: optional
+Description: Quick scrolling in all table views
+Author: Ryan Petrich
+Name: SliderBar
+
+Package: com.rpetrich.smartclose
+Version: 0.6
+Architecture: iphoneos-arm
+Maintainer: thebigboss.org <http://thebigboss.org>
+Installed-Size: 112
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5001), libactivator (>= 1.9.5), preferenceloader (>= 2.2.2), applist (>= 1.5.9)
+Filename: debs/com.rpetrich.smartclose_0.6_iphoneos-arm.deb
+Size: 15424
+MD5sum: e49a0b670e9db1d28eeecf0f9abb3779
+SHA1: 3f0f037e9547c3d75eba80dc62492eea5d6bd01f
+SHA256: 6174fcf77061a93f0ae4f3222f217e2b597b7179760d17f379cd44c99dfc7087
+Section: Tweaks
+Homepage: http://rpetri.ch/cydia/smartclose/
+Description: Close background apps, the smart way via Activator
+Tag: purpose::extension
+Author: Ryan Petrich <rpetrich+smartclose@gmail.com>
+Depiction: http://rpetri.ch/cydia/smartclose/
+Dev: rpetrich
+Name: SmartClose
+
+Package: com.rpetrich.snoverlay
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Ryan Petrich <rpetrich+snowverlay@gmail.com>
+Installed-Size: 80
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: debs/com.rpetrich.snoverlay_0.1_iphoneos-arm (1).deb
+Size: 16230
+MD5sum: 3906770daf4718065730e639f0160b29
+SHA1: 5b3230ead7216beed209aa5ab4ac60c8d44a5031
+SHA256: 7358078fbdf147aeebd15760c9e323fe428e297c5340c2e16d0efd6119ca503f
+Section: Tweaks
+Description: Happy Holidays, everyone!
+Author: Ryan Petrich <rpetrich+snowverlay@gmail.com>
+Dev: rpetrich
+Icon: file:///System/Library/PreferenceBundles/Wallpaper.bundle/icon.png
+Name: Snoverlay
+
+Package: com.rpetrich.sslpatch
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 72
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5001), firmware (<< 7.0.6)
+Filename: debs/com.rpetrich.sslpatch_0.1_iphoneos-arm.deb
+Size: 8898
+MD5sum: ec475088d0a6d8ef0832a6dc6c5d0a89
+SHA1: 022c9b78715ce252a62fc62487aba46307c10a42
+SHA256: 22f79f5eac60d3a9513d98e724e894575b528d10dffdd7c81e7044b5121742fa
+Section: Tweaks
+Priority: optional
+Homepage: http://rpetri.ch/cydia/sslpatch
+Description: Fix for CVE-2014-1266 on iOS 6.0-7.0.5 firmwares
+Tag: purpose::extension
+Author: Ryan Petrich <rpetrich+sslpatch@gmail.com>
+Depiction: http://rpetri.ch/cydia/sslpatch
+Dev: rpetrich
+Name: SSLPatch
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.rpetrich.switchicons
+Version: 1.0.1~rc1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 160
+Depends: mobilesubstrate, firmware (>= 5.0), com.a3tweaks.flipswitch (>= 1.0.3~beta1), preferenceloader (>= 2.2), com.chpwn.iconsupport (>= 1.6) | firmware (>= 7.0)
+Filename: debs/com.rpetrich.switchicons_1.0.1_rc1_iphoneos-arm.deb
+Size: 54078
+MD5sum: 51d797e8c0aea0376b875f9d26650d1c
+SHA1: c5f76d096ce8a4dd5612e486bb1342cd1a3df8f9
+SHA256: 63448fa134fa08666559adec18d4c009979cf21e163935c5ca83ff499aca4194
+Section: Tweaks
+Description: Switches as home screen icons
+Author: Ryan Petrich <rpetrich+switchicons@gmail.com>
+Depiction: http://rpetri.ch/cydia/switchicons/
+Dev: rpetrich
+Icon: file:///Applications/Preferences.app/icon-table.png
+Name: Switchicons
+Website: http://rpetri.ch/cydia/switchicons/
+
+Package: com.rpetrich.topographyforgooglemaps
+Version: 0.1-1
+Architecture: iphoneos-arm
+Installed-Size: 16
+Depends: firmware (>= 5.1), mobilesubstrate
+Filename: debs/com.rpetrich.topographyforgooglemaps_0.1-1_iphoneos-arm.deb
+Size: 2900
+MD5sum: f910dfda808fd43d8f4735d7441f4c60
+SHA1: 47c561e8dd836e6b1e1fcb58a72ded5faf319b91
+SHA256: 294c16812da4ea143f0a535a00bf6990a229a0233492a7f30410d38278d7feb2
+Section: Tweaks
+Priority: optional
+Description: Adds topography option to Google Maps app
+Author: Ryan Petrich
+Name: Topography for Google Maps
+
+Package: com.rpetrich.wallcycler
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: thebigboss.org <http://thebigboss.org>
+Installed-Size: 128
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5001), libactivator (>= 1.8.3)
+Filename: debs/com.rpetrich.wallcycler_0.1_iphoneos-arm.deb
+Size: 18626
+MD5sum: e9f2ab8b1ea41da0c9923aea35324326
+SHA1: 0018e64af4960a6ddde5b5fdab039ea9e4d1fa5f
+SHA256: 6473662ecdc960ca01121ac719d8997e6231a6e6573b991f13dfecf313720f05
+Section: Tweaks
+Homepage: http://rpetri.ch/cydia/wallcycler/
+Description: Cycle your wallpapers
+Tag: purpose::extension
+Author: Ryan Petrich <rpetrich+wallcycler@gmail.com>
+Depiction: http://rpetri.ch/cydia/wallcycler/
+Dev: rpetrich
+Name: WallCycler
+
 Package: com.xlsn0w.dingtalkgpsfaker
 Version: 0.0.1-1
 Architecture: iosre
@@ -80,4 +556,22 @@ Section: Tweaks
 Description: 微信管家
 Author: XLsn0w
 Name: 微信管家
+
+Package: us.scw.afctwoadd
+Version: 1.01
+Architecture: iphoneos-arm
+Maintainer: NetMage <scw@scw.us>
+Depends: com.ericasadun.utilities
+Filename: debs/us.scw.afctwoadd_1.01_iphoneos-arm.deb
+Size: 1136
+MD5sum: 624641d8ce8ee0c4035faf1997bf5df6
+SHA1: 047c1a67a69370d4104d198dbe90637b5adf6349
+SHA256: cf4674a7f07127b1bde299672e5589a7fc7d3975bfbdc61cca346edb9426779a
+Section: System
+Homepage: http://modmyi.com/info/afctwoadd.php
+Description: Package to add afc2 service for USB browsing of filesystem. Adds the afc2 service and reboots the phone, to fix issues for folks unable to use USB browsers (like iPhoneBrowser) with blackra1n.
+Author: NetMage <scw@scw.us>
+Depiction: http://modmyi.com/info/afctwoadd.d.php
+Name: afc2add
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 
