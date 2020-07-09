@@ -136,6 +136,25 @@ Author: cemck
 Icon: file:///Library/PreferenceBundles/KillXProPrefs.bundle/icon_pro_big@3x.png
 Name: KillX Pro
 
+Package: com.davidporterapps.ibattery
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 343
+Filename: debs/ibattery_1.0.deb
+Size: 176384
+MD5sum: dcd86fb8c65d7a0ae5031a558345ff6c
+SHA1: 8a674cc1594df11529e9c194bf50d5ad7999d876
+SHA256: 43885a1b0b60e0198a3a7164ee8edb528ec173c1a1eee2d174889ee288be85a8
+Section: Utility
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ibatteryData
+Description: iBattery is a very useful utility, where you can view info about your battery.
+Author: David Porter <software@bobbypage.net>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ibatteryData
+Dev: bobbypage
+Name: iBattery
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.gawain.LibWechatReSendVoice
 Version: 0.1-1
 Architecture: iphoneos-arm
@@ -917,6 +936,22 @@ Icon: file:///Applications/crackerxi.app/AppIcon.png
 Name: CrackerXI+
 Website: https://ipastore.me
 
+Package: darwintools
+Version: 1-5
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 136
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: debs/darwintools_1-5_iphoneos-arm.deb
+Size: 5674
+MD5sum: 844f9b1965c794941040c59862a2d283
+SHA1: 8776aa4b096b1b06650c75d59ad742b9f4646565
+SHA256: e188cb79f4065207463d1fab1ac69fb1be66d78c91df52c2149a97bb5bd24474
+Section: Administration
+Priority: required
+Description: startupfiletool, sw_vers
+Name: Darwin Tools
+
 Package: flex
 Version: 2.5.35-5
 Architecture: iphoneos-arm
@@ -933,6 +968,22 @@ Section: Development
 Priority: standard
 Description: GNU lexer derived from Lex
 Name: Flex
+
+Package: iokittools
+Version: 76-4p
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 84
+Depends: ncurses
+Filename: debs/iokittools_76-4p_iphoneos-arm.deb
+Size: 15604
+MD5sum: 21a2a55c16af71c5c54f309d87d916e1
+SHA1: aba6eece1f43a560d0c82fe5957fd0a051f380a3
+SHA256: a56fa8855011c7164ca42258eecb6f48d95d1cd09210957276e777299c4a7058
+Section: Administration
+Priority: important
+Description: ioalloccount, ioclasscount, ioreg
+Name: IOKit Tools
 
 Package: org.coolstar.sileo
 Version: 1.4.1
@@ -973,6 +1024,21 @@ Author: Dustin Howett <cydia.pl@relay.howett.net>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
 Dev: dustinhowett
 Name: PreferenceLoader
+
+Package: sudo
+Version: 1.6.9p12-4p
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 436
+Filename: debs/sudo_1.6.9p12-4p_iphoneos-arm.deb
+Size: 179154
+MD5sum: d27d1b293fd479c723146e73d1a46eab
+SHA1: 821eb4198e35ad596d13ccbe807fa7c35202a2df
+SHA256: 0bc251e772c22c30f82be302c858dd014fdda6ce1bba2be2d00dbf11620c96c0
+Section: Administration
+Priority: standard
+Description: temporarily assume root priviledges
+Name: Sudo
 
 Package: us.scw.afctwoadd
 Version: 1.01
