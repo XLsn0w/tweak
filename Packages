@@ -18,6 +18,30 @@ Dev: rpetrich
 Name: AppList
 Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
 
+Package: com.a3tweaks.flipswitch
+Version: 1.0.16~rc1
+Architecture: iphoneos-arm
+Maintainer: rpetrich & a3tweaks <rpetrich+flipswitch@gmail.com>
+Installed-Size: 2408
+Depends: mobilesubstrate (>= 0.9.5001), com.rpetrich.rocketbootstrap (>= 1.0.9) | firmware (<< 7.0)
+Conflicts: com.rpetrich.donotdisturbtoggle (<= 1.0-1), com.jerryen.rotationlockflipswitch
+Replaces: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift
+Provides: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift
+Filename: debs/com.a3tweaks.flipswitch_1.0.16_rc1_iphoneos-arm.deb
+Size: 297434
+MD5sum: b063147cf028f431c9d81bd15f6a0cd2
+SHA1: 1e3b1dc43afebfde87ff4dc33fbde9163d4b4bba
+SHA256: 8b714c5eae822ba0ece18c25a259a68f9de26cca8e7fbd1b3972d1030b693769
+Section: System
+Homepage: https://rpetri.ch/cydia/flipswitch/beta/
+Description: Centralized toggle system for iOS
+Tag: purpose::extension, role::developer
+Author: rpetrich <rpetrich+flipswitch@gmail.com>
+Depiction: https://rpetri.ch/cydia/flipswitch/beta/
+Dev: flipswitch
+Icon: file:///Applications/Preferences.app/icon-table.png
+Name: Flipswitch
+
 Package: com.arichardson.weepreferenceloader
 Version: 1.1
 Architecture: iphoneos-arm
@@ -36,6 +60,44 @@ Author: Andrew Richardson <andrewr114@gmail.com>
 Depiction: http://modmyi.com/info/weepreferenceloader.d.php
 Name: WeePreferenceLoader
 Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.bates.lyrics
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Filename: debs/com.bates.lyrics_1.2_iphoneos-arm.deb
+Size: 297508
+MD5sum: 45c12a2e51d3ba6574228cdd3c20735f
+SHA1: 73710d87a000a52c28d49a82f9a9dc5c2ef2848c
+SHA256: a40caaa9d642b6b51132333a0a042c979c5e10aec76d38fbe6522f719b45a1da
+Section: Utilites
+Priority: extra
+Homepage: http://modmyi.com/info/lyrics.php
+Description: A simple app that gets song lyrics with just a press of a button!
+Author: angeljruiz <angelbates5@yahoo.com>
+Depiction: http://modmyi.com/info/lyrics.d.php
+Name: EasyLyrics
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.booleanmagic.displayrecorder
+Version: 1.3.22~beta1
+Architecture: iphoneos-arm
+Maintainer: Ryan Petrich <rpetrich+displayrecorder@gmail.com>
+Installed-Size: 2492
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), libactivator (>= 1.9.9), gdata-objectivec-client | firmware (>= 7.0), firmware (>= 3), openssl, firmware (<< 9.9), com.rpetrich.rocketbootstrap (>= 1.0.1) | firmware (<< 7.0), com.a3tweaks.flipswitch (>= 1.0.5)
+Filename: debs/cydiastore_com.booleanmagic.displayrecorder_v1.3.22_beta1.deb
+Size: 914570
+MD5sum: c337781a37e78e81958869803fa1095b
+SHA1: b22f79cbacbda918f02152786aa96650b86b38a0
+SHA256: 8115a5c0d537d5a0d59c121d28f113504058663910c3828a9c31905df6ad0897
+Section: System
+Description: Record the display in real-time, send to camera roll, web interface, ProTapper-style touch circles and Activator integration
+Tag: cydia::commercial
+Author: Ryan Petrich <rpetrich+displayrecorder@gmail.com>
+Depiction: http://rpetri.ch/cydia/displayrecorder/
+Dev: rpetrich
+Name: Display Recorder
+Website: http://rpetri.ch/cydia/displayrecorder/
 
 Package: com.booleanmagic.wicarrier
 Version: 1.1.5
@@ -88,6 +150,38 @@ Priority: optional
 Author: Gawain
 Name: LibWechatReSendVoice
 
+Package: com.iphonemodding2.insanedrpepper
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: maXimus <maximus@iphonemodding.com>
+Depends: winterboard
+Filename: debs/com.iphonemodding2.insanedrpepper_1.0_iphoneos-arm.deb
+Size: 335398
+MD5sum: 13310340ac408bd84709451d345d55fe
+SHA1: 11b81c0f96ac20cb3ef12105650c19213a3ed34f
+SHA256: 2fdcc60caed0cf360aca1314d10ae6156843edb355742c5073055fff3439892e
+Section: Themes
+Homepage: http://www.iphonemodding.com
+Description: This is a theme of the oh so yummy dr. pepper.
+Author: photomonkey <colby.colyer@hotmail.com>
+Depiction: http://apt.iphonemodding.com/d2/insanedrpepper/insanedrpepper.php
+Name: Insane Dr. Pepper
+Sponsor: iPhoneModding <http://www.iphonemodding.com>
+
+Package: com.iphonoyid.pokemonstyle
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: t1ny3reezz@hotmail.com
+Filename: debs/com.iphonoyid.pokemonstyle_1.0_iphoneos-arm.deb
+Size: 11519568
+MD5sum: b2c00445d0b61f6f7b02047d6044ec99
+SHA1: 4dc8711e8adbd3d50f36b7fa28fe38efc69d5f08
+SHA256: 626e34b60e8622e72c9d26021f743392bebde2478a2d430d4f199b9cfdaaabb0
+Section: Theme
+Description: Change All Style PokemonGo
+Author: iPhonoYiD
+Name: PokemonStyle
+
 Package: com.rpetrich.actiwidget
 Version: 0.1
 Architecture: iphoneos-arm
@@ -122,6 +216,43 @@ Depiction: http://rpetri.ch/cydia/autopaste/
 Dev: rpetrich
 Name: AutoPaste
 Website: http://rpetri.ch/cydia/autopaste/
+
+Package: com.rpetrich.batterywaster
+Version: 0.1
+Architecture: iphoneos-arm
+Installed-Size: 152
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5001), preferenceloader (>= 2.2.2)
+Filename: debs/com.rpetrich.batterywaster_0.1_iphoneos-arm.deb
+Size: 10100
+MD5sum: deb0ce9308b599199e633c2095f05aaa
+SHA1: 268b6163ec6fc7bbe69b7da235b55db43f363b20
+SHA256: baee6136863938e466e282b7fb6cc756862c3b193759fad2947f6326db6f26e8
+Section: System
+Priority: optional
+Description: Background apps forever to waste battery
+Author: Ryan Petrich <rpetrich+batterywaster@gmail.com>
+Depiction: http://rpetri.ch/cydia/wastemybattery/
+Icon: file:///Library/PreferenceLoader/Preferences/BatteryWaster/BatteryWaster@2x.png
+Name: BatteryWaster
+Website: http://rpetri.ch/cydia/wastemybattery/
+
+Package: com.rpetrich.captainhammer
+Version: 0.6.1
+Architecture: iphoneos-arm
+Maintainer: thebigboss.org <http://thebigboss.org>
+Installed-Size: 96
+Depends: firmware (>= 3), mobilesubstrate, libactivator (>= 1.8.4~beta1)
+Filename: debs/com.rpetrich.captainhammer_0.6.1_iphoneos-arm.deb
+Size: 18892
+MD5sum: d85e11a816cc5e805fa9190f3c59351c
+SHA1: 985c062bbb2eb61cc8380aa354ba2c4ac4091e82
+SHA256: cad18951b5fe5f7dace15c0fcf77d73537e1a338a46d203221a09964bee1e2bc
+Section: Development
+Description: Simple debugging tools to enable the remote WebKit inspector (no more support for PonyDebugger)
+Tag: purpose::extension
+Author: Ryan Petrich <rpetrich+captainhammer@gmail.com>
+Dev: rpetrich
+Name: CaptainHammer
 
 Package: com.rpetrich.curiosa
 Version: 0.9~beta3
@@ -159,6 +290,24 @@ Description: Dive into SpringBoard!
  A simple tweak that shifts the wallpaper based on the device orientation
 Author: Ryan Petrich
 Name: DeepEnd
+
+Package: com.rpetrich.donotdisturbtoggle
+Version: 1.0.1~beta1
+Architecture: iphoneos-arm
+Maintainer: Ryan Petrich <rpetrich+donotdisturbtoggle@gmail.com>
+Installed-Size: 92
+Depends: mobilesubstrate (>= 0.9.3367+6), libactivator (>= 1.7.3), firmware (>= 6), com.a3tweaks.flipswitch (>= 1.0.1~beta1)
+Filename: debs/com.rpetrich.donotdisturbtoggle_1.0.1_beta1_iphoneos-arm.deb
+Size: 57172
+MD5sum: 5d3cca29b7aab3444090377c038be243
+SHA1: 40d9388f2f6ec35697363d585d280506ba8ee6b2
+SHA256: 6a13fc2a1cc3ddea718df824b059c500b80d7057c84ee77e8e163782b0717331
+Section: System
+Description: Toggle Do Not Disturb for Activator and SBSettings
+Tag: purpose::extension
+Author: Ryan Petrich <rpetrich+donotdisturbtoggle@gmail.com>
+Dev: rpetrich
+Name: Do Not Disturb Toggle
 
 Package: com.rpetrich.emphasize
 Version: 0.2.1
@@ -220,6 +369,28 @@ Depiction: http://rpetri.ch/cydia/flipcontrolcenter/beta/
 Dev: rpetrich
 Icon: file:///System/Library/CoreServices/SpringBoard.app/controlcenter.png
 Name: FlipControlCenter
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.rpetrich.gregorian
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 344
+Pre-Depends: firmware (>= 7.0), firmware (<< 7.1)
+Depends: curl
+Filename: debs/com.rpetrich.gregorian_0.2_iphoneos-arm.deb
+Size: 79944
+MD5sum: 013173ba21c08ec4e149c9e5990863e1
+SHA1: fbc68ae5ed765ca1778a66c8d39ccd801efdc41e
+SHA256: 8f39fd6b82dc61a76c72b6b8aca9fb809548f3dae3909af40eeb138817d4252a
+Section: System
+Homepage: http://rpetri.ch/cydia/gregorian/
+Description: iOS 7.1 Calendar on iOS 7.0
+Tag: purpose::uikit, role::enduser
+Author: Ryan Petrich <rpetrich+gregorian@gmail.com>
+Depiction: http://rpetri.ch/cydia/gregorian/
+Dev: rpetrich
+Name: Gregorian
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.rpetrich.iconrenamer
@@ -525,6 +696,44 @@ Description: Adds topography option to Google Maps app
 Author: Ryan Petrich
 Name: Topography for Google Maps
 
+Package: com.rpetrich.uidevicecrasher
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: Ryan Petrich <rpetrich@gmail.com>
+Installed-Size: 52
+Depends: mobilesubstrate, firmware (>= 3.0)
+Filename: debs/com.rpetrich.uidevicecrasher_0.2_iphoneos-arm.deb
+Size: 5664
+MD5sum: e5d50d1ea0dc5198cad5c8fe0a0b1bfd
+SHA1: 6c905b4776672c5b173bfa7c5947b25d4e2931ba
+SHA256: 06a34257c303a466371d44a3c309ed6229b9a5e2fc357673eea7c68080e15bae
+Section: System
+Description: Helps to debug reboot issues
+Author: Ryan Petrich <rpetrich@gmail.com>
+Dev: rpetrich
+Name: UIDeviceCrasher
+
+Package: com.rpetrich.untrackerd
+Version: 0.4
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 24
+Depends: firmware (>= 4.0), shell-cmds
+Filename: debs/com.rpetrich.untrackerd_0.4_iphoneos-arm.deb
+Size: 4852
+MD5sum: 68ad9ac44321cc1ad8c59f8b4dffa5f3
+SHA1: 780541e43d99c4d9f514c1e04a8e333acb6cc4b6
+SHA256: 46209ddfa097807b4fec3e394c45e6f9ea34bdc00dec9b602eade96a8717dfb7
+Section: System
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=untrackerdData
+Description: Continuously clean up locationd's history data
+Author: Ryan Petrich <rpetrich+untrackerd@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=untrackerdData
+Dev: rpetrich
+Name: untrackerd
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.rpetrich.wallcycler
 Version: 0.1
 Architecture: iphoneos-arm
@@ -724,6 +933,46 @@ Section: Development
 Priority: standard
 Description: GNU lexer derived from Lex
 Name: Flex
+
+Package: org.coolstar.sileo
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Pre-Depends: debianutils, dpkg (>= 1.18)
+Depends: apt (>= 1.8.0), apt-lib (>= 1.8.0-sileo), apt-key (>= 1.8.0), dpkg (>= 1.19.2-4), cydia (>= 2.2), cy+cpu.arm64, firmware(>=12.2) | org.swift.libswift (>=5.0), zsh
+Conflicts: cydia-gui (<<99.0)
+Filename: debs/org.coolstar.sileo_1.4.1_iphoneos-arm.deb
+Size: 2574984
+MD5sum: d8b865c2ba7e8ca02243b81c6abd2503
+SHA1: 2770622024a64184d51aca60be367f84826561a8
+SHA256: 9946750a25e2b7ef26089ec8aa009cdcd40e32fcf6fe112c7e769e766ce74cac
+Section: Packaging
+Priority: required
+Description: A proper APT client for iOS 11 and higher. (View this package in Sileo to see the full depiction)
+Tag: cydia::essential
+Author: Sileo Team <getsileoapp@gmail.com>
+Name: Sileo
+Sileodepiction: https://coolstar.moe/sileoassets/depictionoverride.php?package=org.coolstar.sileo
+
+Package: preferenceloader
+Version: 2.2.4~beta1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <cydia.pl@relay.howett.net>
+Installed-Size: 532
+Depends: mobilesubstrate
+Filename: debs/preferenceloader_2.2.4_beta1_iphoneos-arm.deb
+Size: 33838
+MD5sum: 61efed5a8aa8507208731da2d737c882
+SHA1: 5c180113d9fc6263cf30700a725dacb92b546218
+SHA256: d395cfb1d8dd56f984df50dc0db33746e3e1e72f311be5bad3f4235342b21b90
+Section: System
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Description: load preferences in style
+Tag: role::hacker, purpose::library
+Author: Dustin Howett <cydia.pl@relay.howett.net>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Dev: dustinhowett
+Name: PreferenceLoader
 
 Package: us.scw.afctwoadd
 Version: 1.01
