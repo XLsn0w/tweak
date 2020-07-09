@@ -1077,3 +1077,21 @@ Depiction: http://modmyi.com/info/ncpad.d.php
 Name: NCPad
 Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 
+Package: xyz.willy.zebra
+Version: 1.1~beta4-1+debug
+Architecture: iphoneos-arm
+Maintainer: Wilson Styres <wilson@styres.me>
+Installed-Size: 208
+Depends: dpkg, uikittools, firmware (>= 9.0)
+Filename: debs/zebra_1.1~beta4-1+debug_iphoneos-arm.deb
+Size: 7410
+MD5sum: fe9ce6c3ed3c647449f9094025826459
+SHA1: d2b03d530f52aed2430f51f362c177a15f8dd685
+SHA256: 6d56b9b97be652f1306583a71d8a6a5d38315c1f2f2beb4389dd4339878cfab6
+Section: Packaging
+Description: A Useful Package Manager
+Tag: compatible::9.0-13.3
+Author: Wilson Styres <wilson@styres.me>
+Depiction: https://getzbra.com/beta/depictions/xyz.willy.Zebra/
+Name: Zebra
+
