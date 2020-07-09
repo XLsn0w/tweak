@@ -74,6 +74,20 @@ Author: cemck
 Icon: file:///Library/PreferenceBundles/KillXProPrefs.bundle/icon_pro_big@3x.png
 Name: KillX Pro
 
+Package: com.gawain.LibWechatReSendVoice
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/微信转语音装B插件.deb
+Size: 8560392
+MD5sum: 22851b3c0eac383b4fd90b2308563f64
+SHA1: 640f55abef7cc7792a9bc5904d6dc7e031b91143
+SHA256: 9689b6a74b3731ca91daccd24319dea53de79c0200161545cabaed0aac869187
+Section: System
+Priority: optional
+Author: Gawain
+Name: LibWechatReSendVoice
+
 Package: com.rpetrich.actiwidget
 Version: 0.1
 Architecture: iphoneos-arm
@@ -551,6 +565,30 @@ Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/com.saurik.iphone.cve_2010_1797/
 Name: PDF Patch (CVE-2010-1797)
 
+Package: com.tigisoftware.filza
+Version: 3.6.0-38
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 27480
+Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Filename: debs/Filza 文件管理器.deb
+Size: 9278358
+MD5sum: d6d57d5bafc44e5bb86883c4640b330d
+SHA1: ca9727234aa850c2ac394d1b201eb3c70418561f
+SHA256: 8a9ea5edce0962f67d16a2983a525035d22c23c49126972bf1e00919a1a5013b
+Section: Utilities
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
+Description: File Manager for iOS. Supports iOS 7+
+Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Author: TIGI Software <satashi2009@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
+Dev: satashi2009
+Icon: file:///Applications/Filza.app/AppIcon57x57.png
+Name: Filza File Manager
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.xlsn0w.dingtalkgpsfaker
 Version: 0.0.1-1
 Architecture: iosre
@@ -653,6 +691,22 @@ Tag: purpose::daemon, role::developer
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/cycript/
 Name: Cycript
+
+Package: cydia.com.ipc.crackerxi
+Version: 1.1.16
+Architecture: iphoneos-arm
+Maintainer: c0pyn1nja
+Depends: firmware (>= 11.0)
+Filename: debs/CrackerXI砸壳.deb
+Size: 9960926
+MD5sum: 8f5b64ef7649f6bceae3c323fa9d70ef
+SHA1: d38e01e36c0c8b4442e6f460aa0b6186f879e126
+SHA256: f40c1fd4901b473efe2733d621c97295a4c1428527695bd529b6ae584e1b3cac
+Section: System
+Description: Decrypts iOS Apps
+Icon: file:///Applications/crackerxi.app/AppIcon.png
+Name: CrackerXI+
+Website: https://ipastore.me
 
 Package: flex
 Version: 2.5.35-5
