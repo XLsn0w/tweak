@@ -18,6 +18,42 @@ Dev: rpetrich
 Name: AppList
 Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
 
+Package: cn.mobgo.webgo
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Filename: debs/cn.mobgo.webgo_1.0.1_iphoneos-arm.deb
+Size: 655548
+MD5sum: f6d30f96730b56693eb83a2f09e36e22
+SHA1: 1fd6fff99dea228d369c1d351110ad5421227a5a
+SHA256: 46b460825ca68ee26f0199853f25a1566dd574d3952574746cd7c06eecf359c7
+Section: Productivity
+Priority: optional
+Homepage: http://modmyi.com/info/webgo.php
+Description: WebGo mobile navigator provides an easy way to access internet/wap sites via your cell phone only by one single click. Everybody will benefit from WebGo by being liberated from laborious input on cell phone.
+Author: MobGo Inc. <webgo@mobgo.cn>
+Depiction: http://modmyi.com/info/webgo.d.php
+Name: WebGo
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.NetVoice.NetVoice
+Version: 3.1.2
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Filename: debs/com.NetVoice.NetVoice_3.1.2_iphoneos-arm.deb
+Size: 392710
+MD5sum: 5e189b0763d4836842f15ed34d9e103f
+SHA1: 18b4e7333ed7920cc78fd3ff680764d44f20a37c
+SHA256: baefc6194b14eb3ed0c6d58dda3db4d140baadfc16c2f22c4b8a3f3a5deedf50
+Section: Social
+Priority: extra
+Homepage: http://modmyi.com/info/netvoice.php
+Description: Wirelessly Voice Chat with your friends over WiFi!
+Author: ismoothproject <cjag@me.com>
+Depiction: http://modmyi.com/info/netvoice.d.php
+Name: NetVoice
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
 Package: com.a3tweaks.flipswitch
 Version: 1.0.16~rc1
 Architecture: iphoneos-arm
@@ -42,6 +78,25 @@ Dev: flipswitch
 Icon: file:///Applications/Preferences.app/icon-table.png
 Name: Flipswitch
 
+Package: com.alexelgt.programmesguides
+Version: 1.1-2
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Pre-Depends: com.alexelgt.iguias (>= 5.2)
+Filename: debs/com.alexelgt.programmesguides_1.1-2_iphoneos-arm.deb
+Size: 20816
+MD5sum: 1d88f57737b37ffb4551b278ea33dd1f
+SHA1: 552173c070ba3039388ad8ac428710153a9f2c6b
+SHA256: b221f2ef731c0ed776c08ef9699f920b6b103db8d2f0d84c681a3e9ea9d26ad6
+Section: Addons
+Priority: extra
+Homepage: http://modmyi.com/info/guidesaboutprogrammes.php
+Description: Guide for iGuias.
+Author: alexelgt <alexelgt@gmail.com>
+Depiction: http://modmyi.com/info/guidesaboutprogrammes.d.php
+Name: Guides about programmes
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
 Package: com.arichardson.weepreferenceloader
 Version: 1.1
 Architecture: iphoneos-arm
@@ -59,6 +114,24 @@ Description: A framework to easily add preferences to the Notifications settings
 Author: Andrew Richardson <andrewr114@gmail.com>
 Depiction: http://modmyi.com/info/weepreferenceloader.d.php
 Name: WeePreferenceLoader
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.ashman.lockinfocydget
+Version: 1.1.0.1
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Pre-Depends: cydget, com.ashman.lockinfo (>= 1.1.9)
+Filename: debs/com.ashman.lockinfocydget_1.1.0.1_iphoneos-arm.deb
+Size: 4114
+MD5sum: 325940a4ae58705e7104f556a2a6791a
+SHA1: d383c810e87d7ac9dba36c13235a058ac96c4d82
+SHA256: 225f0ea40856818ede78858eb071a53f6b224988d1f668b972ef68bd4b8ac85a
+Section: Cydgets (Lock)
+Homepage: http://modmyi.com/info/lockinfocydget.php
+Description: Integrates LockInfo with Cydget
+Author: David Ashman (Stimpy5050) <dashman@gmail.com>
+Depiction: http://modmyi.com/info/lockinfocydget.d.php
+Name: LockInfo Cydget
 Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 
 Package: com.bates.lyrics
@@ -118,6 +191,24 @@ Dev: rpetrich
 Name: WiCarrier
 Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=WiCarrierDp
 
+Package: com.bxk.nationaldebtclockwp
+Version: 0.2.2
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: winterboard
+Filename: debs/com.bxk.nationaldebtclockwp_0.2.2_iphoneos-arm.deb
+Size: 75248
+MD5sum: d262bd4575b79647e822eeaf511a0731
+SHA1: 1090ebdef7f8292124eb248580855f12e7d51d49
+SHA256: da9ad0b104e7bddd3886819d9815fb55403461eedf2e4107a811c76fad132e5d
+Section: Wallpaper
+Homepage: http://modmyi.com/info/nationaldebtclockwp.php
+Description: The National Debt Clock as your Wallpaper. Ment to be used with the National Debt Clock Cydget also.
+Author: Matt Cox (BxK) <mccox93@yahoo.com>
+Depiction: http://modmyi.com/info/nationaldebtclockwp.d.php
+Name: National Debt Clock Wallpaper
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
 Package: com.cemck.killx-pro
 Version: 2.1.2
 Architecture: iphoneos-arm
@@ -135,6 +226,41 @@ Description: One swipe to kill them all!
 Author: cemck
 Icon: file:///Library/PreferenceBundles/KillXProPrefs.bundle/icon_pro_big@3x.png
 Name: KillX Pro
+
+Package: com.chinchorrospr.chinchorrospr
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Filename: debs/com.chinchorrospr.chinchorrospr_2.1_iphoneos-arm.deb
+Size: 3175152
+MD5sum: a4152d06645be2700a7439982ef022e7
+SHA1: b4d3b2ec7d9d9f502b8de90f62740f92b5646e6d
+SHA256: 17c21b3347abc8be7389f4b95928e5182b530b15859bf107be1f245c631f1aa2
+Section: Localization
+Homepage: http://modmyi.com/info/chinchorrosprcom.php
+Description: Everything you need in domestic tourism in Puerto Rico.
+Author: chinchorrospr <german@chinchorrospr.com>
+Depiction: http://modmyi.com/info/chinchorrosprcom.d.php
+Name: Chinchorrospr.com
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.coffeejay.nimbusdot
+Version: 5.0
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Filename: debs/com.coffeejay.nimbusdot_5.0_iphoneos-arm.deb
+Size: 339474
+MD5sum: 205d1adeeea3b2bf9ca5257fc6bf15ae
+SHA1: 8fb405708c7026653d5bd5a299fe2221f915d0f1
+SHA256: d15173dcb8cfe9a359c41f185d0ed8e82b14ca93f4a02897ed35069b616ad6d6
+Section: Networking
+Priority: extra
+Homepage: http://modmyi.com/info/nimbus.php
+Description: nimbus Web Browser is introduced as the new standard for mobile browsing.
+Author: coffeejay <coffeejay@me.com>
+Depiction: http://modmyi.com/info/nimbus.d.php
+Name: nimbus
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 
 Package: com.davidporterapps.ibattery
 Version: 1.0
@@ -169,6 +295,329 @@ Priority: optional
 Author: Gawain
 Name: LibWechatReSendVoice
 
+Package: com.iphonedesignz.ModernGreenBattery
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iDZ <revoiphone@gmail.com>
+Depends: winterboard
+Filename: debs/com.iphonedesignz.ModernGreenBattery_1.0_iphoneos-arm.deb
+Size: 84078
+MD5sum: 74790c78544def5db66f4c2881c35935
+SHA1: bad569c6350fcf98a8cf2eed2e639fa3efc23dba
+SHA256: 0cde3ead24914192b08a0f687768fc5b541bf4a887ce4c0b16c0f5b7bbca889e
+Section: Themes (Battery)
+Homepage: http://iPhoneDesignZ.com
+Description: This is a cool battery theme I made a while back. Check out the screenshots for a better feel of the theme!
+Depiction: http://repo.iphonedesignz.com/info/com.iphonedesignz.ModernGreenBattery.html
+Name: Modern Green Battery
+Sponsor: iPhoneDesignZ <http://iphonedesignz.com>
+
+Package: com.iphonedesignz.applebattery
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: iDZ <idzrepo@gmail.com>
+Depends: winterboard
+Filename: debs/com.iphonedesignz.applebattery_2.0_iphoneos-arm.deb
+Size: 143042
+MD5sum: 31f89dd59d7766c7e0671fcb14caeff6
+SHA1: 278dd4fc8c406aefcf48dd8d8a03a088252e791e
+SHA256: 963142317d80f4d053107a17873d16bffe30625b486d126d2dfc66a46f73b2b2
+Section: Themes (Battery)
+Homepage: http://iPhoneDesignZ.com
+Description: This battery theme replaces your boring battery loader that appears when you are charging your iphone or ipod touch!
+Author: RepoMan <idzrepo@gmail.com>
+Depiction: http://repo.iphonedesignz.com/info/com.iphonedesignz.AppleBattery.html
+Name: Apple Battery
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.iphonedesignz.bluepower
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: iDZ <idzrepo@gmail.com>
+Depends: winterboard
+Filename: debs/com.iphonedesignz.bluepower_2.0_iphoneos-arm.deb
+Size: 203416
+MD5sum: 19020d429593c09f7aeb2798365853fe
+SHA1: 574c06c8e281757ab7c2624764b74d7ab6a6f074
+SHA256: 91b0537a5bc24624aa9e17898da419722e6c2527f0da0e5145f92d16239953a5
+Section: Themes (Battery)
+Homepage: http://iPhoneDesignZ.com
+Description: Blue Power is a charging battery theme that will change the standard battery charging graphic to a blue power logo themed one.
+Author: RepoMan <idzrepo@gmail.com>
+Depiction: http://repo.iphonedesignz.com/info/com.iphonedesignz.BluePower.html
+Name: Blue Power
+Sponsor: iPhoneDesignZ <http://iphonedesignz.com>
+
+Package: com.iphonedesignz.cokebattery
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: iDZ <idzrepo@gmail.com>
+Depends: winterboard
+Filename: debs/com.iphonedesignz.cokebattery_2.0_iphoneos-arm.deb
+Size: 3100570
+MD5sum: 3e4289da8ec0458a1a95a03394540983
+SHA1: 0ed9ff6271c4e4e91990782a269f2541fe91a7ab
+SHA256: 8ac4599cb9fe42edaafc9a0fd68d1144332d0129a9493a4c025667fc7ece5a25
+Section: Themes (Battery)
+Homepage: http://iPhoneDesignZ.com
+Description: Coke battery is a charging battery theme that will change the standard battery charging graphic to a Coke themed one.
+Author: RepoMan <idzrepo@gmail.com>
+Depiction: http://repo.iphonedesignz.com/info/com.iphonedesignz.CokeBattery.html
+Name: Coke Battery
+Sponsor: iPhoneDesignZ <http://iphonedesignz.com>
+
+Package: com.iphonemodding2.3dhulkbattery
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: maXimus <maximus@iphonemodding.com>
+Depends: winterboard
+Filename: debs/com.iphonemodding2.3dhulkbattery_1.0_iphoneos-arm.deb
+Size: 3834754
+MD5sum: 75c8f5b195096f8868f890bd74214db7
+SHA1: c3ecc78fc6c79c3908507224c6921cc2fb9f48fa
+SHA256: 1b238c509628beab7bf8d629753cece97bde517db436594bc85ef6f41318afa6
+Section: Themes (Battery)
+Homepage: http://www.iphonemodding.com
+Description: 3D Hulk Battery theme that has hulk breaking out o
+Author: A.X. <music.angelo@gmail.com>
+Depiction: http://apt.iphonemodding.com/d2/3dhulkbattery/3dhulkbattery.php
+Name: 3D Hulk Battery Theme
+Sponsor: iPhoneModding <http://www.iphonemodding.com>
+
+Package: com.iphonemodding2.banebattery
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: maXimus <maximus@iphonemodding.com>
+Depends: winterboard
+Filename: debs/com.iphonemodding2.banebattery_1.0_iphoneos-arm.deb
+Size: 3358618
+MD5sum: 9bc71446ea171d9fbf0558b4537460a4
+SHA1: b90b7221f56b6edfa332e7fff1fac9f0a521b1dd
+SHA256: 3976876d2ed99acaeff6a9782a6690aba9b10c5a456528fadbb1a604ee0e3452
+Section: Themes (Battery)
+Homepage: http://www.iphonemodding.com
+Description: Bane Battery theme for Winterboard.
+Author: A.X. <music.angelo@gmail.com>
+Depiction: http://apt.iphonemodding.com/d2/banebattery/banebattery.php
+Name: Bane Battery theme
+Sponsor: iPhoneModding <http://www.iphonemodding.com>
+
+Package: com.iphonemodding2.barsbattery
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: maXimus <maximus@iphonemodding.com>
+Depends: winterboard, firmware (<<4.0)
+Filename: debs/com.iphonemodding2.barsbattery_1.0_iphoneos-arm.deb
+Size: 110430
+MD5sum: 4036d46fdc83e0da895af9e5f6b7bf1e
+SHA1: f2f06bbd818bb6210384d0d5a08bc10e74af60f5
+SHA256: 0e124c41636a92ca5b47fd4687b0a2e7d7949a8bcd91509e22ceea3ac4f192cd
+Section: Themes (Battery)
+Homepage: http://www.iphonemodding.com
+Description: Colorful bars battery theme.
+Author: omg <markstowell@hotmail.co.uk>
+Depiction: http://apt.iphonemodding.com/d2/barsbattery/barsbattery.php
+Name: Bars Battery Theme
+Sponsor: iPhoneModding <http://www.iphonemodding.com>
+
+Package: com.iphonemodding2.blackmoralbattery
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: maXimus <maximus@iphonemodding.com>
+Depends: winterboard
+Filename: debs/com.iphonemodding2.blackmoralbattery_1.0_iphoneos-arm.deb
+Size: 1683356
+MD5sum: dd2306db026f964c30345c5200192231
+SHA1: b82268d8ecfb1ba38790fb38b5da9475500af6e0
+SHA256: db2b03062d5a4bca8c297da3d1bea511630a13b9cd0581c2611664bfee992a9a
+Section: Themes (Battery)
+Homepage: http://www.iphonemodding.com
+Description: Battery theme made by TheGazetteFC.
+Author: TheGazetteFC <thegazettefanbase@hotmail.com>
+Depiction: http://apt.iphonemodding.com/d2/blackmoralbattery/blackmoralbattery.php
+Name: Black Moral Battery
+Sponsor: iPhoneModding <http://www.iphonemodding.com>
+
+Package: com.iphonemodding2.breakingbadbluemethbattery
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: maXimus <maximus@iphonemodding.com>
+Depends: winterboard
+Filename: debs/com.iphonemodding2.breakingbadbluemethbattery_1.0_iphoneos-arm.deb
+Size: 2908670
+MD5sum: b561902a4af520c2fb80f501fb71a206
+SHA1: 5c3b0b732bd913a15bacd336335b28592e6b3278
+SHA256: 7e06d93863e41dd9f2904b060eb352def78a08dd2794a3a22ac1dfcd9a91ea80
+Section: Themes (Battery)
+Homepage: http://www.iphonemodding.com
+Description: Breaking Bad Blue Meth Battery theme.
+Author: A.X. <music.angelo@gmail.com>
+Depiction: http://apt.iphonemodding.com/d2/breakingbadbluemethbattery/breakingbadbluemethbattery.php
+Name: Breaking Bad Blue Meth Battery
+Sponsor: iPhoneModding <http://www.iphonemodding.com>
+
+Package: com.iphonemodding2.carvedbonsai
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: maXimus <maximus@iphonemodding.com>
+Depends: winterboard
+Filename: debs/com.iphonemodding2.carvedbonsai_1.1_iphoneos-arm.deb
+Size: 960748
+MD5sum: 0c5e43decb8076bd55d9931c38cdce61
+SHA1: b9d3b5527ee300d59b511c98bd3d0a07c1db39f1
+SHA256: cb5260583081b24f15ef448bc3a39ea13423027314e3d7b17ac3e009909e7e71
+Section: Themes (Battery)
+Homepage: http://www.iphonemodding.com
+Description: A Bonsai tree carved out of a stack of books!
+Author: Gaetano826 <gaetano826@gmail.com>
+Depiction: http://apt.iphonemodding.com/d2/carvedbonsai/carvedbonsai.php
+Name: Carved Bonsai Battery
+Sponsor: iPhoneModding <http://www.iphonemodding.com>
+
+Package: com.iphonemodding2.carvedbonsaibatteryhd
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: maXimus <maximus@iphonemodding.com>
+Depends: winterboard
+Filename: debs/com.iphonemodding2.carvedbonsaibatteryhd_1.0_iphoneos-arm.deb
+Size: 2634266
+MD5sum: cb11c0a36564848d40290da5db4d0fb0
+SHA1: 2697b52b6ded3d99ee917c1b67f79964558f26fb
+SHA256: a875ce233603c5cd782c8127eaabd8877582a8065cb8d27e7064b5dccbb9d3ed
+Section: Themes (Battery)
+Homepage: http://www.iphonemodding.com
+Description: A stack of books carved into a Bonsai tree.
+Author: gaetano826 <gaetano826@gmail.com>
+Depiction: http://apt.iphonemodding.com/d2/carvedbonsaibatteryhd/carvedbonsaibatteryhd.php
+Name: Carved Bonsai Battery HD
+Sponsor: iPhoneModding <http://www.iphonemodding.com>
+
+Package: com.iphonemodding2.chrisbattery
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: maXimus <maximus@iphonemodding.com>
+Depends: winterboard
+Filename: debs/com.iphonemodding2.chrisbattery_1.0_iphoneos-arm.deb
+Size: 77054
+MD5sum: af92eda39a5a28277b67b52e8dd54b21
+SHA1: 732c3b998fdf19ba785c75066f8488c4ed2ae102
+SHA256: d1f5c6a821af0c5b0cd5fe55ee56468c4094f2c5b61217a9e2c91be734223e66
+Section: Themes (Battery)
+Homepage: http://www.iphonemodding.com
+Description: Cool battery theme i made while i was bored.
+Author: ChrisL <Chrisl17@live.com>
+Depiction: http://apt.iphonemodding.com/d2/chrisbattery/chrisbattery.php
+Name: Chris Battery
+Sponsor: iPhoneModding <http://www.iphonemodding.com>
+
+Package: com.iphonemodding2.darkknight2012battery
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: maXimus <maximus@iphonemodding.com>
+Depends: winterboard
+Filename: debs/com.iphonemodding2.darkknight2012battery_1.0_iphoneos-arm.deb
+Size: 2481206
+MD5sum: b4a3127fdc96aab1af8d56459769b1d2
+SHA1: 08624b2415eef5da1f527e9bfbb4be572cdf178e
+SHA256: c884f9a4019a3dd4543eacfcd34d944386e23f05841fb5b9073efa2760404057
+Section: Themes (Battery)
+Homepage: http://www.iphonemodding.com
+Description: Dark Knight 2012 battery theme for Winterboard.
+Author: A.X. <music.angelo@gmail.com>
+Depiction: http://apt.iphonemodding.com/d2/darkknight2012battery/darkknight2012battery.php
+Name: Dark Knight 2012 Battery Theme
+Sponsor: iPhoneModding <http://www.iphonemodding.com>
+
+Package: com.iphonemodding2.diamondskullbattery
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: maXimus <maximus@iphonemodding.com>
+Depends: winterboard
+Filename: debs/com.iphonemodding2.diamondskullbattery_1.0_iphoneos-arm.deb
+Size: 3059714
+MD5sum: 46b3227b97f1f9d066b09a207e71097d
+SHA1: 77f8247518db42b35f64cf4e511680036ac8a74b
+SHA256: a920ffd060f663b2068d2d49de69ddda09b7cd5486f121f7d28fccf633b0b9c2
+Section: Themes (Battery)
+Homepage: http://www.iphonemodding.com
+Description: Diamond Skull Battery Theme for Winterboard (iOS5)
+Author: A.X. <music.angelo@gmail.com>
+Depiction: http://apt.iphonemodding.com/d2/diamondskullbattery/diamondskullbattery.php
+Name: Diamond Skull Battery Theme
+Sponsor: iPhoneModding <http://www.iphonemodding.com>
+
+Package: com.iphonemodding2.drpepperbattery
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: maXimus <maximus@iphonemodding.com>
+Depends: winterboard
+Filename: debs/com.iphonemodding2.drpepperbattery_1.0_iphoneos-arm.deb
+Size: 617672
+MD5sum: 45458dfa5458bb7b4fc5eaf82013df10
+SHA1: e333a9c697f83a42b3c0a08e15afcd1ce50539e4
+SHA256: cd6a76b86c60e5af756787437c945f52cf2e017cd2f7b8613c2dfbf7c9410461
+Section: Themes (Battery)
+Homepage: http://www.iphonemodding.com
+Description: Dr. Pepper battery theme.
+Author: omg <markstowell@hotmail.co.uk>
+Depiction: http://apt.iphonemodding.com/d2/drpepperbattery/drpepperbattery.php
+Name: Dr. Pepper Battery Theme
+Sponsor: iPhoneModding <http://www.iphonemodding.com>
+
+Package: com.iphonemodding2.freddykruegerbattery
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: maXimus <maximus@iphonemodding.com>
+Depends: winterboard
+Filename: debs/com.iphonemodding2.freddykruegerbattery_1.0_iphoneos-arm.deb
+Size: 3637386
+MD5sum: 07a549cab3f91abbd109cfe5e0b26f1b
+SHA1: 92d1b56d90e757c5de2809c1d3b0e713b391f668
+SHA256: bb5aaf728b28f3b5d07d3bd7aa1aeb24a9e88b7b9c51dd98744143d8cb7ab940
+Section: Themes (Battery)
+Homepage: http://www.iphonemodding.com
+Description: Freddy Krueger battery theme for Winterboard.
+Author: A.X. <music.angelo@gmail.com>
+Depiction: http://apt.iphonemodding.com/d2/freddykruegerbattery/freddykruegerbattery.php
+Name: Freddy Krueger Battery Theme
+Sponsor: iPhoneModding <http://www.iphonemodding.com>
+
+Package: com.iphonemodding2.fullbirdcolonelbattery
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: maXimus <maximus@iphonemodding.com>
+Depends: winterboard
+Filename: debs/com.iphonemodding2.fullbirdcolonelbattery_1.0_iphoneos-arm.deb
+Size: 947072
+MD5sum: 94280691c035f0c4acb8faafbf3ca308
+SHA1: a02d83c576a03554976659da66102f36dded0196
+SHA256: 1eec5c89b79f3f4c7dce747d6eb4a74acf84ed2361631ffffec8c10055f5a19e
+Section: Themes (Battery)
+Homepage: http://www.iphonemodding.com
+Description: Color Changing Full Bird Colonel Battery.
+Author: Diminback <diminback@gmail.com>
+Depiction: http://apt.iphonemodding.com/d2/fullbirdcolonelbattery/fullbirdcolonelbattery.php
+Name: Full Bird Colonel Battery
+Sponsor: iPhoneModding <http://www.iphonemodding.com>
+
+Package: com.iphonemodding2.hulkbattery
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: maXimus <maximus@iphonemodding.com>
+Depends: winterboard
+Filename: debs/com.iphonemodding2.hulkbattery_1.0_iphoneos-arm.deb
+Size: 3834688
+MD5sum: 40d314259d4897699e2fa600e7ffa319
+SHA1: 8f03390a729c1ced733f0183345f5e3994591ff1
+SHA256: 4126802b5ccf8d7cd61896c4bb05babdf13ebcaafda00bbe2026f6505c0e51d2
+Section: Themes (Battery)
+Homepage: http://www.iphonemodding.com
+Description: Hulk battery theme for winterboard (for iOS5)
+Author: A.X. <music.angelo@gmail.com>
+Depiction: http://apt.iphonemodding.com/d2/hulkbattery/hulkbattery.php
+Name: Hulk Battery Theme
+Sponsor: iPhoneModding <http://www.iphonemodding.com>
+
 Package: com.iphonemodding2.insanedrpepper
 Version: 1.0
 Architecture: iphoneos-arm
@@ -187,6 +636,168 @@ Depiction: http://apt.iphonemodding.com/d2/insanedrpepper/insanedrpepper.php
 Name: Insane Dr. Pepper
 Sponsor: iPhoneModding <http://www.iphonemodding.com>
 
+Package: com.iphonemodding2.invertedbattery
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: maXimus <maximus@iphonemodding.com>
+Depends: winterboard
+Filename: debs/com.iphonemodding2.invertedbattery_1.0_iphoneos-arm.deb
+Size: 270860
+MD5sum: ed0ed216d0d1519f3fd09c8f8008cd24
+SHA1: add8715becbc0a349dd91ad521745f5ac84de95c
+SHA256: 0164a20f756b746fefc4a2115846ef58bd9a527611bf81eacf32599acf96b82d
+Section: Themes (Battery)
+Homepage: http://www.iphonemodding.com
+Description: Inverted battery theme.
+Author: omg <markstowell@hotmail.co.uk>
+Depiction: http://apt.iphonemodding.com/d2/invertedbattery/invertedbattery.php
+Name: Inverted Battery Theme
+Sponsor: iPhoneModding <http://www.iphonemodding.com>
+
+Package: com.iphonemodding2.khakibattery
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: maXimus <maximus@iphonemodding.com>
+Depends: winterboard
+Filename: debs/com.iphonemodding2.khakibattery_1.0_iphoneos-arm.deb
+Size: 252750
+MD5sum: feb297ea518dc8411b54fc3225fca59e
+SHA1: 6e869cc32696bee0575dadd24fe8dddb8c3e6f76
+SHA256: 8a4a0317b64d10a70bfd453db24ec422eff2e197151fdb99b1b766149da1b2a0
+Section: Themes (Battery)
+Homepage: http://www.iphonemodding.com
+Description: Khaki battery theme for winterboard.
+Author: omg <markstowell@hotmail.co.uk>
+Depiction: http://apt.iphonemodding.com/d2/khakibattery/khakibattery.php
+Name: Khaki Battery Theme
+Sponsor: iPhoneModding <http://www.iphonemodding.com>
+
+Package: com.iphonemodding2.lastkingsbattery
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: maXimus <maximus@iphonemodding.com>
+Depends: winterboard
+Filename: debs/com.iphonemodding2.lastkingsbattery_1.0_iphoneos-arm.deb
+Size: 1639330
+MD5sum: a7868f36e1066fa699b700c37f8c61a4
+SHA1: 68d621a311bbf266def835a9ac8afc3a4ac79100
+SHA256: eb572232f6c0f8053a6201a3bc96e8c40dfab479d4b3fb05aee813413ba22c0b
+Section: Themes (Battery)
+Homepage: http://www.iphonemodding.com
+Description: Last Kings Battery Theme for winterboard...(for iO
+Author: A.X. <music.angelo@gmail.com>
+Depiction: http://apt.iphonemodding.com/d2/lastkingsbattery/lastkingsbattery.php
+Name: Last Kings Battery Theme
+Sponsor: iPhoneModding <http://www.iphonemodding.com>
+
+Package: com.iphonemodding2.rainbowbatterycharge
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: maXimus <maximus@iphonemodding.com>
+Depends: winterboard
+Filename: debs/com.iphonemodding2.rainbowbatterycharge_1.0_iphoneos-arm.deb
+Size: 8384
+MD5sum: c4f3c6e20a249a4d9c873dffeccfc13e
+SHA1: 37b766167cf98501fddb7143895a18f95f239096
+SHA256: e9d08c28c3720a6955408d47337250fdb1aa453718ce5973d5f4b07a7061bac7
+Section: Themes (Battery)
+Homepage: http://www.iphonemodding.com
+Description: Rainbow battery charger theme for Winterboard.
+Author: humza6951 <mhumzatanveer@yahoo.com>
+Depiction: http://apt.iphonemodding.com/d2/rainbowbatterycharge/rainbowbatterycharge.php
+Name: Rainbow Battery Charge
+Sponsor: iPhoneModding <http://www.iphonemodding.com>
+
+Package: com.iphonemodding2.spidermanwebbattery
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: maXimus <maximus@iphonemodding.com>
+Depends: winterboard
+Filename: debs/com.iphonemodding2.spidermanwebbattery_1.0_iphoneos-arm.deb
+Size: 1568196
+MD5sum: 57de5b5077f41598f28e5016e4ce6de5
+SHA1: 8252e163f9c8f44790dd883ab4cda70d8f114870
+SHA256: dccfc45a3db19fc972dbbc1284cbd92b51fa688a8a7826791849f2831ef22d12
+Section: Themes (Battery)
+Homepage: http://www.iphonemodding.com
+Description: Spiderman Battery theme has web inside battery wit
+Author: A.X. <music.angelo@gmail.com>
+Depiction: http://apt.iphonemodding.com/d2/spidermanwebbattery/spidermanwebbattery.php
+Name: Spiderman Web Battery
+Sponsor: iPhoneModding <http://www.iphonemodding.com>
+
+Package: com.iphonemodding2.tapbattery
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: maXimus <maximus@iphonemodding.com>
+Depends: winterboard, iphonemodding.com
+Filename: debs/com.iphonemodding2.tapbattery_1.0_iphoneos-arm.deb
+Size: 1979094
+MD5sum: 57b7dd83954931a9242e84623073c67e
+SHA1: c21ddca5f84ef0e5d0108244ac13c09a924248b4
+SHA256: da936cea0044571ad3cd8d467bf923bfeb1b62589f14e081be410325b539ae19
+Section: Themes (Battery)
+Homepage: http://www.iphonemodding.com
+Description: A battery logo I made for The Alexis Project or ta
+Author: Dwayne <dwaynecon@me.com>
+Depiction: http://apt.iphonemodding.com/d2/tapbattery/tapbattery.php
+Name: taP Battery Logo
+Sponsor: iPhoneModding <http://www.iphonemodding.com>
+
+Package: com.iphonemodding2.xrayrosebattery
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: maXimus <maximus@iphonemodding.com>
+Depends: winterboard
+Filename: debs/com.iphonemodding2.xrayrosebattery_1.0_iphoneos-arm.deb
+Size: 78792
+MD5sum: 5fd20553beb81e08da23b4e16fb04bb4
+SHA1: 4f3b752701aa48dcedd8d50fb3b97af1685e0f42
+SHA256: f7f88836a5e703543ac962c6bd365a0a2c387819de921a9a0651448f83847299
+Section: Themes (Battery)
+Homepage: http://www.iphonemodding.com
+Description: An xray rose that blooms before your eyes as your battery charges. Nice...
+Author: Gaetano826 <gaetano826@gmail.com>
+Depiction: http://apt.iphonemodding.com/d2/xrayrosebattery/xrayrosebattery.php
+Name: Xray Rose Battery
+Sponsor: iPhoneModding <http://www.iphonemodding.com>
+
+Package: com.iphonemodding2.xrayskullbattery
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: maXimus <maximus@iphonemodding.com>
+Depends: winterboard
+Filename: debs/com.iphonemodding2.xrayskullbattery_1.0_iphoneos-arm.deb
+Size: 425276
+MD5sum: f65ff5d027f5c65eb472c0ccb4fe2a56
+SHA1: a627c62a5427d3122a0399179691354112b047b2
+SHA256: 52e976340f95036651241b4cb09e7f4ed01854a2ca128be415fd5a2afcf46261
+Section: Themes (Battery)
+Homepage: http://www.iphonemodding.com
+Description: An xray of a skull that starts off as a faint red to a midpoint green to a fully charged blue xray. Pretty cool battery theme.
+Author: Gaetano826 <gaetano826@gmail.com>
+Depiction: http://apt.iphonemodding.com/d2/xrayskullbattery/xrayskullbattery.php
+Name: Xray Skull Battery
+Sponsor: iPhoneModding <http://www.iphonemodding.com>
+
+Package: com.iphonemodding2.xrayskullcolors
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: maXimus <maximus@iphonemodding.com>
+Depends: winterboard
+Filename: debs/com.iphonemodding2.xrayskullcolors_1.0_iphoneos-arm.deb
+Size: 650280
+MD5sum: bbe6fb713234c9f5cdd4d78f3155a958
+SHA1: 5f6106bb32a9faa87b728a90a022d38223525b04
+SHA256: 67c2703d91c6bfa153bf66cc7092a18bd3825f7e9ca1298fee293a0285a39ff9
+Section: Themes (Battery)
+Homepage: http://www.iphonemodding.com
+Description: An xray skull with brain that changes from red to original to green for a full charge. Only the brain matter changes colors. It shows a smooth transition. Very Very Nice.
+Author: Gaetano826 <gaetano826@gmail.com>
+Depiction: http://apt.iphonemodding.com/d2/xrayskullcolors/xrayskullcolors.php
+Name: Xray Skull Colors Theme
+Sponsor: iPhoneModding <http://www.iphonemodding.com>
+
 Package: com.iphonoyid.pokemonstyle
 Version: 1.0
 Architecture: iphoneos-arm
@@ -200,6 +811,477 @@ Section: Theme
 Description: Change All Style PokemonGo
 Author: iPhonoYiD
 Name: PokemonStyle
+
+Package: com.ipr.ios4misssmartypantsfont
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: GlamourThemes.net <louglamourthemes22@gmail.com>
+Depends: com.ipr.bytafont
+Filename: debs/com.ipr.ios4misssmartypantsfont_1.0_iphoneos-arm.deb
+Size: 5137718
+MD5sum: 2b1d1d2cd51463bff53d76b8d68c5654
+SHA1: 344ccf2035f3d3ac5b6aa640d1e1d99ce798fb84
+SHA256: aff98f7e013d43549522093ab0647068217dff7b460e424515bfcbdfac7d218e
+Section: Fonts
+Description: BytaFont font by GlamourThemes.net
+Author: GlamourThemes.net <louglamourthemes22@gmail.com>
+Depiction: http://repo.iphoneruler.net/fontdepiction_ios4.php?Name=Miss%20Smarty%20Pants
+Name: Miss Smarty Pants Font
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.jhon.macwidget
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Filename: debs/com.jhon.macwidget_0.0.1_iphoneos-arm.deb
+Size: 3530144
+MD5sum: c3dce12d864c8b09132295c072e2fef4
+SHA1: 4bc03b65b03ec7f53a4a7d348e18297dd16f5c53
+SHA256: cba3a4ea4eabcbc240df477a6ffe353dab7ae9fffc03354d745d8dbb9f4892a1
+Section: Widgets
+Homepage: http://modmyi.com/info/macwidget.php
+Description: Fun widget (iWidgets) inspired by the Finder in Mac OS X
+Author: JhoniPhone4 <jhon@iphone4.fr>
+Depiction: http://modmyi.com/info/macwidget.d.php
+Icon: file:///var/mobile/Library/iWidgets/Mac_Widget/Mac_Widget.png
+Name: Mac Widget
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.kobisnir.fakeemail
+Version: 4.7
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: mobilesubstrate
+Filename: debs/com.kobisnir.fakeemail_4.7_iphoneos-arm.deb
+Size: 665980
+MD5sum: 88e2ba818dee12e46c90212a4e8fd390
+SHA1: 0a24baab98b1876a9c48b947ebde78a58a27661f
+SHA256: 137d565383a8e04322811c2681694e847a0d558f78af50dafdde31ccb93897a4
+Section: Applications
+Homepage: http://modmyi.com/info/fakeemail.php
+Description: Simply set the fake email details and send it to anyone you like without reveling your true identity!!!
+Author: ioslinks <kobisn@icloud.com>
+Depiction: http://modmyi.com/info/fakeemail.d.php
+Name: Fake Email
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.litteral.calculatorforvelox
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: firmware (>= 6.0), com.apextweaks.velox
+Filename: debs/com.litteral.calculatorforvelox_1.1_iphoneos-arm.deb
+Size: 1090058
+MD5sum: 6bc3072ee496338bd0e9242b959fa05f
+SHA1: ed25fea8826f83fd208f49f2bb4408553607d7f3
+SHA256: e3b63c5af96b342adf2addff420d68a177b5110c0a5be58a051253e15a58673d
+Section: App Addons
+Priority: extra
+Homepage: http://modmyi.com/info/calculatorforvelox.php
+Description: A Calculator folder for Velox!
+Author: Maxhasadhd <maxlitteral@gmail.com>
+Depiction: http://modmyi.com/info/calculatorforvelox.d.php
+Name: Calculator for Velox
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.modmyi.2001rainbowbatteryhd
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: winterboard, firmware (>= 4.0)
+Filename: debs/com.modmyi.2001rainbowbatteryhd_1.0_iphoneos-arm.deb
+Size: 162512
+MD5sum: 810d888e16fd471d712368de3fb7ccb9
+SHA1: e4c94b7467f5220a53380230e47c2f45ba3b153a
+SHA256: 4c4df0466f09c3b44b22718f6eaf443c5a6cdbd591c787c1c3eeb9c344ac93c1
+Section: Themes (Battery)
+Homepage: http://modmyi.com/info/2001rainbowbatteryhd.php
+Description: 2001 Rainbow Battery, updated for iPhone 4's retina display.
+Author: teger2 <aanews@me.com>
+Depiction: http://modmyi.com/info/2001rainbowbatteryhd.d.php
+Name: 2001 Rainbow Battery HD
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.modmyi.330dbmwbattery
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: winterboard
+Filename: debs/com.modmyi.330dbmwbattery_1.0_iphoneos-arm.deb
+Size: 2321704
+MD5sum: a5460beb7737ad52297698068ecabd86
+SHA1: d9ee5cb0269a36dd50ef0f759bd80778bea8c6fa
+SHA256: 72fd07fd3b6ead4a3b0004eb05f415773281cbef7e5da7c7d6147eb72d59acc7
+Section: Themes (Battery)
+Homepage: http://modmyi.com/info/330dbmwbattery.php
+Description: BMW 330d lockscreen Battery
+Author: 19jamo82 <iphone19jamo82@yahoo.co.uk>
+Depiction: http://modmyi.com/info/330dbmwbattery.d.php
+Name: 330 D BMW Battery
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.modmyi.3dgaugehdreadybykexan
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: winterboard, firmware (>= 4.0)
+Filename: debs/com.modmyi.3dgaugehdreadybykexan_1.0_iphoneos-arm.deb
+Size: 6151810
+MD5sum: 8f839a57a1b0055ff3d26a2e906da058
+SHA1: 0229d3c61df60c4f99b33558540ac4cad1457b19
+SHA256: b327cd33668877fbf119a562c5ad93455913050ba84e382617024b4b4496779b
+Section: Themes (Battery)
+Homepage: http://modmyi.com/info/3dgaugehdreadybykexan.php
+Description: 3d Fuelgauge as a battery indicator.
+Author: kexan <kexan@hotmail.com>
+Depiction: http://modmyi.com/info/3dgaugehdreadybykexan.d.php
+Name: 3d Gauge HDready by kexan
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.modmyi.3hdbattery
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: winterboard
+Filename: debs/com.modmyi.3hdbattery_1.0.0_iphoneos-arm.deb
+Size: 1704530
+MD5sum: d77f0e54dc6ca64aa91b0e9b83f79af0
+SHA1: 422ce80ddb99d076ec7374ec675bc77bc25d0573
+SHA256: 72b5dce0aba7c1c5407608e80eb443b74a03acec4efb492b61df13dc547c1d84
+Section: Themes (Battery)
+Homepage: http://modmyi.com/info/3hdbattery.php
+Description: A THREE (UK mobile provider) battery theme for iPhone 4 and iPhone 4s.
+Author: UpdateiT <info@updateit.org>
+Depiction: http://modmyi.com/info/3hdbattery.d.php
+Name: 3 HD Battery
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.modmyi.3veryfunnylockscreenbackgrounds
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: winterboard
+Filename: debs/com.modmyi.3veryfunnylockscreenbackgrounds_1.0_iphoneos-arm.deb
+Size: 122308
+MD5sum: ecc38dcc6196548dbe4bb3ac39bbd8a2
+SHA1: 993bebba500531686dc8b5cc7100304b569e635f
+SHA256: c0c908c676aba1251bc4085d56a6b34575cc64bc0d208939f80e5374f20c4216
+Section: Themes (Battery)
+Homepage: http://modmyi.com/info/3veryfunnylockscreenbackgrounds.php
+Description: 3 very funny Lockscreen backgrounds.
+Author: Joe Cottam <joe.cottam@gmail.com>
+Depiction: http://modmyi.com/info/3veryfunnylockscreenbackgrounds.d.php
+Name: 3 Very Funny Lockscreen Backgrounds
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.modmyi.4cellbatteryhd
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: winterboard
+Filename: debs/com.modmyi.4cellbatteryhd_1.0_iphoneos-arm.deb
+Size: 933776
+MD5sum: 5659c9f1fd18bfc49c2f1ec59eec1a2b
+SHA1: 32770ebabc60bc5313ceca95c0b53e85d80f4433
+SHA256: 2302fa7450d4ec610977a35e1b10ea600450a0cbea18d63cf774620de9853ae5
+Section: Themes (Battery)
+Homepage: http://modmyi.com/info/4cellbatteryhd.php
+Description: Instead of the 1 battery charging, you have the original Apple battery charging.
+Author: TheHippy <danny@hearnah.com>
+Depiction: http://modmyi.com/info/4cellbatteryhd.d.php
+Name: 4 Cell Battery HD
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.modmyi.4starbattery
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: winterboard
+Filename: debs/com.modmyi.4starbattery_2.0_iphoneos-arm.deb
+Size: 598152
+MD5sum: 789b8d8843d82e5c76273cd3f9b56d6c
+SHA1: 9f30373fa21f600d1d01ae7d8a75ff88b393af65
+SHA256: 5c2105553fb1b272efd0b271354a3d51a6089a0d997d63da24b6fd271fcd89be
+Section: Themes (Battery)
+Homepage: http://modmyi.com/info/4starbattery.php
+Description: Fourstar Clothing Company battery theme. For use with WinterBoard.
+Author: SENO <seno@seno.ca>
+Depiction: http://modmyi.com/info/4starbattery.d.php
+Name: Fourstar Battery
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.modmyi.6statusbarbatterycolorsforios4ampiphone4
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: winterboard
+Filename: debs/com.modmyi.6statusbarbatterycolorsforios4ampiphone4_1.0_iphoneos-arm.deb
+Size: 35244
+MD5sum: a1d0cb56dffb0baf2ba5e2102baa2700
+SHA1: 1558f3e74b9dcf8ba8b4e8a320c69b89511d5756
+SHA256: 3250a48864548ec4a48238ad75a0ccc9558b7aa3c950f1b0ef77e0db7518fcbd
+Section: Themes (Battery)
+Homepage: http://modmyi.com/info/6statusbarbatterycolorsforios4ampiphone4.php
+Description: iOS 4 multi colored battery indicator theme.
+Author: RonHC <huaman.arnold@yahoo.com>
+Depiction: http://modmyi.com/info/6statusbarbatterycolorsforios4ampiphone4.d.php
+Name: 6 Status Bar Battery Colors for iOS4 & iPhone 4
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.modmyi.aabatteryampslider
+Version: 3.0
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: winterboard
+Filename: debs/com.modmyi.aabatteryampslider_3.0_iphoneos-arm.deb
+Size: 1465900
+MD5sum: 2c4bb2d5449d699e4739b390985d87b8
+SHA1: 3dcd4fa6af6a1eb90fa666d69e0d12303343223b
+SHA256: f8c379257cd648432890fcd6e6881469c0df78d2840e5f129f3209234a0189b1
+Section: Themes (Battery)
+Priority: extra
+Homepage: http://modmyi.com/info/aabatteryampslider.php
+Description: American Airlines Battery and sliders for Iphone 3G and 3GS.
+Author: ngeoffrey <ngeoffrey@msn.com>
+Depiction: http://modmyi.com/info/aabatteryampslider.d.php
+Name: AA Battery & Slider
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.modmyi.absinthejbsdbattery
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: winterboard
+Filename: debs/com.modmyi.absinthejbsdbattery_1.1.0_iphoneos-arm.deb
+Size: 715224
+MD5sum: 36b423192d02db2cdcb7a20d9069f79d
+SHA1: f0966f1f8348472e9e0564a811bd047ad53d5415
+SHA256: d31ad962366b0c7d71f23771c9e4c8acd5b52d9b0563f136c0be7b6f8f213663
+Section: Themes (Battery)
+Priority: extra
+Homepage: http://modmyi.com/info/absinthejbsdbattery.php
+Description: An ABSINTHE jailbreak battery theme for SD devices such as iPhone 3GS.
+Author: UpdateiT <info@updateit.org>
+Depiction: http://modmyi.com/info/absinthejbsdbattery.d.php
+Name: Absinthe JB SD Battery
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.modmyi.abyssbattery
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: winterboard
+Filename: debs/com.modmyi.abyssbattery_1.0_iphoneos-arm.deb
+Size: 1157310
+MD5sum: d93039043c6eb95d69936a12ce1e996e
+SHA1: 95226565f6e2cacc379a7d68a6ca0eab69259ec8
+SHA256: 09f348edf3eda497c1b530b921ae534feb635cef3294506d2594377edadc33ca
+Section: Themes (Battery)
+Homepage: http://modmyi.com/info/abyssbattery.php
+Description: The Ultimate, simple, Abyss Battery Charger
+Author: skullflag44 <skullflag44@gmail.com>
+Depiction: http://modmyi.com/info/abyssbattery.d.php
+Name: Abyss Battery
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.modmyi.acdcbattery
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: winterboard
+Filename: debs/com.modmyi.acdcbattery_1.0_iphoneos-arm.deb
+Size: 433996
+MD5sum: da6e8f9db60f5b547449a41027e0d439
+SHA1: f0470e8672a505a3892c71dc0ced8455f6281636
+SHA256: d03de075a87fd19900943ba0e3b0d0190bfba0bfec0b77afd604c05f6561771c
+Section: Themes (Battery)
+Homepage: http://modmyi.com/info/acdcbattery.php
+Description: AC/DC battery.
+Author: XxAlziexX <allycat815@yahoo.com>
+Depiction: http://modmyi.com/info/acdcbattery.d.php
+Name: AC/DC Battery
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.modmyi.acmilanbattery
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: winterboard
+Filename: debs/com.modmyi.acmilanbattery_1.0_iphoneos-arm.deb
+Size: 1198174
+MD5sum: 31932e01b0d29298578bd3acc895c22b
+SHA1: e8ff49eced5276dc5add2f279584b6059331001c
+SHA256: 051e94daa89985c95fdf90f172af66f65d2b0409da59308756ab27af135f200a
+Section: Themes (Battery)
+Homepage: http://modmyi.com/info/acmilanbattery.php
+Description: Ac Milan lockscreen Battery.
+Author: 19jamo82 <iphone19jamo82@yahoo.co.uk>
+Depiction: http://modmyi.com/info/acmilanbattery.d.php
+Name: Ac Milan Battery
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.modmyi.aconversebatterytheme
+Version: 6.1.2
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: winterboard
+Filename: debs/com.modmyi.aconversebatterytheme_6.1.2_iphoneos-arm.deb
+Size: 555628
+MD5sum: 37025b01fbb35645802f6f4f8357474c
+SHA1: 145b462c4faeeb4ab027097612fa51757e7b90a9
+SHA256: 846562c276f57942479217388996ef444f10ee4262377b03461bff820f0e6eec
+Section: Themes (Battery)
+Homepage: http://modmyi.com/info/aconversebatterytheme.php
+Description: A Converse battery theme
+Author: RAN@FOX <ranafox_x@yahoo.com>
+Depiction: http://modmyi.com/info/aconversebatterytheme.d.php
+Name: A Converse Battery Theme
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.modmyi.adidasbattery
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: winterboard
+Filename: debs/com.modmyi.adidasbattery_1.0_iphoneos-arm.deb
+Size: 693142
+MD5sum: f310bcf77a378bac9771b2a80b5962f0
+SHA1: 0898093f0ebcc942df108173bacbfc26467eb9f2
+SHA256: 4c93deafc8915d93ccd91d6811fb7548b5ab6b2ab1e1012a793ad00167dd689e
+Section: Themes (Battery)
+Homepage: http://modmyi.com/info/adidasbattery.php
+Description: This adadis battery looks really good, works on sd device.
+Author: 19jamo82 <iphone19jamo82@yahoo.co.uk>
+Depiction: http://modmyi.com/info/adidasbattery.d.php
+Name: Adidas Battery
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.modmyi.airbagbattery
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: winterboard
+Filename: debs/com.modmyi.airbagbattery_1.0_iphoneos-arm.deb
+Size: 702108
+MD5sum: bc93249c6d4146e827e21160a6f5ee64
+SHA1: 01a07d72b578d5ff6670d78e1a8ee911612978b2
+SHA256: 15b106d229910747a529a4fdda6188f049dce669589e8710355d76cc7a0cb8d0
+Section: Themes (Battery)
+Homepage: http://modmyi.com/info/airbagbattery.php
+Description: Here's a slam specialty bag transformed into a battery, please donate to my PayPal airbagjoe23@yahoo.com - I'll take requests. For use with WinterBoard.
+Author: airbagjoe <airbagjoe@yahoo.com>
+Depiction: http://modmyi.com/info/airbagbattery.d.php
+Name: Air Bag Battery
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.modmyi.arabickeyboarddecorated
+Version: 3.0-1
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Filename: debs/com.modmyi.arabickeyboarddecorated_3.0-1_iphoneos-arm.deb
+Size: 5644
+MD5sum: 7217933e2cd8ae228166819e62b56f6f
+SHA1: 81e72bd23a60d6df0f465a471f3e9167f2427433
+SHA256: 0892464f80e48808ab4f4ce9bcde62e5b3bdc93d08825cfc4ab984fecd1e117d
+Section: Keyboards
+Priority: extra
+Homepage: http://modmyi.com/info/arabickeyboarddecorated.php
+Description: Add decorated letters of the keyboard [Arabic]
+Author: CoOoL_BoY <coool_boy@me.com>
+Depiction: http://modmyi.com/info/arabickeyboarddecorated.d.php
+Name: Arabic Keyboard Decorated
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.modmyi.cosmoterocarrierbundle
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Filename: debs/com.modmyi.cosmoterocarrierbundle_1.0_iphoneos-arm.deb
+Size: 7744
+MD5sum: c7ea34759fc03f1e75c1f94a783e1ea9
+SHA1: 7fa0a23d758c2ee299db09529b170d58432d925b
+SHA256: 00b7fdd847ee1549265c878af02a60ce9058ec5b0172b8ad86d32c3218882444
+Section: Carrier Bundles
+Homepage: http://modmyi.com/info/cosmoterocarrierbundle.php
+Description: [Romana] Acest pachet este strict pt. reteaua Cosmote Romania. Acest pachet contine urmatoarele: - Logo - Activare WAP - Conexiune GPRS - Servicii Cosmote - etc. [English] This package is strictly for. Cosmote Romania. This package contains the following: - Logo - WAP Activation - GPRS - Cosmote Services - Etc.
+Author: Artur Grigor <arturgrigor@gmail.com>
+Depiction: http://modmyi.com/info/cosmoterocarrierbundle.d.php
+Name: Cosmote RO Carrier Bundle
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.modmyi.ios4multitasktoggler
+Version: 1.2-2
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: winterboard, firmware (>= 4.0)
+Filename: debs/com.modmyi.ios4multitasktoggler_1.2-2_iphoneos-arm.deb
+Size: 4558
+MD5sum: 167e8e7ee6f4369280881f2f800c794f
+SHA1: 38ba92e4a8ad7676860f4616640cbbdf67cec4c8
+SHA256: 476d45bb2108b7906d7f5ae8d0654ec29645a21f822ccda4c1778b7d6d4d70e7
+Section: Tweak
+Priority: extra
+Homepage: http://modmyi.com/info/ios4multitasktoggler.php
+Description: This tweak allows to disable (or re-enable) multitasking on any device running iOS4.
+Author: ShadowSonic2 <shadow-himself@hotmail.com>
+Depiction: http://modmyi.com/info/ios4multitasktoggler.d.php
+Name: iOS4 Multitask Toggler
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.modmyi.startreklcarswallpapersforipad
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: firmware (>= 3.2), gsc.wildcat
+Filename: debs/com.modmyi.startreklcarswallpapersforipad_1.2_iphoneos-arm.deb
+Size: 10009292
+MD5sum: 6f1b444bfce6468287a701f659aeb2c3
+SHA1: ff5e7364e18ba0db9f1fc7d43b2fab52ba7aea9b
+SHA256: a817b6d4306bbd65c9a042336536152fc87db9076db3ecb027b5eeb2e63eb93c
+Section: Wallpaper (iPad)
+Homepage: http://modmyi.com/info/startreklcarswallpapersforipad.php
+Description: Wallpapers of Star Trek LCARS.
+Author: Delgadeth <apps+99390080475.1081901803.b14a4ef459b8fe8eafa7a041bac23b98@proxymail.facebook.com>
+Depiction: http://modmyi.com/info/startreklcarswallpapersforipad.d.php
+Name: Star Trek LCARS Wallpapers for iPad
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.omokas.tictacpod
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Filename: debs/com.omokas.tictacpod_1.0_iphoneos-arm.deb
+Size: 114772
+MD5sum: 554af3875f3f3428b96141a645bab2f8
+SHA1: fbb5d5c7da8408508920c01ba964e0f03941792d
+SHA256: e40fcd08f345190f8aa59cdf4e8993c01f22ce77d4f32d6a7f10e191d1de12b1
+Section: Games
+Homepage: http://modmyi.com/info/tictacpod.php
+Description: Simple 2-Player TicTacToe Game.
+Author: omokas <omokas@gmail.com>
+Depiction: http://modmyi.com/info/tictacpod.d.php
+Name: TicTacPod
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.roqy.roqybt
+Version: 0.9.9-6
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: mobilesubstrate, firmware (<< 4.0)
+Conflicts: com.xwave.gpsserial
+Filename: debs/com.roqy.roqybt_0.9.9-6_iphoneos-arm.deb
+Size: 187412
+MD5sum: 9315e495c462907ba30b36dce7c91d3a
+SHA1: 0fbca97c433a08276d8fcd4cf10bdb76a575dba6
+SHA256: 7501a9215601b0b1c21f481035788d3d91288d708d5a42f5752e46d414b801df
+Section: Navigation
+Priority: extra
+Homepage: http://modmyi.com/info/roqybt.php
+Description: A Bluetooth stack to add functionality to your iPhone/iPod Touch.
+Author: RoQy <roqy@roqy-bluetooth.net>
+Depiction: http://modmyi.com/info/roqybt.d.php
+Name: roqyBT
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 
 Package: com.rpetrich.actiwidget
 Version: 0.1
@@ -645,7 +1727,7 @@ Architecture: iphoneos-arm
 Maintainer: Ryan Petrich <rpetrich+snowverlay@gmail.com>
 Installed-Size: 80
 Depends: mobilesubstrate, firmware (>= 5.0)
-Filename: debs/com.rpetrich.snoverlay_0.1_iphoneos-arm (1).deb
+Filename: debs/com.rpetrich.snoverlay_0.1_iphoneos-arm.deb
 Size: 16230
 MD5sum: 3906770daf4718065730e639f0160b29
 SHA1: 5b3230ead7216beed209aa5ab4ac60c8d44a5031
