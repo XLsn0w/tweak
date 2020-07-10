@@ -2085,6 +2085,27 @@ Priority: important
 Description: ioalloccount, ioclasscount, ioreg
 Name: IOKit Tools
 
+Package: mobilesubstrate
+Version: 0.9.7104
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: com.saurik.substrate.safemode
+Conflicts: me.devbug.msreloadfix, com.r3pwn.startsubstrate, com.ragemasta.bootstrap, com.saurik.substrate (<< 1:0)
+Breaks: uikittools (<< 1.1.1), com.mywi4 (<= 5.03.2), com.phoenix.pandoracontrols (<= 1.1.0-1), com.intelliborn.intelliscreenx (<= 1.0.110), com.evad3rs.evasi0n7 (<< 0.2)
+Replaces: cycript (<= 0.9.594), com.saurik.substrate
+Filename: debs/mobilesubstrate_0.9.7104_iphoneos-arm.deb
+Size: 2514944
+MD5sum: 50ea10bb79ae7c3598c602dc7d2bd277
+SHA1: 0d054920991600906e9876b3c54e64663a5172ff
+SHA256: 47388a26a6bb8629f55de75dda57d3ca78d75d02e5f0143a419e6504c24e3143
+Section: System
+Priority: optional
+Description: powerful code insertion platform
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/mobilesubstrate/
+Name: Cydia Substrate
+
 Package: org.coolstar.sileo
 Version: 1.4.1
 Architecture: iphoneos-arm
