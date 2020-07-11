@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   com.lakr233.jw.SailyStartupDaemon.plist
+   Saily Package Manager
+
+   Created by Lakr Aream on 2019/4/15.
+   Copyright (c) 2019 Lakr Aream. All rights reserved.
+-->
+<plist version="1.0">
+    <dict>
+        <key>KeepAlive</key>
+        <true/>
+        <key>Label</key>
+        <string>com.lakr233.jw.SailyStartupDaemon</string>
+        <key>Program</key>
+        <string>/usr/bin/SailyStartupDaemon</string>
+        <key>RunAtLoad</key>
+        <true/>
+    </dict>
+</plist>

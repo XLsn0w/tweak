@@ -1,0 +1,39 @@
+
+/* Class = "UINavigationItem"; title = "Manage"; ObjectID = "2Jz-yA-Gga"; */
+"2Jz-yA-Gga.title" = "井然有序";
+
+/* Class = "UILabel"; text = "com.lakr233.jw.Saily-Package-Manager\nLakr Aream 2019.4"; ObjectID = "32I-sw-Trq"; */
+"32I-sw-Trq.text" = "com.lakr233.jw.Saily-Package-Manager\nLakr Aream 2019.4";
+
+/* Class = "UINavigationItem"; title = "Search"; ObjectID = "5jE-i8-c9L"; */
+"5jE-i8-c9L.title" = "海底捞针";
+
+/* Class = "UINavigationItem"; title = "Sources"; ObjectID = "6rK-jp-wzb"; */
+"6rK-jp-wzb.title" = "坐拥百城";
+
+/* Class = "UINavigationItem"; title = "Discover"; ObjectID = "CIg-dz-hs2"; */
+"CIg-dz-hs2.title" = "上下求索";
+
+/* Class = "UITabBarItem"; title = "Installed"; ObjectID = "Dzf-qB-mqu"; */
+"Dzf-qB-mqu.title" = "仰取俯拾";
+
+/* Class = "UIViewController"; title = "Details"; ObjectID = "ECg-ms-Ygu"; */
+"ECg-ms-Ygu.title" = "可见一斑";
+
+/* Class = "UITabBarItem"; title = "Search"; ObjectID = "G16-oP-93r"; */
+"G16-oP-93r.title" = "海底捞针";
+
+/* Class = "UITabBarItem"; title = "Discover"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "上下求索";
+
+/* Class = "UITabBarItem"; title = "Sources"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "坐拥百城";
+
+/* Class = "UIButton"; normalTitle = "GET"; ObjectID = "e1X-a4-yzM"; */
+"e1X-a4-yzM.normalTitle" = "获取";
+
+/* Class = "UINavigationItem"; title = "Search All"; ObjectID = "iJL-fk-G4h"; */
+"iJL-fk-G4h.title" = "海底捞针";
+
+/* Class = "UILabel"; text = "Saily Package Manager"; ObjectID = "iOt-Gy-YLV"; */
+"iOt-Gy-YLV.text" = "Saily Package Manager";

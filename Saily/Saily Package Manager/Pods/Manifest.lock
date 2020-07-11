@@ -1,0 +1,135 @@
+PODS:
+  - Alamofire (5.0.0-beta.6)
+  - BSBacktraceLogger (0.0.1)
+  - BZipCompression (1.0.2)
+  - CocoaLumberjack (3.5.3):
+    - CocoaLumberjack/Core (= 3.5.3)
+  - CocoaLumberjack/Core (3.5.3)
+  - DoraemonKit/Core (1.1.7):
+    - BSBacktraceLogger
+    - fishhook
+    - PNChart
+    - "UITextView+Placeholder"
+  - DoraemonKit/WithGPS (1.1.7):
+    - BSBacktraceLogger
+    - DoraemonKit/Core
+    - fishhook
+    - PNChart
+    - "UITextView+Placeholder"
+  - DoraemonKit/WithLoad (1.1.7):
+    - BSBacktraceLogger
+    - DoraemonKit/Core
+    - fishhook
+    - PNChart
+    - "UITextView+Placeholder"
+  - DoraemonKit/WithLogger (1.1.7):
+    - BSBacktraceLogger
+    - CocoaLumberjack
+    - DoraemonKit/Core
+    - fishhook
+    - PNChart
+    - "UITextView+Placeholder"
+  - EzPopup (1.1)
+  - fishhook (0.2)
+  - GZIP (1.2.2)
+  - Hero (1.4.0)
+  - JASON (3.1)
+  - JGProgressHUD (2.0.3)
+  - LTMorphingLabel (0.7.0)
+  - MKRingProgressView (2.2.2)
+  - NVActivityIndicatorView (4.7.0):
+    - NVActivityIndicatorView/Presenter (= 4.7.0)
+  - NVActivityIndicatorView/Presenter (4.7.0)
+  - PNChart (0.8.9):
+    - UICountingLabel (~> 1.2.0)
+  - Reveal-SDK (21)
+  - SnapKit (5.0.0)
+  - SwifterSwift (5.0.0):
+    - SwifterSwift/AppKit (= 5.0.0)
+    - SwifterSwift/CoreGraphics (= 5.0.0)
+    - SwifterSwift/CoreLocation (= 5.0.0)
+    - SwifterSwift/Dispatch (= 5.0.0)
+    - SwifterSwift/Foundation (= 5.0.0)
+    - SwifterSwift/MapKit (= 5.0.0)
+    - SwifterSwift/SpriteKit (= 5.0.0)
+    - SwifterSwift/SwiftStdlib (= 5.0.0)
+    - SwifterSwift/UIKit (= 5.0.0)
+  - SwifterSwift/AppKit (5.0.0)
+  - SwifterSwift/CoreGraphics (5.0.0)
+  - SwifterSwift/CoreLocation (5.0.0)
+  - SwifterSwift/Dispatch (5.0.0)
+  - SwifterSwift/Foundation (5.0.0)
+  - SwifterSwift/MapKit (5.0.0)
+  - SwifterSwift/SpriteKit (5.0.0)
+  - SwifterSwift/SwiftStdlib (5.0.0)
+  - SwifterSwift/UIKit (5.0.0)
+  - UICountingLabel (1.2.0)
+  - "UITextView+Placeholder (1.2.1)"
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0.0-beta.5)
+  - BZipCompression (~> 1.0.0)
+  - DoraemonKit/Core (~> 1.1.7)
+  - DoraemonKit/WithGPS (~> 1.1.7)
+  - DoraemonKit/WithLoad (~> 1.1.7)
+  - DoraemonKit/WithLogger (~> 1.1.7)
+  - EzPopup
+  - GZIP (~> 1.2)
+  - Hero
+  - JASON
+  - JGProgressHUD
+  - LTMorphingLabel
+  - MKRingProgressView
+  - NVActivityIndicatorView
+  - Reveal-SDK
+  - SnapKit
+  - SwifterSwift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - BSBacktraceLogger
+    - BZipCompression
+    - CocoaLumberjack
+    - DoraemonKit
+    - EzPopup
+    - fishhook
+    - GZIP
+    - Hero
+    - JASON
+    - JGProgressHUD
+    - LTMorphingLabel
+    - MKRingProgressView
+    - NVActivityIndicatorView
+    - PNChart
+    - Reveal-SDK
+    - SnapKit
+    - SwifterSwift
+    - UICountingLabel
+    - "UITextView+Placeholder"
+
+SPEC CHECKSUMS:
+  Alamofire: cd08a4402bd12cacd0c66f23fb12fec8d6b965e4
+  BSBacktraceLogger: 06b983ee93a9f87d957960e9c73d660d5966b447
+  BZipCompression: e0f96508e60eb93b5f5d4c7de1eb3dd0ac4f9ae9
+  CocoaLumberjack: 2f44e60eb91c176d471fdba43b9e3eae6a721947
+  DoraemonKit: 0ac105ce8924477c22c57cc303798c04ab3c4dcd
+  EzPopup: b959cfb0d70d782a28e770a96c454df0401467c7
+  fishhook: ea19933abfe8f2f52c55fd8b6e2718467d3ebc89
+  GZIP: 12374d285e3b5d46cfcd480700fcfc7e16caf4f1
+  Hero: bac92350d7201a1a940003e0767c7b52ce7c99a1
+  JASON: c1204b01c9979eef35b6948ca939aac5e7bef081
+  JGProgressHUD: 12b20a8f4ffe05258f8635c1ab92816e451f904d
+  LTMorphingLabel: 22147fb1ec2b0306537ccc348b36ea8617179b03
+  MKRingProgressView: b558eff66a648bd77b11f61cfc5603ae96008077
+  NVActivityIndicatorView: b19ddab2576f805cbe0fb2306cba3476e09a1dea
+  PNChart: 84774d225c2126ded6c93d4dbe6ae98c3a73c2d2
+  Reveal-SDK: 3523e0eb7c562811c51bb71da6e523a6373702c8
+  SnapKit: fd22d10eb9aff484d79a8724eab922c1ddf89bcf
+  SwifterSwift: 96f90594b370802f01647c2b1229c74a84ffafee
+  UICountingLabel: 1db4e7d023e1762171eb226d6dff47a7a84f27aa
+  "UITextView+Placeholder": 0c3efd97f37ea64bde7f34cc6e90fe02e87b3909
+
+PODFILE CHECKSUM: a8b5ae95c9d21bc27c105bd283bc86a5b41e8516
+
+COCOAPODS: 1.6.1

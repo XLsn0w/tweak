@@ -1,0 +1,83 @@
+/* 
+  Localizable.strings
+  Saily Package Manager
+
+  Created by Lakr Aream on 2019/4/23.
+  Copyright © 2019 Lakr233. All rights reserved.
+*/
+
+"Welcome to Saily" = "👏 欢迎来到 Saily 👏";
+"Version: " = "版本代号：";
+" Build:" = " 构建代码:";
+"FAKE: " = "虚拟ID:";
+
+"OK" = "确认";
+"No" = "拒绝";
+"Yes" = "确认";
+"Add" = "添加";
+"Edit" = "编辑";
+"Error" = "错误";
+"Share" = "分享";
+"Delete" = "删除";
+"Cancel" = "取消";
+"Search" = "搜索";
+"Search All" = "海底捞针";
+"No Name" = "无名氏先生";
+"Add Repo" = "添加源";
+"All Packages" = "全部软件包";
+"All My Repos" = "全部软件源";
+" package(s)." = " 个软件包";
+"⁠ ⁠Package 📦💨" = "我的小包裹";
+"[Sections, ( )]->" = "[分类, ( )]->";
+"[Packages] ( )] ->" = "[软件包, ( )]->";
+"All My Categories" = "所有的分类和组合";
+"All My Packages :)" = "我的全部软件包";
+"Reloading data(s)..." = "重新加载数据中...";
+"This section contains " = "这个分类总共有 ";
+"Copy Board contains URL" = "你的剪贴板好像有一个网址或链接";
+"This is not an URL, retry?" = "这个好像不是链接，再试试？";
+"Enter the link of the repo" = "请输入软件源地址";
+"See all packages from your sources" = "查阅我的全部软件包 🧐";
+"Do you want to add this url as a repo?\n\n" = "你想要把这个链接当作软件源地址添加到自己的仓库吗？";
+"Add Queue" = "添加队列";
+"No description found within the database." = "这个软件包似乎没有携带任何描述信息。。🧐";
+"Dependency:" = "先决依赖：";
+"Install Queue:" = "安装队列：";
+"No Description Available" = "这个插件并没有描述，请脑补。。😂";
+"Remove" = "移除";
+"GET" = "获取";
+"No Package Found" = "无法找到软件包";
+"Add this repo to your repo list?\n\n" = "是否添加推荐的源地址？\n\n";
+"Queue" = "队列中";
+"Refreshing..." = "刷新中";
+"Ready" = "就绪";
+"Building" = "构建中";
+"📦 Operations" = "📦 操作队列";
+"Empty" = "空";
+"Error Depends: " = "缺失的先决依赖: ";
+"Package Depend is Too new: " = "先决依赖版本太高";
+"Install Queue" = "安装队列";
+"Remove Queue" = "移除队列";
+"Queued" = "队列中";
+"Okay" = "知道啦";
+"Failed" = "失败";
+"Error when trying to add queue. Is it there already?" = "无法添加到队列，请检查队列是否已经存在该项";
+"Can not find all of package dependency(s), or the root daemon is currently offline. Try to add more repos, or recover default repos." = "无法找到该软件包的全部依赖，或者root进程没有被加载。请尝试添加更多软件源或恢复默认软件源。";
+"Conform?" = "确认";
+"Removing it from queue may be dangerous and may cause dependency(s) missing, which may result a bad install status and is hard to recover. Are you sure you want to remove: \n\n\n" = "手动删减队列可能会导致安装失败或者失效，并且让安装进入难以恢复的状态。请确认你依然想删除软件包: \n\n\n";
+"YES" = "确认";
+"Cancel (Recommend)" = "取消，推荐";
+"Local installed. Can't be found in your repos." = "本地软件包。在你的源中无法找到这个软件包。";
+"Can't find the package url." = "无法在云端找到软件包";
+"No Name Boy" = "无名氏";
+"Error: No ID" = "这个软件包居然没有ID?";
+"Submit" = "提交";
+"Error Abort!" = "遇到可能致命的错误，终止。";
+"Finished." = "任务完成";
+"Perform Install Action" = "执行安装操作...";
+"Perform Remove Action" = "执行移除操作...";
+"Perform Auto Remove Action" = "正在清理依赖...";
+"Respring?" = "注销？";
+"The respring is required for enable tweaks." = "只有注销才能激活插件。是否继续？";
+"Perform" = "执行";
+"Cancel" = "取消";

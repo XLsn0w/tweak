@@ -1,0 +1,37 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '11.0'
+project './Saily Package Manager.xcodeproj'
+
+inhibit_all_warnings!
+
+target 'Daemon' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  # use_frameworks!
+  # Pods for Daemon
+end
+
+target 'Saily Package Manager' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Saily Package Manager
+
+        pod 'SwifterSwift'
+        pod 'LTMorphingLabel'
+        pod 'Alamofire', '~> 5.0.0-beta.5'
+        pod 'SnapKit'
+        pod 'Reveal-SDK', :configurations => ['Debug']
+        pod 'BZipCompression', '~> 1.0.0'
+        pod 'GZIP', '~> 1.2'
+        pod 'JGProgressHUD'
+        pod 'Hero'
+        pod 'EzPopup'
+        pod 'DoraemonKit/Core', '~> 1.1.7', :configurations => ['Debug']
+        pod 'DoraemonKit/WithLogger', '~> 1.1.7', :configurations => ['Debug']
+        pod 'DoraemonKit/WithGPS', '~> 1.1.7', :configurations => ['Debug']
+        pod 'DoraemonKit/WithLoad', '~> 1.1.7', :configurations => ['Debug']
+        pod 'JASON'
+        pod 'NVActivityIndicatorView'
+        pod 'MKRingProgressView'
+
+end

@@ -1,0 +1,3 @@
+# Uninstall Saily if exists at /Applications/
+rm -rf /Applications/Saily.app
+
