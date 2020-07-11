@@ -1900,16 +1900,16 @@ Name: Filza File Manager
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.xlsn0w.cydia
-Version: 3.0.0-1+debug
+Version: 3.0.0-4+debug
 Architecture: iphoneos-arm
 Maintainer: XLsn0w QQ:946434404
 Installed-Size: 208
 Depends: dpkg, uikittools, firmware (>= 9.0)
-Filename: debs/com.xlsn0w.cydia_3.0.0-1+debug_iphoneos-arm.deb
-Size: 7440
-MD5sum: 02604bd3bdd35f796bdcd96e75096358
-SHA1: 0da758c59a610ae06c2b541272969b6f4a0e8f38
-SHA256: a9d15d71d7b101f8892e56d9cf5c8c81352e89a26f6f9d19aa3da983207498c7
+Filename: debs/com.xlsn0w.cydia_3.0.0_iphoneos-arm.deb
+Size: 7446
+MD5sum: b63eb993645656b28f0b0e9a53304445
+SHA1: bfa96937e13ebeec93e35ebae2a58d708c7a89a7
+SHA256: 191746594f84e940edcec3d008b611f93bf318071e419bdda0f98c87b91e4b7a
 Section: Packaging
 Description: 优化版Cydia插件包管理工具
 Tag: compatible::9.0-14.0
@@ -2197,31 +2197,4 @@ Author: thekirbylover <kirbylover4000+modmyi@gmail.com>
 Depiction: http://modmyi.com/info/ncpad.d.php
 Name: NCPad
 Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
-
-Package: xyz.willy.zebra
-Version: 1.2~beta1a
-Architecture: iphoneos-arm
-Maintainer: Wilson Styres <wilson@styres.me>
-Installed-Size: 43152
-Depends: dpkg, uikittools, firmware (>= 11.0)
-Filename: debs/xyz.willy.zebra_1.2.beta1a_iphoneos-arm.deb
-Size: 15621472
-MD5sum: db4bcfec115ad12dbac798057e580e24
-SHA1: 5e4e74bbade839c016a7128361769f36ecf998ce
-SHA256: 9efc638ffc109be90cf97deb57a50de240030ae9aa33e9d6d3d34d1eb0a22b66
-Section: Packaging
-Description: A Useful Package Manager
-  A *modern*, **fast**, and ***powerful*** open source package manager for jailbroken iOS devices.
-Tag: compatible::11.0-13.5
-Author: Wilson Styres <wilson@styres.me>
-Changelog: Depiction Redesign
-  This update is the first in our app-wide redesign. Each beta will include a new view that is redesigned and we'd appreciate your feedback as we go through the redesign process.
-  .
-  This beta brings a redesinged package depiction view complete with a new native depiction format. It also includes new alternate icons created by [Bossgfx](https://twitter.com/bossgfx_) and [heysyemeh](https://twitter.com/heysyemeh).
-Depiction: https://getzbra.com/beta/depictions/xyz.willy.Zebra/
-Header: https://getzbra.com/repo/depictions/xyz.willy.Zebra/images/banner.jpg
-Icon: https://getzbra.com/repo/depictions/xyz.willy.Zebra/images/icon.png
-Name: Zebra
-Prefer-Native: Yes
-Previews: https://getzbra.com/repo/depictions/xyz.willy.Zebra/images/zebra1.png, https://getzbra.com/repo/depictions/xyz.willy.Zebra/images/zebra2.png, https://getzbra.com/repo/depictions/xyz.willy.Zebra/images/zebra3.png, https://getzbra.com/repo/depictions/xyz.willy.Zebra/images/zebra4.png
 
