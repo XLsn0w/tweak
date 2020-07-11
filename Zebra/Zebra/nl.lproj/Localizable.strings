@@ -1,0 +1,445 @@
+// Common
+
+"Cancel" = "Annuleren";
+"Yes" = "Ja";
+"No" = "Nee";
+"Ok" = "Oké";
+"Error" = "Fout";
+"Retry" = "Probeer opnieuw";
+"Edit" = "Wijzig";
+"Close" = "Sluiten";
+"Done" = "Klaar";
+"Loading..." = "Aan het laden...";
+"Clear" = "Leeg";
+"An Error Ocurred" = "Er is een fout opgetreden";
+
+// Home
+
+"Home" = "Thuis";
+"Info" = "Informatie";
+"Welcome to Zebra!" = "Welkom bij Zebra!";
+"Report a Bug" = "Meld een fout";
+"Changelog" = "Wijzigingslogboek";
+"Wish List" = "Verlanglijst";
+"Newest First" = "Nieuwste eerst";
+"Oldest First" = "Oudste eerst";
+"No items in Wish List" = "Geen voorwerpen in de verlanglijst";
+"Community" = "Gemeenschap";
+"Join our Discord" = "Treed toe tot onze Discord";
+"Follow us on Twitter" = "Volg ons op Twitter";
+"Help translate Zebra!" = "Help Zebra te vertalen!";
+
+// Community Source
+
+"Community Sources" = "Gemeenschaps Bronnen";
+"You’ve added all of the community sources" = "Je hebt alle gemeenschaps bronnen toegevoegd";
+"Transfer sources from %@ to Zebra" = "Overdracht bronnen van %@ naar Zebra";
+"Utility source for %@" = "Benodigde repo voor %@";
+"Transfer Sources" = "Verplaats Bronnen";
+"Verifying Source" = "Bron verifiëren";
+"Verifying Sources" = "Bronnen verifiëren";
+"Import" = "Importeren";
+"Verifying..." = "Verifiëren...";
+"Confirm Import" = "Bevestig Import";
+"Import Sources" = "Importeer Bronnen";
+"No sources to import" = "Geen bronnen om te importeren";
+"Would you like to import the following sources?" = "Wilt u de volgende bronnen importeren?";
+"Are you sure that you want to import 1 source into Zebra?" = "Weet je zeker dat je 1 bron in Zebra wilt importeren?";
+"Are you sure that you want to import %d sources into Zebra?" = "Weet je zeker dat je %d bronnen in Zebra wilt importeren?";
+
+
+// Credits
+
+"Credits" = "Met dank aan";
+"Creators" = "Makers";
+"Contributors" = "Bijdragers";
+"Translators" = "Vertalers";
+"Libraries" = "Bibliotheken";
+
+// Settings
+
+"Settings" = "Instellingen";
+"Display" = "Weergeven";
+"App Icon" = "App Icoon";
+"Changes" = "Veranderingen";
+"Community News" = "Gemeenschapsnieuws";
+"Miscellaneous" = "Diversen";
+"Swipe Actions Display As" = "Veeg Acties Weergeven Als";
+"Text" = "Tekst";
+"Icon" = "Icoon";
+"Finish Automatically" = "Automatisch Voltooien";
+
+// Accent Colors
+
+"Accent Color" = "Accentkleur";
+"Aqua Velvet" = "Aqua Fluweel";
+"Cornflower Blue" = "Korenbloem Blauw";
+"Golden Tainoi" = "Gouden Tainoi";
+"Iris Blue" = "Iris Blauw";
+"Lotus Pink" = "Lotus Roze";
+"Monochrome" = "Monochrome";
+"Mountain Meadow" = "Bergweide";
+"Pastel Red" = "Pastel Rood";
+"Purple Heart" = "Paar Hart";
+"Royal Blue" = "Koningsblauw";
+"Shark" = "Haai";
+"Storm" = "Storm";
+"Use System Accent Color" = "Gebruik Accent Kleur van het systeem";
+"Appearance" = "Uiterlijk";
+"Use System Appearance" = "Gebruik Systeem Uiterlijk";
+"Light" = "Licht";
+"Dark" = "Donker";
+"Pure Black Mode" = "Puur Zwart Modus";
+
+// Featured
+
+"Featured Packages" = "Uitgelichte Pakketten";
+"Feature Type" = "Uitgelicht type";
+"Repo Featured" = "Uitgelichte Bron";
+"Random" = "Willekeurig";
+"Select Repos to be Featured" = "Selecteer een repo om deze uit te lichten";
+"Featured Repos" = "Aanbevolen Repos";
+
+// Reset
+
+"Reset" = "Stel opnieuw in";
+"Refresh Icon Cache" = "Icoon Cache Vernieuwen";
+"Clear Image Cache" = "Leeg de afbeeldingencache";
+"Clear Sources Cache" = "Leeg de bronnencache";
+"Clear Web Cache" = "Leeg de webcache";
+"Reset All Settings" = "Alle instellingen Opnieuw Instellen";
+"Erase All Sources" = "Verwijder alle bronnen";
+"Erase All Sources and Settings" = "Alle Bronnen en Instellingen Verwijderen";
+
+"Are you sure you want to restart the SpringBoard?" = "Weet je zeker dat je het SpringBoard wilt herstarten?";
+"Are you sure you want to refresh the icon cache? Your device may become unresponsive until the process is complete." = "Weet u zeker dat u de icoon cache wilt vernieuwen? Het kan zijn dat uw apparaat niet reageert totdat het proces voltooid is.";
+"Image Cache Cleared" = "Afbeeldingencache is geleegd";
+"Web Cache Cleared" = "Webcache is geleegd";
+"Are you sure you want to reset Zebra's source cache? This will remove all cached information from Zebra's database and redownload it. Your sources will not be deleted." = "Weet je zeker dat je Zebra's bronnen cache wilt resetten? Dit zal alle opgeslagen informatie uit Zebra's database verwijderen en opnieuw downloaden. Uw bronnen zullen niet worden verwijderd.";
+"Are you sure you want to reset Zebra's settings? This will reset all of Zebra's settings back to their default values and Zebra will restart." = "Weet je zeker dat je Zebra's instellingen wil herstellen? Dit zal alle Zebra instellingen terugzetten naar hun standaardwaarden en Zebra zal herstarten.";
+"Are you sure you want to erase all sources? All of your sources will be removed from Zebra and Zebra will restart." = "Weet je zeker dat je alle bronnen wilt wissen? Al je bronnen worden verwijderd van Zebra en Zebra zal herstarten.";
+"Are you sure you want to erase all sources and settings? All of your sources will be removed from Zebra and your settings will be reset." = "Weet je zeker dat je alle bronnen en instellingen wilt wissen? Al uw bronnen zullen worden verwijderd uit Zebra en uw instellingen worden hersteld.";
+"All of your sources will be deleted and be gone forever and Zebra will restart." = "Al je bronnen zullen permanent verwijderd worden en Zebra zal herstarten.";
+
+// Documents Directory
+"Open Documents Directory" = "Open Documentenmap";
+
+"Filza Not Installed" = "Filza is niet geïnstalleerd";
+"Zebra cannot open its documents directory because Filza is not installed. Your documents directory is: %@" = "Zebra kan de documentenmap niet openen omdat Filza niet is geïnstalleerd. Je documentenmap is: %@";
+
+// Stores
+
+"Stores" = "Winkel";
+"My Account" = "Mijn Account";
+"Sign In" = "Aanmelden";
+"Sign Out" = "Afmelden";
+"Your Purchases" = "Uw Aankopen";
+"No Storefronts Available" = "Geen etalages beschikbaar";
+"Could not complete purchase" = "Kan aankoop niet voltooien";
+"Could not complete purchase, no payment secret was found" = "Aankoop kon niet worden voltooid, er is geen betalingsgeheim gevonden";
+"No packages purchased" = "Geen aangekochte pakketten";
+"Logged in as %@ (%@)" = "Ingelogd als %@(%@)";
+
+// Sources
+
+"Sources" = "Bronnen";
+"Unknown" = "Onbekend";
+"Delete" = "Verwijder";
+"Refresh" = "Ververs";
+"All Packages" = "Alle pakketten";
+"Remove Source" = "Verwijder Bron";
+"Local Repository" = "Lokale bron";
+"Locally installed packages" = "Lokaal geïnstalleerde pakketten";
+
+"Add" = "Voeg toe";
+"Add Sources" = "Bronnen Toevoegen";
+"Add Multiple" = "Voeg meerdere toe";
+"Enter Source URL" = "Voer de bron-URL in";
+"Would you like to add the URL from your clipboard?" = "Wil je de URL uit uw klembord toevoegen?";
+
+"Please Wait..." = "Een ogenblik geduld alstublieft...";
+"Verifying Source" = "Bron Verifiëren";
+"Verifying Sources" = "Bronnen verifiëren";
+"Updating Sources" = "Bronnen aan het updaten";
+
+"Unknown error" = "Onbekende fout";
+"Invalid URL" = "Ongeldige URL";
+"Invalid Source" = "Ongeldige Bron";
+"Tap to learn more" = "Tik om meer te leren";
+"No source URLs detected." = "Geen bron URLs gedetecteerd.";
+"Unable to verify source" = "Kan bron niet verifiëren";
+"Error verifying source" = "Fout verifiëren van bron";
+"Error verifying sources" = "Fout verifiëren van bron";
+"Failed to add source" = "Bron toevoegen mislukt";
+"Failed to add sources" = "Bronnen toevoegen mislukt";
+"You have already added this source." = "Je hebt deze bron al toegevoegd.";
+"You have already added these sources." = "Je hebt deze bronnen al toegevoegd.";
+"Unable to locate an APT repository at:" = "Kan de APT repository niet vinden op:";
+"Unable to locate APT repositories at:" = "Kan de APT repositories niet vinden op:";
+
+"Could not download Packages file from %@. Reason: %@" = "Het pakkettenbestand %@ kan niet worden gedownload. Reden: %@";
+"Could not download one or more files from %@. Reason: %@" = "Een of meerdere bestanden kon niet worden gedownload van %@. Reden: %@";
+
+"The URL you entered is not valid. Please check it and try again." = "De ingevoerde URL is niet geldig. Controleer dit en probeer het opnieuw.";
+
+"Zebra was unable to download the source specified at %@. It may be temporarily inaccessible or could have been added incorrectly." = "Zebra kon de bron die is opgegeven bij %@ niet downloaden. Het kan tijdelijk ontoegankelijk zijn of kan onjuist zijn toegevoegd.";
+
+// Packages
+
+"Version" = "Versie";
+"Packages" = "Pakketten";
+"Show Updates" = "Toon updates";
+"Ignore Updates" = "Negeer updates";
+"Select Version" = "Kies versie";
+"Select a version to upgrade to:" = "Selecteer een versie om naar te upgraden:";
+"Select a version to downgrade to:" = "Kies een versie om naar te downgraden:";
+"Package" = "Pakket";
+"Information" = "Informatie";
+"Upgrade All" = "Upgrade alles";
+"Loaded" = "Geladen";
+"ABC" = "ABC";
+"Date" = "Datum";
+"Size" = "Grootte";
+"Available Upgrades" = "Beschikbare upgrades";
+"Ignored Upgrades" = "Genegeerde upgrades";
+"Recent" = "Recent";
+"Source" = "Bron";
+"Installed Files" = "Geïnstalleerde bestanden";
+"Modify" = "Pas aan";
+"Authenticate to initiate purchase." = "Authenticeer uzelf om het pakket te kopen";
+"Please relogin your account that is used to purchase this package (Possibly %@)" = "Log alstublieft in met het account dat dit pakket gekocht heeft. (Mogelijk %@)";
+"More by this Developer" = "Meer van deze ontwikkelaar";
+"Installed Version" = "Geïnstalleerde versie";
+"Installed Size" = "Geïnstalleerde grootte";
+
+//<Version available from source> (Installed Version: <Installed Version>)
+"%@ (Installed Version: %@)" = "%@ (geïnstalleerde versie: %@)";
+
+//<Download size> (Installed Size: <installed size>)
+"%@ (Installed Size: %@)" = "%@ (Geïnstalleerde grootte: %@)";
+
+//Package size in bytes (no deceimal)
+"%d bytes" = "%d bytes";
+//Package size in Kilobytes (no decimal)
+"%d KB" = "%d KB";
+//Package size in Kilobytes (with decimal)
+"%.2f KB" = "%.2f KB";
+//Package size in Megabytes (with decimal)
+"%.2f MB" = "%.2f MB";
+
+"Add to Wish List" = "Voeg toe aan verlanglijst";
+"Remove from Wish List" = "Verwijder van verlanglijst";
+
+// Package Section Names
+
+"Administration" = "Administratie";
+"Addons" = "Extra's";
+"App Addons" = "App Extra's";
+"Archiving" = "Archivering";
+"Carrier Support" = "Provider Hulp";
+"Communication" = "Communicatie";
+"Data Storage" = "Data Opslag";
+"Development" = "Ontwikkeling";
+"Dictionaries" = "Woordenboeken";
+"Education" = "Educatie";
+"Entertainment" = "Vermaak";
+"Games" = "Spellen";
+"Health and Fitness" = "Gezondheid en Fitness";
+"Imaging" = "Fotografie";
+"Java" = "Java";
+"Keyboards" = "Toetsenborden";
+"Localization" = "Lokalisatie";
+"Messaging" = "Berichten";
+"Multimedia" = "Multimedia";
+"Navigation" = "Navigatie";
+"Networking" = "Netwerken";
+"Packaging" = "Verpakking";
+"Productivity" = "Productiviteit";
+"Repositories" = "Bronnen";
+"Ringtones" = "Beltonen";
+"Scripting" = "Scripting";
+"Security" = "Beveiliging";
+"Social" = "Sociaal";
+"System" = "Systeem";
+"Terminal Support" = "Terminal Ondersteuning";
+"Text Editors" = "Tekst Editors";
+"Themes" = "Themas";
+"Toys" = "Speelgoed";
+"Tweaks" = "Aanpassingen";
+"Utilities" = "Benodigheden";
+"Wallpaper" = "Achtergronden";
+"Widgets" = "Widgets";
+
+// Search
+
+"Search" = "Zoeken";
+"This search query is too short for the full search, please use a longer query." = "Deze zoekopdracht is te kort, gebruik meer zoektermen.";
+"No Results Found" = "Geen resultaten gevonden.";
+"Name" = "Naam";
+"Description" = "Beschrijving";
+"Author" = "Auteur";
+
+// Downloads
+
+"Downloads" = "Downloads";
+"Error while opening sources.list" = "Er is een fout opgetreden tijdens het openen van sources.list";
+"The source %@ is incompatible with your jailbreak." = "De bron %@ is niet compatibel met uw jailbreak.";
+"It may cause issues if you add it to Zebra resulting in possible restore." = "Het kan zijn dat er problemen ontstaan als u deze repo toevoegt, wat kan leiden tot een reset van Zebra.";
+"Please remove this source from your sources.list file." = "Verwijder alstublieft deze bron van uw sources.list bestand.";
+"Incorrect documents permissions." = "Incorrecte permissie voor documenten.";
+"Could not determine device information." = "Kan geen informatie van dit apparaat opvragen.";
+"Could not find a download URL for" = "Kan geen download link vinden voor";
+"%@ hasn't been modified" = "%@ is niet gewijzigd";
+"Could not parse %@ from %@" = "Kon %@ niet verwerken van %@";
+"A total of %d files will be downloaded" = "Er worden in totaal %d bestanden gedownload";
+
+// Console
+
+"Console" = "Console";
+"Performing Actions..." = "Acties uitvoeren...";
+"Updating icon cache asynchronously..." = "De icoon cache asynchroon aan het updaten...";
+"This may take awhile and Zebra may crash. It is okay if it does." = "Dit kan een tijdje duren en Zebra kan crashen. Het is niet erg als dit gebeurt.";
+"Close Zebra" = "Sluit Zebra";
+"Closing Zebra..." = "Zebra Sluiten...";
+"Restart SpringBoard" = "SpringBoard Herstarten";
+"Restarting SpringBoard..." = "SpringBoard Herstarten...";
+"Parsing %@" = "Parseren %@";
+"Starting Download" = "Download Starten";
+"Downloading" = "Aan het downloaden";
+"Downloading %@" = "Downloaden %@";
+"Downloading Packages..." = "Pakketten aan het downloaden...";
+"Download Completed" = "Download Compleet";
+"Installing" = "Aan het installeren";
+"Installing Packages..." = "Pakketten aan het installeren...";
+"Removing" = "Aan het verwijderen";
+"Removing Packages..." = "Pakketten aan het verwijderen...";
+"Reinstalling" = "Opnieuw aan het installeren";
+"Reinstalling Packages..." = "Pakketten opnieuw aan het installeren...";
+"Upgrading" = "Aan het upgraden";
+"Upgrading Packages..." = "Pakketten aan het upgraden...";
+"Complete" = "Compleet";
+"Finished!" = "Klaar!";
+"Return to Queue" = "Terug naar wachtrij";
+"Returning to Queue..." = "Terug naar wachtrij...";
+"Importing local packages." = "Lokale pakketten aan het importeren";
+"Finished importing local packages." = "Klaar met het importeren van lokale pakketten.";
+"One or more packages failed to download." = "Een of meer pakketten zijn niet gedownload";
+"Click \"Return to Queue\" to return to the Queue and retry the download." = "Klik op \"Terug naar wachtrij\" om terug te gaan naar de wachtrij en de download opnieuw te proberen.";
+"Done..." = "Gedaan...";
+"Done %@" = "Voltooid %@";
+"Removing Zebra..." = "Zebra Verwijderen...";
+"Installing Zebra..." = "Zebra Installeren...";
+"Adding Payment Vendor URL for %@" = "URL van Betalingsleverancier toevoegen voor %@";
+
+// Queue Bar
+
+"%d Packages Queued" = "%d pakketten in de wachtrij";
+"%d Package Queued" = "%d Pakket In de wachtrij";
+"Tap to manage" = "Tik om te beheren";
+"No Packages Queued" = "Geen pakketten in de wachtrij";
+
+// Queue
+
+"Queue" = "Wachtrij";
+"Install" = "Installeer";
+"Reinstall" = "Installeer opnieuw";
+"Remove" = "Verwijder";
+"Upgrade" = "Upgraden";
+"Downgrade" = "Downgraden";
+"Abort" = "Stop";
+"Continue" = "Doorgaan";
+"Download Size" = "Downloadgrootte";
+"Confirm" = "Bevestig";
+"Issues" = "Problemen";
+"Required Package" = "Vereist pakket";
+"Are you sure?" = "Weet u het zeker?";
+"Remove from Queue" = "Verwijder uit wachtrij";
+"Clear Queue" = "Wachtrij Wissen";
+"%@ is required by:" = "%@ is vereist door:";
+"%@ must be removed because it depends on %@" = "%@ moet worden verwijderd omdat het afhankelijk is van %@";
+"%@ has issues that cannot be resolved:" = "%@ heeft problemen die niet kunnen worden opgelost:";
+"Are you sure you want to clear the Queue?" = "Weet je zeker dat je de wachtrij wilt legen?";
+"%@ is a required package. It should NOT be removed unless you know exactly what you are doing!" = "%@ is een vereist pakket. Het mag NIET verwijderd worden tenzij u precies weet wat u doet!";
+
+// Search
+
+"Live Search" = "Live zoeken";
+"Tweaks, Themes, and More" = "Tweaks, Thema's en Meer";
+
+//<first package> is being removed because it depends on <second package>. <second package> should not be removed unless you know what you are doing.
+"%@ is a required package and must be removed because it depends on %@. %@ should NOT be removed unless you know exactly what you are doing!" = "%@ is een vereist pakket en moet verwijderd worden omdat het afhankelijk is van %@. %@ mag NIET worden verwijderd tenzij u precies weet wat u doet!";
+
+"One or more of the packages in the Queue for removal is essential or required. It is not recommended to proceed unless you know exactly what you are doing. Removing these packages could cause irreversible damage to your device and might result in a full restore." = "Een of meer van de pakketten in de Wachtrij voor verwijdering is essentieel of noodzakelijk. Het is niet aan te raden om verder te gaan tenzij u precies weet wat u doet. Het verwijderen van deze pakketten kan onomkeerbare schade toebrengen aan je apparaat en kan reen volledig herstel veroorzaken.";
+
+"Zebra was unable to complete this command because it does not have the proper permissions. Please verify the permissions located at /usr/libexec/zebra/supersling and report this issue on GitHub." = "Zebra kon deze opdracht niet voltooien omdat het niet de juiste machtigingen heeft. Controleer de machtigingen in /usr/libexec/zebra/supersling en rapporteer dit probleem op GitHub.";
+
+"Unable to access su/sling. Please verify that /usr/libexec/zebra/supersling exists." = "Kan geen toegang krijgen tot su/sling. Controleer of /usr/libexec/zebra/supersling bestaat.";
+
+"su/sling is not owned by root:wheel. Please verify the permissions of the file located at /usr/libexec/zebra/supersling." = "su/sling is geen eigendom van root:wheel. Controleer de rechten van het bestand op /usr/libexec/zebra/supersling.";
+
+"su/sling does not have permission to set the uid or gid. Please verify the permissions of the file located at /usr/libexec/zebra/supersling." = "su/sling heeft geen toestemming om de uid of gid in te stellen. Controleer de rechten van het bestand op /usr/libexec/zebra/supersling.";
+
+"Could not respring. Please respring manually." = "Kon niet herladen. Laad handmatig opnieuw.";
+
+"ERROR: Unable to lock status file. Please try again." = "FOUT: kan statusbestand niet vergrendelen. Probeer het opnieuw.";
+
+"ERROR: Process must be restarted. Please try again." = "FOUT: proces moet opnieuw worden gestart. Probeer het opnieuw.";
+
+"Hide UDID" = "Verberg UDID";
+
+"Display featured packages on the homepage." = "Toon aanbevolen pakketten op de startpagina.";
+
+"Automatic Refresh" = "Automatisch vernieuwen";
+"Refresh Zebra's sources when opening the app." = "Vernieuw de bronnen van Zebra als de app wordt geopend.";
+
+"Display recent community posts from /r/jailbreak." = "Toon recente gemeenschap berichten van /r/jailbreak.";
+
+"Search packages while typing. Disabling this feature may reduce lag on older devices." = "Doorzoek pakketten tijdens het typen. Het uitschakelen van deze functie kan de vertraging op oudere apparaten verminderen.";
+
+"Configure the appearance of table view swipe actions." = "Verander het uiterlijk van tafel weergave swipe acties.";
+
+"Change the accent color that displays across Zebra." = "Wijzig de accent kleur die wordt weergegeven door Zebra.";
+
+"Change the style of Zebra's dark mode when it is enabled." = "Wijzig de stijl van de donkere modus van Zebra wanneer deze is ingeschakeld.";
+
+"Change the source of the featured packages on the homepage." = "Wijzig de bron van de aanbevolen pakketten op de startpagina.";
+
+"\"Repo Featured\" will display random packages from repos that support the Featured Package API." = "\"Aanbevolen Repos \" zullen willekeurige pakketten weergeven van repo's die de Featured Package API ondersteunen.";
+
+"\"Random\" will display random packages from all repositories that you have added to Zebra." = "\"Random\" zal willekeurige pakketten weergeven van alle repositories die u aan Zebra hebt toegevoegd.";
+
+"Signing in to sources allows for the purchase of paid packages." = "Aanmelden bij bronnen maakt het mogelijk om betaalde pakketten te kopen.";
+
+"Automatically dismiss the Console when all of its tasks have been completed." = "Sluit de console automatisch wanneer alle taken zijn voltooid.";
+
+// Filters
+
+"Filters" = "Filters";
+"Add Filter" = "Filter Toevoegen";
+
+"1 Section Hidden" = "1 Sectie Verborgen";
+"%lu Sources Hidden" = "%lu Bronnen Verborgen";
+
+"Sections" = "Secties";
+"Select a Section" = "Selecteer een sectie";
+"Hide packages in these sections." = "Verberg pakketten in deze secties.";
+
+"Sources" = "Bronnen";
+"Select a Source" = "Selecteer een Bron";
+"Search for an Author" = "Zoek voor een auteur";
+"Hide packages in these sections from specific sources." = "Verberg pakketten in deze secties van specifieke bronnen.";
+
+"Updates" = "Updates";
+"Hide future updates from these packages." = "Verberg toekomstige updates van deze pakketten.";
+
+"Authors" = "Auteurs";
+"Hide packages from these authors." = "Verberg pakketten van deze auteurs.";
+
+// Language Settings
+
+"Language" = "Taal";
+"Apply" = "Toepassen";
+"Restart Required" = "Herstarten Vereist";
+"Zebra must be closed in order to change preferred language" = "Zebra moet gesloten zijn om de voorkeurstaal te wijzigen";
+"Restart" = "Herstarten";
+"Use System Language" = "Systeemtaal gebruiken";

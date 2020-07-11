@@ -1,0 +1,12 @@
+Package: com.xlsn0w.cydia
+Name: XLsn0w
+Architecture: iphoneos-arm
+Depends: dpkg, uikittools, firmware (>= 9.0)
+Description: 优化版Cydia插件包管理工具
+Maintainer: XLsn0w QQ:946434404
+Author: XLsn0w QQ:946434404
+Section: Packaging
+Depiction: 优化版Cydia插件包管理工具 联系QQ:946434404
+Tag: compatible::9.0-14.0
+Version: 3.0.0-3+debug
+Installed-Size: 208
