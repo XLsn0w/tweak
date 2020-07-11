@@ -36,6 +36,27 @@ Depiction: http://modmyi.com/info/webgo.d.php
 Name: WebGo
 Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 
+Package: com.Lakr233.Saily
+Version: 0.6-b1122
+Architecture: iphoneos-arm
+Essential: Yes
+Maintainer: Lakr Aream
+Depends: firmware (>= 10.0)
+Conflicts: com.lakr233.SailyTest, com.lakr233.jw.SailyPackageManager, com.lakr233.jw.SailyStartupDaemon
+Filename: debs/Saily_0.6_iphoneos-arm.deb
+Size: 38562584
+MD5sum: ed236c129a4681df92af4c13e5860039
+SHA1: 1ef51d9c64c92d274ac04013c72f850f6ee4fb36
+SHA256: 70b3f8307cc8cfb4392e859ca98c9437efa2ece46a9ac00329324fefd12bc4c0
+Section: System
+Priority: required
+Description: Saily Package Manager
+Author: Lakr Aream
+Dev: Lakr Aream
+Icon: https://raw.githubusercontent.com/Co2333/Saily-Store/master/Saily/AssSets/AppIcons.xcassets/AppIcon.appiconset/icon-1024.png
+Name: Saily Store
+Sileodepiction: https://raw.githubusercontent.com/Co2333/Saily-Store/master/IO/Saily-ND.json
+
 Package: com.NetVoice.NetVoice
 Version: 3.1.2
 Architecture: iphoneos-arm
