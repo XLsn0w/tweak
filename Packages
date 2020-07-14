@@ -2106,25 +2106,6 @@ Priority: important
 Description: ioalloccount, ioclasscount, ioreg
 Name: IOKit Tools
 
-Package: ir2
-Version: 2.0022
-Architecture: iphoneos-arm
-Maintainer: IR2
-Depends: firmware (>= 10.0), mobilesubstrate
-Filename: debs/ir2_2.0022_iphoneos-arm.deb
-Size: 1596620
-MD5sum: 119e3af0da4ce1b09b42432676d89f50
-SHA1: 5d440da8f6af27b4bf2d29ab5afce32885808121
-SHA256: d0492df9b5d4d357d25742d44d11ed5e009c0e9ead0902325c17a5825207159b
-Section: System
-Priority: optional
-Homepage: IR2
-Description: IR2
-Author: kee
-Depiction: IR2
-Dev: IR2
-Name: IR2
-
 Package: mobilesubstrate
 Version: 0.9.7104
 Architecture: iphoneos-arm
