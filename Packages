@@ -1920,6 +1920,27 @@ Icon: file:///Applications/Filza.app/AppIcon57x57.png
 Name: Filza File Manager
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.xlsn0w.IR
+Version: 1.0.0
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: XLsn0w
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: debs/com.xlsn0w.ir_1.0.0_iphoneos-arm.deb
+Size: 1597008
+MD5sum: e92f46f8a6dbbca40a17a74b8e92c984
+SHA1: 2b14cd637b9f2c1e62a284fdbdcbdb2d65544909
+SHA256: 3a9c5cccbcb91444639d88178057d60a1d022863e4c4534b34cd8334a1ab2cb5
+Section: Tweaks
+Priority: standard
+Homepage: XLsn0w
+Description: XLsn0w
+Tag: role::enduser
+Author: XLsn0w
+Depiction: XLsn0w
+Name: IR 提取版
+Sponsor: XLsn0w
+
 Package: com.xlsn0w.cydia
 Version: 3.0.0-4+debug
 Architecture: iphoneos-arm
