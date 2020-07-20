@@ -3026,6 +3026,22 @@ Priority: important
 Description: ioalloccount, ioclasscount, ioreg
 Name: IOKit Tools
 
+Package: ios.xlsn0w.nslogify
+Version: 1.2.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: XLsn0w
+Installed-Size: 196
+Filename: debs/ios.xlsn0w.nslogify_1.2.0-1+debug_iphoneos-arm.deb
+Size: 9176
+MD5sum: b604e5f0f73ab1f69511978fc9b54519
+SHA1: 440ac3aa6d7b182e38f2776f4bb874708b75cbc7
+SHA256: 7083080b8ed28de4b0af91b775b261f5ed1cbfc42d65d2c9744f782e70ed62fa
+Section: System
+Description: 基于Objective-C的logify.pl重新创建，使用NSLog代替％log
+Tag: role::iOS hacker
+Author: XLsn0w
+Name: nslogify
+
 Package: me.midnightchips.snapback
 Version: 2.0.1
 Architecture: iphoneos-arm
