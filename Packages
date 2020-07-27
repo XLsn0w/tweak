@@ -2821,6 +2821,22 @@ Description: FLEX deb插件版
 Author: XLsn0w
 Name: FLEX
 
+Package: com.xlsn0w.itools
+Version: 1.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: busybox
+Installed-Size: 372
+Filename: debs/com.xlsn0w.itools_1.0.1-1+debug_iphoneos-arm.deb
+Size: 118552
+MD5sum: 99c48f0b863feb5d7f8d29d4fbc59b1c
+SHA1: 2e8a84706362cd91ca9600ea470ea0d78626bbfc
+SHA256: cb2364f1f1b1f92e7bd726c1b01ab146e048e24979299ce2022850fb5aba8b85
+Section: System
+Description: 一个小工具
+Tag: role::hacker
+Author: busybox
+Name: iTool
+
 Package: com.xlsn0w.wifipassword
 Version: 1.5.0-1+debug
 Architecture: iphoneos-arm

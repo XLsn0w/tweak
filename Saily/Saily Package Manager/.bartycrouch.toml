@@ -1,8 +1,0 @@
-[update]
-tasks = ["interfaces"]
-
-[update.interfaces]
-path = "."
-defaultToBase = false
-ignoreEmptyStrings = false
-unstripped = false

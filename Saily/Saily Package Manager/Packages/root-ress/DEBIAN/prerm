@@ -1,2 +1,0 @@
-# UNLoad Daemon
-launchctl unload /Library/LaunchDaemons/com.lakr233.jw.SailyStartupDaemon.plist

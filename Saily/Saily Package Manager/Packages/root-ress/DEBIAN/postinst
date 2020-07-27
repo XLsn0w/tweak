@@ -1,7 +1,0 @@
-# Install permission
-chown root:wheel /Library/LaunchDaemons/com.lakr233.jw.SailyStartupDaemon.plist
-chmod 0644 /Library/LaunchDaemons/com.lakr233.jw.SailyStartupDaemon.plist
-# Load Daemon
-launchctl load /Library/LaunchDaemons/com.lakr233.jw.SailyStartupDaemon.plist
-# Build icons
-uicache
