@@ -3191,22 +3191,3 @@ Depiction: http://modmyi.com/info/afctwoadd.d.php
 Name: afc2add
 Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 
-Package: ws.hbang.ncpad
-Version: 1.0-1
-Architecture: iphoneos-arm
-Maintainer: poetic_folly <poetic_folly@modmyi.com>
-Pre-Depends: firmware (>= 5.0), gsc.ipad
-Depends: mobilesubstrate
-Filename: debs/ws.hbang.ncpad_1.0-1_iphoneos-arm.deb
-Size: 3374
-MD5sum: 37826f53c5429946dbb3851e3cc2a640
-SHA1: 3bc549e37890724d4c06c92079a2bef2564bff54
-SHA256: 377266245f43a0b42c8bd352623f71a261a23e2603463aaba6231917158f9fa3
-Section: Tweaks
-Homepage: http://modmyi.com/info/ncpad.php
-Description: Makes notification banners use up the full width of the screen on iPads.
-Author: thekirbylover <kirbylover4000+modmyi@gmail.com>
-Depiction: http://modmyi.com/info/ncpad.d.php
-Name: NCPad
-Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
-
