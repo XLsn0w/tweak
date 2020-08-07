@@ -2771,6 +2771,23 @@ Icon: file:///Applications/Filza.app/AppIcon57x57.png
 Name: Filza File Manager
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.xlsn0w.JailbreakChecker
+Version: 2.0.0
+Architecture: iphoneos-arm
+Maintainer: XLsn0w
+Installed-Size: 11540
+Depends: mobilesubstrate, findutils, zip, unzip, gawk, cy+cpu.arm64, firmware (>= 12.3), essential
+Filename: debs/com.xlsn0w.jailbreakchecker_2.0.0_iphoneos-arm.deb
+Size: 4136748
+MD5sum: d6e614caaee4dc68dae3f07b159c6b5f
+SHA1: 76ff9e0e283f369c428909496f72906bff9c46f4
+SHA256: a95cdd06eec36f990adb2f2e5797b7b9b77999c053ddbedd2e9349fa09a05dc3
+Section: Utilities
+Description: 屏蔽越狱检测,一键新机
+Author: XLsn0w
+Icon: file:///Applications/clearmaster.app/icon-29@2x.png
+Name: JailbreakChecker
+
 Package: com.xlsn0w.cydia
 Version: 3.0.0-4+debug
 Architecture: iphoneos-arm
