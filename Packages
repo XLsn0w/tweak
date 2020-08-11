@@ -1,3 +1,22 @@
+Package: Reveal2Loader
+Version: 1.0-3
+Architecture: iphoneos-arm
+Maintainer: duyongchao <duyongchao.h@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate, applist, preferenceloader, com.zidaneno5.ExtensionList
+Conflicts: com.rheard.rhrevealloader, com.rheard.reveal-loader
+Replaces: com.rheard.rhrevealloader, com.rheard.reveal-loader
+Filename: debs/Reveal2Loader_1.0-3_iphoneos-arm.deb
+Size: 4338590
+MD5sum: e2045b2175b162f3cc358ce6040834d8
+SHA1: 4f5eab14294fdf7a268d801a953c6bddfa7872b3
+SHA256: f947d2fbdf55e9c227c4e73116ec20ca19af41b27728fb47e77497d5b2b6fcf8
+Section: System
+Priority: optional
+Description: dynamically loads Reveal v21(11690) into applications and plugins.
+Author: duyongchao <duyongchao.h@gmail.com>
+Dev: zidaneno5
+Name: Reveal2Loader
+
 Package: applist
 Version: 1.5.16~beta1
 Architecture: iphoneos-arm
@@ -261,6 +280,24 @@ Description: One swipe to kill them all!
 Author: cemck
 Icon: file:///Library/PreferenceBundles/KillXProPrefs.bundle/icon_pro_big@3x.png
 Name: KillX Pro
+
+Package: com.chinapyg.lookinloader
+Version: 1.0.6-1
+Architecture: iphoneos-arm
+Maintainer: creantan/P.Y.G
+Installed-Size: 10640
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: debs/com.chinapyg.lookinloader_1.0.6-1_iphoneos-arm.deb
+Size: 2866542
+MD5sum: 4e23a6e27492953b22f249835d42d932
+SHA1: b803d92e035950be173a52e7f05d4d4b9aab3948
+SHA256: 333ee2e63adecdfb09eeb0c18e2fe8bed0e5233dbae50dd5056e4e0b23bc0d5c
+Section: Tweaks
+Homepage: https://www.chinapyg.com
+Description: An awesome Lookin Loader for iOS8~iOS13!(https://www.chinapyg.com)
+Author: creantan/P.Y.G
+Icon: file:///Library/PreferenceLoader/Preferences/lookin@2x.png
+Name: LookinLoader
 
 Package: com.chinchorrospr.chinchorrospr
 Version: 2.1
@@ -1907,6 +1944,325 @@ Depiction: http://modmyi.com/info/tictacpod.d.php
 Name: TicTacPod
 Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 
+Package: com.paigu.amj
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 176
+Depends: mobilesubstrate
+Filename: debs/com.paigu.amj_1.0.0-1+debug_iphoneos-arm.deb
+Size: 5778
+MD5sum: f8c1c3dd3239b7584b9ae7a261d1eb24
+SHA1: 2218bb39eaffbb8ca6013bf86c474fd7660fc317
+SHA256: 721666e151e487fe072af48d44f46fcac2c910216b9325da30a84506c4cf217a
+Section: Tweaks
+Description: 自动跳过启动广告、视频播放前广告；去掉暂停广告；移除任务页面；免登陆观看会员内容
+Author: 糖醋丶炒排骨
+Name: 爱美剧去广告
+
+Package: com.paigu.bili
+Version: 1.1.0-2
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: debs/com.paigu.bili_1.1.0-2_iphoneos-arm.deb
+Size: 45090
+MD5sum: a227d6abae3e0808df4047d3dca21032
+SHA1: de932240b024927d24cc592a2bae48f1af6d916b
+SHA256: 55b911f824fa36f6529f40c480ad95ca24df7eb632ec2e9854bbb7cbe1a268b7
+Section: Tweaks
+Description: 适配最新版6.6.1。自动跳过启动广告；去除好评弹窗；去除青少年模式弹窗；完美去掉首页顶部横幅、首页广告卡片；完美去掉视频下方广告、活动推荐、游戏推荐、up主推荐广告；普通视频可启用会员画质。（修复点开某些视频闪退的问题）
+Author: 糖醋丶炒排骨
+Name: 哔哩哔哩-
+
+Package: com.paigu.dy
+Version: 1.2.1-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: debs/com.paigu.dy_1.2.1-1_iphoneos-arm.deb
+Size: 59738
+MD5sum: 24f34708c8bf61c5830e9935143de7e8
+SHA1: 343c554462d0ef64237d32697491375c3b36438e
+SHA256: 7b55b095aba6b2b736d0f90de74318eaf31e3ea1ce5ae6301c2f5660aabce1cc
+Section: Tweaks
+Description: (修复最新版12.2.0消息页面仍有广告的问题)去除所有广告
+Author: 糖醋丶炒排骨
+Name: 抖音-
+
+Package: com.paigu.hc
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/com.paigu.hc_1.0.0-1+debug_iphoneos-arm.deb
+Size: 3202
+MD5sum: c06b5ff7874d87746feae1022afccbc2
+SHA1: 0b7fe0c47e80d86780b54a354c62c28337004b01
+SHA256: 69ddf67c782d036bd970824db89905d1f42b527b0d58a915b71af9267334eee4
+Section: Tweaks
+Description: 适用2.0.2(240)最新版，解锁完整功能。
+Author: 糖醋丶炒排骨
+Name: HttpCatcher解锁
+
+Package: com.paigu.hjtv
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: debs/com.paigu.hjtv_1.0.1-1_iphoneos-arm.deb
+Size: 19784
+MD5sum: 8bddcc8a9a3d5b0d91e46bd09877b675
+SHA1: 4d1e6e58c64f329daca8f504b9abebe0ae5fe48e
+SHA256: 7bbd6e5f39b039693a6bc5eda91264280c7db757462a2205f616120a163b7a42
+Section: Tweaks
+Description: 韩剧tv启用隐藏会员、去广告，适配5.2.9最新版
+Author: 糖醋丶炒排骨
+Name: 韩剧TV+
+
+Package: com.paigu.huya
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.paigu.huya_1.0.0-1_iphoneos-arm.deb
+Size: 13660
+MD5sum: 2810d51e0fcd7bcfb7dd89909fff79a0
+SHA1: 3c9e3372a143ff5e22a6a5e525770eadedae550a
+SHA256: b53cc13b2cbb266436fa1a588a481ddf686c41e92120cb5987e52de6b43b91a3
+Section: Tweaks
+Description: 无痕移除：启动广告、首页横幅广告、首页卡片广告、直播间悬浮广告、直播间推广贴图。
+Author: 糖醋丶炒排骨
+Name: 虎牙直播-
+
+Package: com.paigu.icbcjbdbypass
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.paigu.icbcjbdbypass_1.0.0-1_iphoneos-arm.deb
+Size: 4566
+MD5sum: c20f3892a4e7035f6172517c4f2a76e4
+SHA1: 387ca127531beec4e0b8326605dc0b74fe9ea67e
+SHA256: 39a800ff816229f016a433e3cc0d15a3ca092008e74cfcdf263b5f9758e7a903
+Section: Tweaks
+Description: 反越狱检测
+Author: 糖醋丶炒排骨
+Name: 工银融e联JBDBypass
+
+Package: com.paigu.ift
+Version: 1.1.1-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.paigu.ift_1.1.1-1_iphoneos-arm.deb
+Size: 3232
+MD5sum: 43f961cbb7ea7dcf7c40b8e4fb97843a
+SHA1: 70fa59de7314350ff01d4eb0803e347c3c9f8276
+SHA256: f490c6ce8f08b25fac183bd8bf2f2341e33737ab97055e9c17ef1d07a11b8e25
+Section: Tweaks
+Description: （修复了一些问题）开启会员功能。打开“关闭格言”开关，弹窗后关闭后台重新打开即可生效
+Author: 糖醋丶炒排骨
+Name: 爱阅书香-
+
+Package: com.paigu.mojiweather
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.paigu.mojiweather_1.0.0-1_iphoneos-arm.deb
+Size: 2878
+MD5sum: b33842a41646ce3363f604111bbe01b5
+SHA1: 0dc1b5734832dfe3b9c4d0a89257eb626307e942
+SHA256: 3ba32052538c7e9607b91e1f836f19388a4570d36524037c431bb0ff00cd7a07
+Section: Tweaks
+Description: 免登录开启会员功能
+Author: 糖醋丶炒排骨
+Name: 墨迹天气-
+
+Package: com.paigu.ngh
+Version: 1.0.3-1+debug
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: debs/com.paigu.ngh_1.0.3-1+debug_iphoneos-arm.deb
+Size: 4568
+MD5sum: 2502e0a542b1f6544e5c2d90f5ad1a2b
+SHA1: e3bb066eeab691783286a0cb1e3dd6d52ae18742
+SHA256: 5698273d4722c784be9853d2706b5e4d25f1bbe5a1db672f22788bad3c9e7b2a
+Section: Tweaks
+Description: 历史天天听、南瓜礼品商店版，开启会员，去掉所有广告。（出现空白是南瓜服务器问题，下拉刷新一下就好；而且南瓜后台存不住，经常会被kill。这两个都不是插件造成的）
+Author: 糖醋丶炒排骨
+Name: 南瓜影视Crack
+
+Package: com.paigu.rrm
+Version: 1.1.1-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: debs/com.paigu.rrm_1.1.1-1_iphoneos-arm.deb
+Size: 18950
+MD5sum: cc91734af95aee909ae0ddc835ed675d
+SHA1: f29a4c0b59628afb3fea18c879fa80a6b99a0352
+SHA256: df1dbe87767b5b3b4b165a13541f95700a302395572341d2316c8ed473a31635
+Section: Tweaks
+Description: 去除所有广告，适配4.10.1版本
+Author: 糖醋丶炒排骨
+Name: 人人视频-
+
+Package: com.paigu.tb
+Version: 1.5.0-1
+Architecture: iphoneos-arm
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/com.paigu.tb_1.5.0-1_iphoneos-arm.deb
+Size: 25384
+MD5sum: 10ad419806baca7ec85cf0b3915c5b5c
+SHA1: 38c0487c807f6183db5167f0a9abdc23124da1ec
+SHA256: 27927b3f0cedafcc011e8dc586e6359a44fb61aa2c4b0d80ae09dddd9e8904fd
+Section: Tweaks
+Description: （适用至最新内测版11.7.3）移除：首页顶部横幅推广、首页的直播内容、帖子内部吧名显示、帖子内部直播推荐；一条方法干掉feed流广告和帖子内部广告以及尝试去除启动广告（还没碰到）
+Author: 糖醋丶炒排骨
+Name: 百度贴吧-
+
+Package: com.paigu.toutiao
+Version: 3.2.0-4
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 1020
+Depends: mobilesubstrate
+Filename: debs/com.paigu.toutiao_3.2.0-4_iphoneos-arm.deb
+Size: 369978
+MD5sum: 8484749569d81d0cfa897f51456776d4
+SHA1: 496e209c52d82c8dd4e7b9de1bb162ffd948e40c
+SHA256: 919a273cd51c090388f1a3ee9537dd6ed9238e3fb9d9d240adf45e774939a358
+Section: Tweaks
+Description: （修复7.8.3普通版版本首页和西瓜视频页仍有广告的问题、修复去除相关文章和相关搜索在新版本上失效的问题，去除普通版已知的所有广告）适配最新普通版和专业版7.8.3，整体基于专业版7.0.9开发。~~~~~~~~可选：去掉普通版大部分广告、去掉头条专业版和普通版的流量提醒、置顶新闻、文章下的相关搜索以及首页的直播推荐；去掉专业版文章下的相关文章和相关圈子、视频下的相关视频、顶部热搜文字、关注页推荐关注、移除状态栏的活动或节日横幅。~~~~~~~~~~~~~~~~首次安装后需要在“头条应用”内的”系统设置“中点击下方的“清爽今日头条”，打开所需功能的开关后应当立即生效(某些选项由于只调用一次或者存在缓存导致没有立即生效的话，也可以点击关闭“关闭头条应用”重新进入应用以生效)~~~~~~~~~~~~~~~~
+Author: 糖醋丶炒排骨
+Name: 清爽今日头条
+
+Package: com.paigu.vfa
+Version: 1.0.2-2
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.paigu.vfa_1.0.2-2_iphoneos-arm.deb
+Size: 3030
+MD5sum: cb926bb87b6090670764b32795465dda
+SHA1: 6dd237aa6a8424119e595305c98cbcd1c20ce6e2
+SHA256: 1db73cb206fa366f48b81a7c6fb943ab863ba66a0ce3515cbc5410377c670d1f
+Section: Tweaks
+Description: (尝试修复仍有广告的问题）去掉微信公众号文章内置、底部的广告
+Author: 糖醋丶炒排骨
+Name: 微信公众号去广告
+
+Package: com.paigu.wbjad
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.paigu.wbjad_1.0.0-1_iphoneos-arm.deb
+Size: 2666
+MD5sum: 336194a4ea84c8fef96ff76d693c8353
+SHA1: 8b3aa60aa417fc494554c2dbc6042307e9a208bb
+SHA256: 34eb620573c1afc3d91eb4fd571500c709282435ca1f04ceb347c1992e3ccbc2
+Section: Tweaks
+Description: 支持10.4.0最新版。去除启动广告、可开启会员功能——特别关注微博实时通知
+Author: 糖醋丶炒排骨
+Name: 微博+
+
+Package: com.paigu.wechatjbdbypass
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.paigu.wechatjbdbypass_0.0.1-1_iphoneos-arm.deb
+Size: 4218
+MD5sum: 650bd89dd33c0394647380f330cfcf27
+SHA1: e42c9baffe3f485b0cbb0338caf42a6354308efe
+SHA256: 455bbf4a0a9b6cf56e825dac0cdb3f6b7ca1e72b824edb6cc29911dd02bb233e
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: 糖醋丶炒排骨
+Name: WeChatJBDBypass
+
+Package: com.paigu.wf
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/com.paigu.wf_0.0.1-1+debug_iphoneos-arm.deb
+Size: 3170
+MD5sum: 8aa150acbc902ee6059978b1bc5bc722
+SHA1: 341cff6b893c9acd8e28833c7c304695dbb4a783
+SHA256: 8263836329d96b168743bf4fcc1b2a73b1fde718ebd96f5670d59f3519ad1134
+Section: Tweaks
+Description: 两条方法去掉所有广告。思路是hook请求广告的URL
+Author: 糖醋丶炒排骨
+Name: 威锋去广告
+
+Package: com.paigu.xm
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: debs/com.paigu.xm_1.0.0-1+debug_iphoneos-arm.deb
+Size: 4288
+MD5sum: 66d123726845710775ddf93626f4aa1a
+SHA1: eed5999317bf327f703eabae673d44b409ab749a
+SHA256: 46884b5be640c2e87d4bfb14d2791d25653f5509ec2ad38751a52575c82786b0
+Section: Tweaks
+Description: 商店版小蜜影视去除所有广告
+Author: 糖醋丶炒排骨
+Name: 小蜜影视去广告
+
+Package: com.paigu.xunleihook
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.paigu.xunleihook_1.0.0-1_iphoneos-arm.deb
+Size: 3156
+MD5sum: 439841e3b7b3711e468fb8c81cf92b7a
+SHA1: 9f56930158d2f1055e93850cd644498954d68294
+SHA256: d7c9e1b238226b7ae69c4457b8b53e92934277549e056212794d4b1427ad8024
+Section: Tweaks
+Description: 支持最新商店版迅雷开启超级会员
+Author: 糖醋丶炒排骨
+Name: 迅雷Crack
+
+Package: com.paigu.yk
+Version: 1.0.3-1+debug
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 176
+Depends: mobilesubstrate
+Filename: debs/com.paigu.yk_1.0.3-1+debug_iphoneos-arm.deb
+Size: 4960
+MD5sum: 8d72ac4e16b4c83e5343c519de4c452e
+SHA1: a4a3c651cec053b09af27f6ca0bd0b12ea23fc78
+SHA256: a7ede5b9c20637c54172b900a8066352bfdff8846ec27fac87b44339154bdd35
+Section: Tweaks
+Description: 测试于最新版8.6.8。去掉启动广告/视频播放前广告/会员专享广告/暂停广告
+Author: 糖醋丶炒排骨
+Name: 优酷去广告
+
 Package: com.roqy.roqybt
 Version: 0.9.9-6
 Architecture: iphoneos-arm
@@ -2905,6 +3261,54 @@ Description: 微信管家
 Author: XLsn0w
 Name: 微信管家
 
+Package: com.yourcompany.caiyuncrack
+Version: 1.0.0-2
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.yourcompany.caiyuncrack_1.0.0-2_iphoneos-arm.deb
+Size: 2708
+MD5sum: 51870f789562539f500eb9efb1e377d2
+SHA1: 68e866eaba92d337dd9afd1086cbb47f244e212d
+SHA256: 8c77f5ed79ec31eafe38b7fb1df8f536d7ffe79f795220b405d3847ceb298164
+Section: Tweaks
+Description: 登录即是会员
+Author: 糖醋丶炒排骨
+Name: 彩云天气+
+
+Package: com.yourcompany.heixiazi
+Version: 1.3.0-2
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/com.yourcompany.heixiazi_1.3.0-2_iphoneos-arm.deb
+Size: 32820
+MD5sum: c820e114a34809c74b02cfe5d86dd306
+SHA1: 632bd5c9c01e637f54e4477699ac5f89bd8de1fb
+SHA256: 1e8eb193a64e0becdfefd9dce097bac1a069fa268127f3e5caa0352b795fe90b
+Section: Tweaks
+Description: 激活去广告权限、无限次短视频下载、增强反越狱检测、增强防封、反vpn检测、反上传用户限制数据、反重签检测、去除“篡改数据”弹窗~~~~~~~~~适用App Store最新版1.7.5(也应该适用之后的版本)
+Author: 糖醋丶炒排骨
+Name: 黑匣子player-
+
+Package: com.yourcompany.meituan
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.yourcompany.meituan_1.0.0-1_iphoneos-arm.deb
+Size: 2620
+MD5sum: 7521f2f7e5864646ba7e9bb9cd04fccc
+SHA1: 4d9cafadbf71577d8b6f03bc0f4fa4d6a052d782
+SHA256: 470dd54834ff0ad4b7b9d3962c1ffdb9b87d6dcdbc9bc20ca200883ed14c74ea
+Section: Tweaks
+Description: 美团众包反越狱检测，请不要安装其他屏蔽越狱软件，否则可能仍会检测到越狱。（定制插件超过付费期限，现予公开，且不再更新）
+Author: 糖醋丶炒排骨
+Name: 美团众包JBDBypass
+
 Package: com.yourepo.samgisaninja.cydia11icon
 Version: 1.0.2
 Architecture: iphoneos-arm
@@ -3043,6 +3447,21 @@ Priority: standard
 Description: GNU lexer derived from Lex
 Name: Flex
 
+Package: flexdecrypt
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: John Coates
+Depends: firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
+Filename: debs/flexdecrypt.deb
+Size: 816362
+MD5sum: 0e7da473ba3a3f0aef5e228bf5f5153b
+SHA1: d48b286048d7cdad4b11f9b94425fe4129a8d906
+SHA256: 505086536761c07f36dde79a851a43c32baa8b586f75140077580d94cb12a96f
+Section: Tools
+Description: Tool for decrypting iOS apps and Mach-O binaries.
+Author: John Coates
+Name: flexdecrypt
+
 Package: iokittools
 Version: 76-4p
 Architecture: iphoneos-arm
@@ -3074,6 +3493,27 @@ Description: 基于Objective-C的logify.pl重新创建，使用NSLog代替％log
 Tag: role::iOS hacker
 Author: XLsn0w
 Name: nslogify
+
+Package: libflex
+Version: 4.0.0
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 7412
+Depends: firmware(>= 9.0), mobilesubstrate
+Conflicts: com.pantsthief.libflex
+Filename: debs/libflex_4.0.0_iphoneos-arm.deb
+Size: 1260764
+MD5sum: 5ef2b177f6b30126a4dbabc963963f90
+SHA1: cffac802807c7306b78122022ecaad87136f7ffb
+SHA256: 7595e02fb386bccdb6b1ce23508e615c333819bf9b919da2aa9c7a96dca59e09
+Section: Development
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libflexDp
+Description: A library for Flipboard Explorer.
+Tag: cydia::obsolete, purpose::library, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Author: Tanner Bennett <tannerbennett@me.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libflexDp
+Dev: tannerbennett
+Name: libFLEX
 
 Package: me.midnightchips.snapback
 Version: 2.0.1
@@ -3174,6 +3614,24 @@ Author: Dustin Howett <cydia.pl@relay.howett.net>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
 Dev: dustinhowett
 Name: PreferenceLoader
+
+Package: re.frida.server
+Version: 12.8.14
+Architecture: iphoneos-arm
+Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
+Installed-Size: 35440
+Conflicts: re.frida.server32
+Filename: debs/re.frida.server_12.8.14_iphoneos-arm.deb
+Size: 15130800
+MD5sum: cfa4a2f0db19354f410a42c0de4a4bc0
+SHA1: 2de763353c3c807a396c55b11ca129122c9626fd
+SHA256: 050d3981eee8f335379d4ff3e79beeb51adf923c7ac1527340384e362d25b440
+Section: Development
+Priority: optional
+Homepage: https://www.frida.re/
+Description: Inject JavaScript to explore iOS apps over USB.
+Author: Frida Developers <oleavr@nowsecure.com>
+Name: Frida
 
 Package: sudo
 Version: 1.6.9p12-4p
