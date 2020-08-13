@@ -3555,6 +3555,91 @@ Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/mobilesubstrate/
 Name: Cydia Substrate
 
+Package: net.sarahh12099.funimationjbbypass
+Version: 1.0.0.0
+Architecture: iphoneos-arm
+Maintainer: SarahH12099
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: debs/funimationjbbypass_1.0.0.0_iphoneos-arm.deb
+Size: 2936
+MD5sum: 1a5e8c5db1636e7e6193ac98477f2df9
+SHA1: 74b8721404c0b833d9789c6b71453251b6f4cf96
+SHA256: b52fc9150076326e2cd3c072620780ba345854da06cb11b711203892745d86ec
+Section: Tweaks
+Description: Bypass Jailbreak Detection In Funimation
+Author: SarahH12099
+Name: Funimation JB Bypass
+
+Package: net.sarahh12099.gympassjbbypass
+Version: 1.0.0.2
+Architecture: iphoneos-arm
+Maintainer: SarahH12099
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 11.0)
+Replaces: com.twickd.sarahh12099.gympass-jb-bypass
+Filename: debs/gympassjbbypass_1.0.0.2_iphoneos-arm.deb
+Size: 3088
+MD5sum: 757aef59f124969be13f0cf4a8f60b8e
+SHA1: a3517dff5b7765b660fd1ccbff924c16a20b45ab
+SHA256: f4563133aeb9e85bff977535afd15e08b6bdc46308f6e24b515233709c7dba4f
+Section: Tweaks
+Description: Bypass Jailbreak Detection In Gympass
+Author: SarahH12099
+Name: Gympass JB Bypass
+
+Package: net.sarahh12099.youtubemusicreborn
+Version: 1.0.1.2
+Architecture: iphoneos-arm
+Maintainer: SarahH12099
+Installed-Size: 312
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 11.0)
+Conflicts: com.justinpetkovic.ytmt
+Replaces: com.twickd.sarahh12099.youtube-music-reborn
+Filename: debs/youtubemusicreborn_1.0.1.2_iphoneos-arm.deb
+Size: 24452
+MD5sum: 5b35d5673b8ba6e025a4888df389c0af
+SHA1: cc0760202c70efcce08308687421aa8cf7575760
+SHA256: b7e50b52025c8289209f982e54cc0b582c60f7d0ef71812bdfb20b5bec89984c
+Section: Tweaks
+Description: YouTube Music Customizer
+Author: SarahH12099
+Name: YouTube Music Reborn
+
+Package: net.sarahh12099.youtubereborn
+Version: 1.0.4.6
+Architecture: iphoneos-arm
+Maintainer: SarahH12099
+Installed-Size: 340
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 11.0)
+Conflicts: com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers
+Replaces: com.twickd.sarahh12099.youtube-reborn
+Filename: debs/youtubereborn_1.0.4.6_iphoneos-arm.deb
+Size: 38548
+MD5sum: bf6da0379b17ba32e2247a2a5d398448
+SHA1: b2bbace7b13aaed00b46bc1e8dd537d8b6faf9bf
+SHA256: 8e1e12d7c733abcfb4ff41b1880701003429d6fa3bece97e56c0becdac8ce92f
+Section: Tweaks
+Description: YouTube Customizer
+Author: SarahH12099
+Name: YouTube Reborn
+
+Package: net.sarahh12099.zoomjbbypass
+Version: 1.0.0.0
+Architecture: iphoneos-arm
+Maintainer: SarahH12099
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: debs/zoomjbbypass_1.0.0.0_iphoneos-arm.deb
+Size: 2776
+MD5sum: 49ac61401feb82084b7dcaee6ee1c7fb
+SHA1: 31df710549bb61aee75156c7f374a4e4376eaa54
+SHA256: 112fccfe0dc9566b21bc780cc729da3c66f38d285a9c677e21fb6b5909225b43
+Section: Tweaks
+Description: Bypass Jailbreak Detection In Zoom
+Author: SarahH12099
+Name: Zoom JB Bypass
+
 Package: org.coolstar.sileo
 Version: 1.4.1
 Architecture: iphoneos-arm
