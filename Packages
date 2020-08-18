@@ -3462,6 +3462,22 @@ Description: Tool for decrypting iOS apps and Mach-O binaries.
 Author: John Coates
 Name: flexdecrypt
 
+Package: idv.aqua.iGameGuardian
+Version: 7.0.1
+Architecture: iphoneos-arm
+Maintainer: Aqua Wu <igameguardian@gmail.com>
+Installed-Size: 1700
+Filename: debs/iGG.7.0.1.deb
+Size: 581046
+MD5sum: b182af9054d04ac0210967ba2226ce2d
+SHA1: e528449c8398bba1106759c7912483831e0ec405
+SHA256: d2774343664564a146d7555ea75e5216de19967d13124778d9ae08091d6949cc
+Section: utils
+Priority: optional
+Description: iGameGuardian is a game cheating engine for iOS 6.x/7.x/8.x
+Author: Aqua Wu <igameguardian@gmail.com>
+Name: iGameGuardian
+
 Package: iokittools
 Version: 76-4p
 Architecture: iphoneos-arm
