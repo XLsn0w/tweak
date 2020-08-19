@@ -357,7 +357,7 @@ Package: com.gawain.LibWechatReSendVoice
 Version: 0.1-1
 Architecture: iphoneos-arm
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/微信转语音装B插件.deb
+Filename: debs/wxToSpeech_iphoneos-arm.deb
 Size: 8560392
 MD5sum: 22851b3c0eac383b4fd90b2308563f64
 SHA1: 640f55abef7cc7792a9bc5904d6dc7e031b91143
@@ -3126,6 +3126,20 @@ Dev: satashi2009
 Icon: file:///Applications/Filza.app/AppIcon57x57.png
 Name: Filza File Manager
 Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.wxhbts.hidejb
+Version: 2.1.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 7.0), ws.hbang.common (>= 1.13.1), applist, preferenceloader
+Filename: debs/Hide_JB_2.1.1_iphoneos-arm.deb
+Size: 181514
+MD5sum: d76b9be9f0108f7bfc3002aec30fd991
+SHA1: 9de23673eea1afb5bd4db86f2393f830f8cd887a
+SHA256: 0b12167a69d7e35f8125656ec58a02b2453c0f071b3b900d641dd5f67b17134b
+Section: 常用插件
+Author: TTJB Team
+Icon: https://apt.wxhbts.com/icon/%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6.png
+Name: Hide JB 屏蔽越狱
 
 Package: com.xlsn0w.JailbreakChecker
 Version: 2.0.0
