@@ -3257,6 +3257,20 @@ Tag: role::hacker
 Author: busybox
 Name: iTool
 
+Package: com.xlsn0w.thorcracked
+Version: 2.0.0
+Architecture: iphoneos-arm
+Installed-Size: 580
+Depends: mobilesubstrate
+Filename: debs/com.xlsn0w.thorcracked_2.0.0_iphoneos-arm.deb
+Size: 113160
+MD5sum: 3480793d0619134796ac2732934c56f1
+SHA1: 90b56a692bab3bb6fa4ecdf63be59e04f7eba193
+SHA256: e07af8a18740008ad392175af999ff2a14fc52d63dd27eddb8642290c8847e21
+Section: XLsn0w
+Author: XLsn0w
+Name: Thor 1.3.4 破解
+
 Package: com.xlsn0w.wifipassword
 Version: 1.5.0-1+debug
 Architecture: iphoneos-arm
