@@ -55,21 +55,6 @@ Depiction: http://modmyi.com/info/webgo.d.php
 Name: WebGo
 Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 
-Package: co.victor.iGameGuardianhelp
-Version: 8.0k
-Architecture: iphoneos-arm
-Maintainer: Victor  Tim
-Depends: mobilesubstrate
-Filename: debs/iGameGuardianhelp.deb
-Size: 3220
-MD5sum: 42ca391bb3d659a886df04069d9e7a5c
-SHA1: 9e7744802fc582d1a0e3d2d1bb40d31851841fa1
-SHA256: b11548afcab5ba330edd40b101e58d7ba174b3094a675124e9a10cf9f067819e
-Section: Tweaks
-Author: Victor Tim
-Name: Patch for iGameGuardian
-Sponsor: Vitcortim.co
-
 Package: co.vitcortim.igameguardian
 Version: 8.0k1
 Architecture: iphoneos-arm
