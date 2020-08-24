@@ -17,26 +17,6 @@ Author: duyongchao <duyongchao.h@gmail.com>
 Dev: zidaneno5
 Name: Reveal2Loader
 
-Package: applist
-Version: 1.5.16~beta1
-Architecture: iphoneos-arm
-Maintainer: Ryan Petrich <rpetrich@gmail.com>
-Installed-Size: 780
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3) | firmware (<< 7.0)
-Conflicts: com.a3tweaks.polus (<< 2.0.7)
-Filename: debs/applist_1.5.16_beta1_iphoneos-arm.deb
-Size: 105762
-MD5sum: 55a1932ed038b5d53985cfd66a590dfa
-SHA1: 77431fdde32351bf07d2c340ef87c8c83872b210
-SHA256: e0903791e57fa54e97b464df28d02f0a07110f741fc9bc032a69c0d1c9d57a80
-Section: System
-Description: Allow extensions to read the list of installed apps
-Author: Ryan Petrich <rpetrich@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
-Dev: rpetrich
-Name: AppList
-Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
-
 Package: cn.mobgo.webgo
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -107,30 +87,6 @@ Author: ismoothproject <cjag@me.com>
 Depiction: http://modmyi.com/info/netvoice.d.php
 Name: NetVoice
 Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
-
-Package: com.a3tweaks.flipswitch
-Version: 1.0.16~rc1
-Architecture: iphoneos-arm
-Maintainer: rpetrich & a3tweaks <rpetrich+flipswitch@gmail.com>
-Installed-Size: 2408
-Depends: mobilesubstrate (>= 0.9.5001), com.rpetrich.rocketbootstrap (>= 1.0.9) | firmware (<< 7.0)
-Conflicts: com.rpetrich.donotdisturbtoggle (<= 1.0-1), com.jerryen.rotationlockflipswitch
-Replaces: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift
-Provides: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift
-Filename: debs/com.a3tweaks.flipswitch_1.0.16_rc1_iphoneos-arm.deb
-Size: 297434
-MD5sum: b063147cf028f431c9d81bd15f6a0cd2
-SHA1: 1e3b1dc43afebfde87ff4dc33fbde9163d4b4bba
-SHA256: 8b714c5eae822ba0ece18c25a259a68f9de26cca8e7fbd1b3972d1030b693769
-Section: System
-Homepage: https://rpetri.ch/cydia/flipswitch/beta/
-Description: Centralized toggle system for iOS
-Tag: purpose::extension, role::developer
-Author: rpetrich <rpetrich+flipswitch@gmail.com>
-Depiction: https://rpetri.ch/cydia/flipswitch/beta/
-Dev: flipswitch
-Icon: file:///Applications/Preferences.app/icon-table.png
-Name: Flipswitch
 
 Package: com.alexelgt.programmesguides
 Version: 1.1-2
