@@ -401,6 +401,118 @@ Description: Center the icons in the docks vertically.
 Author: DGh0st <deeppwnage@yahoo.com>
 Name: CenterDockIcons
 
+Package: com.dgh0st.centerobey
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 137
+Depends: mobilesubstrate
+Filename: debs/com.dgh0st.centerobey_0.0.2_iphoneos-arm.deb
+Size: 9004
+MD5sum: 731c81c24478717e21e61b7a1e50bfc1
+SHA1: 5127da8d8c21a82c64cfed6a1f18bbc45365a03d
+SHA256: 5ed4b01efce00313af66af248738f1590e8648851e15d7c8fdcc9b73ff9c079d
+Section: Tweaks
+Description: NC and CC will obey based on finger position.
+Author: DGh0st <deeppwnage@yahoo.com>
+Name: CenterObey
+
+Package: com.dgh0st.colorsbpercentage
+Version: 0.0.1-1~Twelve
+Architecture: iphoneos-arm
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 188
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs/com.dgh0st.colorsbpercentage_0.0.1-1~Twelve_iphoneos-arm.deb
+Size: 19006
+MD5sum: 73dc2abc8cbaad4829008b2a24bb0939
+SHA1: 7689c2910e6363d51728aff15b0b0081414a8954
+SHA256: 5e88d8e2386c73212c068cbbc914f4d7cfc84aa067a44cdddbd5c579e9d311c0
+Section: Tweaks
+Description: Color the status bar percentage
+Author: DGh0st <deeppwnage@yahoo.com>
+Name: ColorSBPercentage
+
+Package: com.dgh0st.darkauxo
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 137
+Depends: mobilesubstrate
+Filename: debs/com.dgh0st.darkauxo_0.0.4_iphoneos-arm.deb
+Size: 7422
+MD5sum: 10914c45c963837dbe4bcc54b18e8979
+SHA1: b704bb6846df67b3ceb3f23f18fac7605f33c4c2
+SHA256: 0ba347d09a4e73558b34dd3ac87a995a1bae7af8b1adfd83f67739259bcb207b
+Section: Tweaks
+Description: Makes Auxo LE dark, works with regular CC and NC (iOS 9 only) as well.
+Author: DGh0st <deeppwnage@yahoo.com>
+Name: DarkAuxo(CC & NC)
+
+Package: com.dgh0st.deasyrespring
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 133
+Depends: mobilesubstrate
+Filename: debs/com.dgh0st.deasyrespring_0.0.1_iphoneos-arm.deb
+Size: 139312
+MD5sum: b8ebe3e839bee50cc1eff3776f72c4b6
+SHA1: 9d56d737c8a2fc360fb3364e2f1df1ccec79360f
+SHA256: ecd08fafdd4cd485b64bb50a674436b5ee6dc41180f6dfe6be5dbf56e35b860f
+Section: Tweaks
+Description: DGh0st's version of EasyRespring. Created to add support for iOS 9.3.3, which means this tweak only works on iOS 9+.
+Author: DGh0st <deeppwnage@yahoo.com>
+Name: DEasyRespring
+
+Package: com.dgh0st.dvirtualhome
+Version: 0.0.15
+Architecture: iphoneos-arm
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 456
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.dgh0st.dvirtualhome_0.0.15_iphoneos-arm.deb
+Size: 30500
+MD5sum: 2b22a0d7b45cc36d3af7a04728e34336
+SHA1: b8aa280ca7634f8da4bd3d5eabd85ba22d4b48ef
+SHA256: d222bb2cddb1d1f6872cb31ee53d1ff6d3e8d08b11b8129ebed913621bf9cf12
+Section: Tweaks
+Description: My attempt at making virtual home iOS 10 compatible.
+Author: DGh0st <deeppwnage@yahoo.com>
+Name: DVirtualHome
+
+Package: com.dgh0st.enhancedswitcherclose
+Version: 0.0.7-7
+Architecture: iphoneos-arm
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 376
+Depends: mobilesubstrate, preferenceloader, applist, org.thebigboss.libcolorpicker
+Filename: debs/com.dgh0st.enhancedswitcherclose_0.0.7-7_iphoneos-arm.deb
+Size: 36672
+MD5sum: f670cea23af1b5737eefe7051721de93
+SHA1: b86c41d1c1f2cb53b29da03fc5de1e45d78bb633
+SHA256: a645e2d256f39a04ef5f998f8bc6c4b7a43d7d59d261120ae56be0854c75bbe2
+Section: Tweaks
+Description: Enhance Switcher Close by adding more swipe up features with clean UI.
+Author: DGh0st <deeppwnage@yahoo.com>
+Name: EnhancedSwitcherClose
+
+Package: com.dgh0st.flexall
+Version: 0.0.1-20
+Architecture: iphoneos-arm
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 260
+Depends: mobilesubstrate, libflex
+Filename: debs/com.dgh0st.flexall_0.0.1-20_iphoneos-arm.deb
+Size: 20970
+MD5sum: 77402f8267e43472287fe25ab74b9fde
+SHA1: 34801357cd7d0916807dfbbb9bd0ff5ffbca1a9d
+SHA256: 4b587d0821978d9575af10cdbf7c60a481b5d0df27353b004c98eade53b4f99f
+Section: Tweaks
+Description: Load FLEX loader dynamically.
+Author: DGh0st <deeppwnage@yahoo.com>
+Name: FLEXall
+
 Package: com.dgh0st.floatingdock
 Version: 0.0.2
 Architecture: iphoneos-arm
@@ -416,6 +528,309 @@ Section: Tweaks
 Description: Make the dock float.
 Author: DGh0st <deeppwnage@yahoo.com>
 Name: FloatingDock
+
+Package: com.dgh0st.force3dappshortcuts
+Version: 0.0.8
+Architecture: iphoneos-arm
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 428
+Depends: mobilesubstrate
+Filename: debs/com.dgh0st.force3dappshortcuts_0.0.8_iphoneos-arm.deb
+Size: 27910
+MD5sum: ed48a9058ec68aacaddaa55da04b3538
+SHA1: f6d63d5a9f343516ed2ccdf7946d5f38840b0652
+SHA256: 823aeec4d7290f81116636d892d2a608862ff4a9c2c12352aa739a0f293e5062
+Section: Tweaks
+Description: Enable 3D touch shortcuts on homescreen for older devices.
+Author: DGh0st <deeppwnage@yahoo.com>
+Name: Force3DAppShortcuts
+
+Package: com.dgh0st.forcelsshortcuts
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: debs/com.dgh0st.forcelsshortcuts_0.0.2_iphoneos-arm.deb
+Size: 12730
+MD5sum: 2a87a243d6425af9b0a3eb576786e325
+SHA1: 9100a65f9621e9e3c02eaef8b8d79f2a6ee93bd4
+SHA256: 025260936530a93813f2158358552e0d1b50ce460db70280ebacefdc56c062d7
+Section: Tweaks
+Description: Force enable lockscreen shortcuts on non-supported devices
+Author: DGh0st <deeppwnage@yahoo.com>
+Name: ForceLSShortcuts
+
+Package: com.dgh0st.hideccswitchbackground
+Version: 0.0.6
+Architecture: iphoneos-arm
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 141
+Depends: mobilesubstrate
+Filename: debs/com.dgh0st.hideccswitchbackground_0.0.6_iphoneos-arm.deb
+Size: 14078
+MD5sum: fad9d7276a032bc91da000254eedabd1
+SHA1: 3b6170a8fea4eb09c4a5be218df078e8b4ceb559
+SHA256: 16a790a79c3470f36ad98299068311f50af98934352cdc7c36059807b7c7c748
+Section: Tweaks
+Description: Hide the background of CC switches
+Author: DGh0st <deeppwnage@yahoo.com>
+Name: HideCCSwitchBackground
+
+Package: com.dgh0st.homecardiconlabel
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 293
+Depends: mobilesubstrate
+Filename: debs/com.dgh0st.homecardiconlabel_0.0.1_iphoneos-arm.deb
+Size: 121086
+MD5sum: d43b2bd6d0a74d8f8401c3ec4572e433
+SHA1: 09622318acbd958ec811bc661da7b643122f0a7a
+SHA256: 6811c345268532d4a70e1038ee0ce715caaa50c8084a7fb51376188763bcdfd7
+Section: Tweaks
+Description: Enable icon and label for home card
+Author: DGh0st <deeppwnage@yahoo.com>
+Name: HomeCardIconLabel
+
+Package: com.dgh0st.horizontalvideos
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 141
+Depends: mobilesubstrate
+Filename: debs/com.dgh0st.horizontalvideos_0.0.1_iphoneos-arm.deb
+Size: 10344
+MD5sum: 8019ccb60233526f4ccdf5655415a92b
+SHA1: b7e44313cf9232cac6c8e5779af6222825fb9608
+SHA256: 8547845362abe2ac91a950b64801455bea65feb894f21cc810902dd90fee8bf7
+Section: Tweaks
+Description: Display videos in landscape (horizontal) mode for iOS 10.
+Author: DGh0st <deeppwnage@yahoo.com>
+Name: HorizontalVideos
+
+Package: com.dgh0st.hswidgets
+Version: 0.2-1
+Architecture: iphoneos-arm
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 3828
+Depends: mobilesubstrate
+Filename: debs/com.dgh0st.hswidgets_0.2-1_iphoneos-arm.deb
+Size: 317814
+MD5sum: 60b03f4aa4fafdfe12d633e81071b03f
+SHA1: 70226bd329e5fb79e93a13257aa7a36c52848135
+SHA256: 033e6ac77a4da156b63f977971fb19eb7bddcbf592c061d9c5f489fbb77aaa3e
+Section: Tweaks
+Description: Add today widgets or custom widgets to home screen.
+Author: DGh0st <deeppwnage@yahoo.com>
+Name: HSWidgets
+
+Package: com.dgh0st.invisblehomecard
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 141
+Depends: mobilesubstrate
+Filename: debs/com.dgh0st.invisblehomecard_0.0.2_iphoneos-arm.deb
+Size: 10346
+MD5sum: 870bb111b671cacd9d5f2cbcc00e1ca5
+SHA1: c8ac9539dcc2808f925a69eb59c28721903b41c2
+SHA256: 40e1964edfa4266e87cd353cb5cc557d8e96cbbcd1e7ca18a9ce0c2c46e6a754
+Section: Tweaks
+Description: Remove homescreen card from app switcher
+Author: DGh0st <deeppwnage@yahoo.com>
+Name: InvisibleHomeCard
+
+Package: com.dgh0st.lsscreenshotlimit
+Version: 0.0.4-1
+Architecture: iphoneos-arm
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 294
+Depends: mobilesubstrate
+Filename: debs/com.dgh0st.lsscreenshotlimit_0.0.4-1_iphoneos-arm.deb
+Size: 15942
+MD5sum: 21f9385354efff76eefa0d43ee39e3ee
+SHA1: 163cc2e6471041ad83a00440befddb4933d5852f
+SHA256: fed48fb5564cc36e4189e6efeeebc0f7e0498a72391374715517f7ca5f6768b7
+Section: Tweaks
+Description: Limit the amount of screenshots on your lockscreen.
+Author: DGh0st <deeppwnage@yahoo.com>
+Name: LSScreenshotLimit
+
+Package: com.dgh0st.lstapnotifications
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 133
+Depends: mobilesubstrate
+Filename: debs/com.dgh0st.lstapnotifications_0.0.1_iphoneos-arm.deb
+Size: 3068
+MD5sum: 01484c45d2a9f7bbc47cc73e1e1b9bab
+SHA1: 35a7652d85d5b4dfa8bcb150900b80e6ef575835
+SHA256: adc47baba8d472196267d13197700ddf82e1dc096782a0fc4b3ed960328fbd0e
+Section: Tweaks
+Description: Tap to open notifications on iOS 10.
+Author: DGh0st <deeppwnage@yahoo.com>
+Name: LSTapNotifications
+
+Package: com.dgh0st.mirrorselfie
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: debs/com.dgh0st.mirrorselfie_0.0.1_iphoneos-arm.deb
+Size: 3430
+MD5sum: 6eba5eb916af1a8bc0f66e5ed6695ebc
+SHA1: c641c4ef4acd30bf74ec5d8cd7490e20c25887db
+SHA256: b057ef3fd1d2e4dd7dc35268cddcd1c80f3950cf5ce4cfce48248f9a0ea609e9
+Section: Tweaks
+Description: Mirror the selfie that is saved
+Author: DGh0st <deeppwnage@yahoo.com>
+Name: MirrorSelfie
+
+Package: com.dgh0st.ncalwayschevron
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 133
+Depends: mobilesubstrate
+Filename: debs/com.dgh0st.ncalwayschevron_0.0.1_iphoneos-arm.deb
+Size: 5186
+MD5sum: 7652697b338da7e5aec5fe75f1531f51
+SHA1: 126ffa6ad4eb356580c13d648a6461cbcbc55bb4
+SHA256: ab5c5dc4abfb827b15c4b62184bde0b39f75b35d10edc60973db396bc12bea57
+Section: Tweaks
+Description: Always display the chevron view in the notification center instead of switching to page control.
+Author: DGh0st <deeppwnage@yahoo.com>
+Name: NCAlwaysChevron
+
+Package: com.dgh0st.nccleartext
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: DGh0st
+Installed-Size: 318
+Depends: mobilesubstrate
+Filename: debs/com.dgh0st.nccleartext_1.2.1_iphoneos-arm.deb
+Size: 321018
+MD5sum: 7a35d68e92e83d50ef4a3cab988f3d54
+SHA1: d74234f50d4826ff6bdf2ea47c1a78de5a3806be
+SHA256: 300363bee441b376afede34d408c325b9daf2d15f7550045b396652ae6c7e6f6
+Section: Tweaks
+Description: Sets the Notification Center "clear" text to custom text
+Author: DGh0st
+Name: NCClearText
+
+Package: com.dgh0st.nobatteryicon
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: debs/com.dgh0st.nobatteryicon_0.0.1-1_iphoneos-arm.deb
+Size: 4120
+MD5sum: b3372b62d5ddef81adfcdf0465b8c4bc
+SHA1: 9b2f120b5568c15c96eb262bb6632a7c18672833
+SHA256: 26326da1526b3a62012cf70f20e3b99ad725108a209424d4f7412fe7fbd608cc
+Section: Tweaks
+Description: Hide the battery icon without the hiding the charging bolt.
+Author: DGh0st <deeppwnage@yahoo.com>
+Name: NoBatteryIcon
+
+Package: com.dgh0st.nolsnotificationblur
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 133
+Depends: mobilesubstrate
+Filename: debs/com.dgh0st.nolsnotificationblur_0.0.1_iphoneos-arm.deb
+Size: 138258
+MD5sum: da953a3f71e16a2d6345cbd763495026
+SHA1: 62191b05f05e5c54664824022218e60e00af2172
+SHA256: 3f1903183b4492f09ffcbfae2266420e03c83d5bf6a72bce0c81b651a8bf4706
+Section: Tweaks
+Description: Removes the lockscreen notification blur/underlay.
+Author: DGh0st <deeppwnage@yahoo.com>
+Name: NoLSNotificationBlur
+
+Package: com.dgh0st.nolsnotificationseparators
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 133
+Depends: mobilesubstrate
+Filename: debs/com.dgh0st.nolsnotificationseparators_0.0.2_iphoneos-arm.deb
+Size: 5956
+MD5sum: 819050aa2d9530a97f119c4ec1181a13
+SHA1: a1519d1ce2b34f54740edbf8a4b76abfa48c85e1
+SHA256: 3b8d53daddd8eb082bc140305c40d15658333f00fb0da0d9a58a5b18d3b41964
+Section: Tweaks
+Description: Removes the lockscreen notification separators.
+Author: DGh0st <deeppwnage@yahoo.com>
+Name: NoLSNotificationSeparators
+
+Package: com.dgh0st.preferredrotation
+Version: 0.0.2-1
+Architecture: iphoneos-arm
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 290
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: debs/com.dgh0st.preferredrotation_0.0.2-1_iphoneos-arm.deb
+Size: 18306
+MD5sum: 0ab200f111cd2c5892aafc86ea8404bc
+SHA1: 17a322f1ca1dfb80a20c6fd8d421044786ccaa19
+SHA256: ebfad8decc38e686b76523f0c6ccb6853a661e49755a6df5feef2e315ec0f4c7
+Section: Tweaks
+Description: Forces device to only rotate to preferred orientation.
+Author: DGh0st <deeppwnage@yahoo.com>
+Name: PreferredRotation
+
+Package: com.dgh0st.scappshortcuts
+Version: 0.0.2-1
+Architecture: iphoneos-arm
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 426
+Depends: mobilesubstrate, preferenceloader, com.dgh0st.switchercontrols | org.thebigboss.switchercontrols, applist
+Filename: debs/com.dgh0st.scappshortcuts_0.0.2-1_iphoneos-arm.deb
+Size: 108286
+MD5sum: 147907fee7de8b0c0700363f7ae2c9a5
+SHA1: 0e435b90c7c9c068a1c210052d59b93bd375fa07
+SHA256: 32407eddbe88b2902488827894013299777f7674812b4fe06b57dba1d51b0dd6
+Section: Tweaks
+Description: Add app shortcut section to SwitcherControls.
+Author: DGh0st <deeppwnage@yahoo.com>
+Name: SCAppShortcuts
+
+Package: com.dgh0st.shifttopswitcher
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 101
+Depends: mobilesubstrate
+Filename: debs/com.dgh0st.shifttopswitcher_0.0.1_iphoneos-arm.deb
+Size: 3406
+MD5sum: 1f7a8953969b009a47f0a58d7a49d3bd
+SHA1: b270f2c07eb87cd506a3356b4b0d29e075477fa6
+SHA256: f292c69c00be93fc7bd378f5eaa6689bbe1371db06467a98a53e9d371e673809
+Section: Tweaks
+Description: Shifts the top switcher application!
+Author: DGh0st <deeppwnage@yahoo.com>
+Name: ShiftTopSwitcher
+
+Package: com.dgh0st.systeminfowidget
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 524
+Filename: debs/com.dgh0st.systeminfowidget_0.0.2_iphoneos-arm.deb
+Size: 176440
+MD5sum: 383bb4aac54584d39699347ffb5841ee
+SHA1: 496ca8586aeb6d7fd78fbe4c78765b526b84cb20
+SHA256: 6e660066f0ae0ac4ce07036f364878dc809290e322b3112a430b87ecd0877f53
+Section: Addons (Today Widget)
+Description: System Info Widget that displays battery and storage space
+Author: DGh0st <deeppwnage@yahoo.com>
+Name: SystemInfoWidget
 
 Package: com.gawain.LibWechatReSendVoice
 Version: 0.1-1
