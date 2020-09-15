@@ -288,6 +288,135 @@ Dev: bobbypage
 Name: iBattery
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.dgh0st.alertclose
+Version: 1.6.8
+Architecture: iphoneos-arm
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 370
+Depends: mobilesubstrate, applist, preferenceloader
+Filename: debs/com.dgh0st.alertclose_1.6.8_iphoneos-arm.deb
+Size: 57412
+MD5sum: 5ca0b9ef7723a17e0ef7c717e7f55d9f
+SHA1: 6268605f531e0d85bef5083bba7220ff6d837e00
+SHA256: dd346c3e9ec868ca15455fd0be0aec2c380e2d90b100249aed65e63f1781bab2
+Section: Tweaks
+Description: Display an alert with option to close, relaunch, dismiss switcher and cancel when you try to swipe application up through application switcher.
+Author: DGh0st <deeppwnage@yahoo.com>
+Name: AlertClose
+
+Package: com.dgh0st.appswitchcurrent
+Version: 1.2-5
+Architecture: iphoneos-arm
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 188
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.dgh0st.appswitchcurrent_1.2-5_iphoneos-arm.deb
+Size: 16652
+MD5sum: 456466a985bfb04f250b2bdcbbb596d7
+SHA1: 3e0ba55a80ee1152434586cff3476d30d09406bf
+SHA256: aed4337633cbb7260e69b2898b75464ebc29ffabfd469a367cb35c9fab6af5b7
+Section: Tweaks
+Description: App Switcher to current application instead of last app.
+Author: DGh0st <deeppwnage@yahoo.com>
+Name: AppSwitchCurrent
+
+Package: com.dgh0st.appswitchcurrent10
+Version: 0.0.2-1
+Architecture: iphoneos-arm
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 318
+Depends: mobilesubstrate
+Filename: debs/com.dgh0st.appswitchcurrent10_0.0.2-1_iphoneos-arm.deb
+Size: 15334
+MD5sum: 0c5425bbc245cee93a71be8da82a5a09
+SHA1: f94226fe6338463137647560399ec6ccca8a0cfa
+SHA256: 0c0298bb37cb5488d9a9930ccca54e6e7b8ec97c0098f6d9fb8f16ab2d6ebd7f
+Section: Tweaks
+Description: Center current application in deck switcher instead of last application for iOS 9 and 10.
+Author: DGh0st <deeppwnage@yahoo.com>
+Name: AppSwitchCurrent (9 & 10)
+
+Package: com.dgh0st.appswitchcurrentOrig
+Version: 1.0-6
+Architecture: iphoneos-arm
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 188
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.dgh0st.appswitchcurrentOrig_1.0-6_iphoneos-arm.deb
+Size: 15284
+MD5sum: 77f8b1c66a1fc934f2fcc876783d4d75
+SHA1: b4198f0febea0aba9035ce01109df0ebebb005e5
+SHA256: 718d11983fb001725c4cd15e759d0649aaf8131c1113fe75b6cea65d4ce4616a
+Section: Tweaks
+Description: App Switcher to current instead of last app.
+Author: DGh0st <deeppwnage@yahoo.com>
+Name: AppSwitchCurrentOrig
+
+Package: com.dgh0st.badgeoverlay
+Version: 0.0.8
+Architecture: iphoneos-arm
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 420
+Depends: mobilesubstrate
+Filename: debs/com.dgh0st.badgeoverlay_0.0.8_iphoneos-arm.deb
+Size: 26876
+MD5sum: 14940380d17a4d2c62325a793ff4eced
+SHA1: 10bdaebdcacd4d7edd1f522171b321f5c58970b3
+SHA256: a20e44d9c868450da4686503a0227baf3992daf9283a3d8340503a3d781e10de
+Section: Tweaks
+Description: Make badges overlay on top of icons instead of being in the corner.
+Author: DGh0st <deeppwnage@yahoo.com>
+Name: BadgeOverlay
+
+Package: com.dgh0st.batterybar
+Version: 0.0.3-4
+Architecture: iphoneos-arm
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 358
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Conflicts: com.skylerk99.powerbar, org.thebigboss.batterystatusbar
+Filename: debs/com.dgh0st.batterybar_0.0.3-4_iphoneos-arm.deb
+Size: 40980
+MD5sum: 26f56a700f019755af82792c24d199ea
+SHA1: e2aba4a4d72c18db3dc15e78c1f2bf9fa56f42f5
+SHA256: bee1348258763a86984b2343fc3be3f588b59acc0b7096c107a337146e60483b
+Section: Tweaks
+Description: Display a bar that represents the battery percentage in the status bar.
+Author: DGh0st <deeppwnage@yahoo.com>
+Name: BatteryBar
+
+Package: com.dgh0st.centerdockicons
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 133
+Depends: mobilesubstrate
+Filename: debs/com.dgh0st.centerdockicons_0.0.1_iphoneos-arm.deb
+Size: 6120
+MD5sum: abdee2ee6ccf8b132040fb1218400c1b
+SHA1: fda728afe08f7d3001233d8391ec759e0a24f73d
+SHA256: 0508e000401d89c3dac888c5c4fa98b7e4de9b2a568ce08b6ce1027bd88aea61
+Section: Tweaks
+Description: Center the icons in the docks vertically.
+Author: DGh0st <deeppwnage@yahoo.com>
+Name: CenterDockIcons
+
+Package: com.dgh0st.floatingdock
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 133
+Depends: mobilesubstrate
+Filename: debs/com.dgh0st.floatingdock_0.0.2_iphoneos-arm.deb
+Size: 8206
+MD5sum: 0aae24f80d06023c8fa6404d0a047845
+SHA1: 4cce07c60ead5de1ebbb2e5badb4f4392db34e61
+SHA256: 81376436e2230fbde9b4eb995f9b83677f9da3c61505d88a0ad7352a96ff379b
+Section: Tweaks
+Description: Make the dock float.
+Author: DGh0st <deeppwnage@yahoo.com>
+Name: FloatingDock
+
 Package: com.gawain.LibWechatReSendVoice
 Version: 0.1-1
 Architecture: iphoneos-arm
@@ -3706,6 +3835,40 @@ Tag: cydia::commercial
 Author: Luke Muris
 Icon: file:///Library/PreferenceBundles/LendMyPhone.bundle/store.png
 Name: LendMyPhone
+
+Package: com.nyansatan.WayOut
+Version: 1.6.2-1G27a
+Architecture: iphoneos-arm
+Maintainer: Nyan Satan
+Installed-Size: 8092
+Depends: firmware (>= 5.0)
+Filename: debs/WayOut.deb
+Size: 7883634
+MD5sum: 7800f1c8fa317e3ce3cf7ccdf82eaba8
+SHA1: 9dde58f854f24e59cc9ff32d6e51276bf4d526c7
+SHA256: 8db8d67fdb65e98a466aa2de510eabd168b9d6d395cce0e156f91ae49bb985a6
+Section: System
+Description: Skeuomorphic GUI for kloader
+Author: @nyan_satan
+Depiction: http://nyansatan.github.io/apt/depictions/wayout.html
+Icon: file:///Applications/WayOut.app/icon7.png
+Name: Way Out
+
+Package: com.nyansatan.dualbootstuff
+Version: 1.0.7a
+Architecture: iphoneos-arm
+Maintainer: Nyan Satan
+Installed-Size: 2749
+Filename: debs/dualbootstuff.deb
+Size: 1320838
+MD5sum: 807c78307f99e7483a611a1d7a54901a
+SHA1: 48f75eeaa81e66416d5d5879c8538b14469b7a86
+SHA256: 5709a3b954cd330cf9b7b02900dcddcab2ca038f9fac75cdf385609fdc829c8c
+Section: System
+Description: Dualboot tools
+Author: @danzatt, @winocm, @xerub, @JonathanSeals, @axi0mX, @Apple, @comex, Roderick W. Smith, people behind iphone-dataprotection project, @nyan_satan
+Depiction: http://nyansatan.github.io/apt/depictions/dualbootstuff.html
+Name: dualbootstuff
 
 Package: com.octodev.nebula
 Version: 1.0.0
