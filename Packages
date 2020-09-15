@@ -4908,6 +4908,101 @@ Icon: file:///Applications/Filza.app/AppIcon57x57.png
 Name: Filza File Manager
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.tonyciroussel.contactslider
+Version: 1.2.2-2
+Architecture: iphoneos-arm
+Maintainer: Tony Ciroussel <tony.ciroussel@riseup.net>
+Installed-Size: 376
+Depends: mobilesubstrate, firmware (>= 7.0), firmware (<< 8.0), preferenceloader
+Conflicts: com.a3tweak.auxo2
+Filename: debs/com.tonyciroussel.contactslider.deb
+Size: 147230
+MD5sum: 8788d0feb5459727f248a64f95d7c111
+SHA1: eed70c6938f3fd67fbd652deca8e6988cb2ec856
+SHA256: 18870883f97d18b4ec25ad95a7e3aeb5184253c91814c59c724230b2670b37c0
+Section: Tweaks
+Homepage: https://akebu.github.io/cydia/depictions/?p=com.tonyciroussel.contactslider
+Description: Contacts in app Switcher, for iOS 7
+Tag: purpose::extension, compatible::ios7
+Author: Tony Ciroussel <tony.ciroussel@riseup.net>
+Depiction: https://akebu.github.io/cydia/depictions/?p=com.tonyciroussel.contactslider
+Dev: tonyciroussel
+Name: ContactSlider (iOS 7)
+
+Package: com.tonyciroussel.cydelete9
+Version: 1.1.5
+Architecture: iphoneos-arm
+Maintainer: Tony Ciroussel <tony.ciroussel@riseup.net>
+Installed-Size: 560
+Depends: mobilesubstrate, sudo, sed, firmware (>= 9.0), preferenceloader, apt7, coreutils
+Filename: debs/com.tonyciroussel.cydelete9.deb
+Size: 111520
+MD5sum: 685a32ccc59328c9ce04f28ae2ab6f6c
+SHA1: 8bae8a3c1777e025aa09a6725984357e1215264f
+SHA256: 708463f62fd81a3b2c968f2d9c512a06e749eba985b0d6d5400f81511521ca63
+Section: Tweaks
+Homepage: https://akebu.github.io/cydia/depictions/?p=com.tonyciroussel.cydelete9
+Description: Delete *almost* every applications !
+Author: Tony Ciroussel <tony.ciroussel@riseup.net>
+Depiction: https://akebu.github.io/cydia/depictions/?p=com.tonyciroussel.cydelete9
+Icon: file:///Library/PreferenceBundles/Cydelete.bundle/CyDelete@2x.png
+Name: Cydelete 9 & 10
+
+Package: com.tonyciroussel.nocturne
+Version: 0.2b-1+debug
+Architecture: iphoneos-arm
+Maintainer: Tony Ciroussel
+Installed-Size: 940
+Depends: firmware (>= 7.0), mobilesubstrate
+Filename: debs/com.tonyciroussel.nocturne_0.2b-1+debug_iphoneos-arm.deb
+Size: 51020
+MD5sum: 3876e843ee26b5ab5b848fa60c7110be
+SHA1: 79abe39918111a0f214792e975da71771f75a894
+SHA256: f00c2be162253395436b0e7202b669989b5b29c06c69273b257eb31b01daadd8
+Section: Tweaks
+Homepage: https://akebu.github.io/cydia/depictions/?p=com.tonyciroussel.nocturne
+Description: Don't burn your eyes
+Author: Tony Ciroussel
+Depiction: https://akebu.github.io/cydia/depictions/?p=com.tonyciroussel.nocturne
+Name: Nocturne
+
+Package: com.tonyciroussel.sensible
+Version: 1.3.3
+Architecture: iphoneos-arm
+Maintainer: Tony Ciroussel
+Installed-Size: 452
+Depends: firmware (>= 9.0), firmware (<< 10.0), mobilesubstrate, preferenceloader
+Filename: debs/com.tonyciroussel.sensible_1.3.3_iphoneos-arm.deb
+Size: 106858
+MD5sum: e9f2fc25d41687fd2e1794c5195223ea
+SHA1: 9f689d6ef7e7e03c8a8cff77b2436b326f4fa533
+SHA256: 9a3a2991e31b8669f5a2c56016963bfa3e080d11359e4c4777bb33f196cd3181
+Section: Tweaks
+Homepage: https://akebu.github.io/cydia/depictions/?p=com.tonyciroussel.sensible
+Description: Use TouchID sensor as Home button
+Author: Tony Ciroussel
+Depiction: https://akebu.github.io/cydia/depictions/?p=com.tonyciroussel.sensible
+Icon: file:///Library/PreferenceBundles/SensiblePrefs.bundle/icon@2x.png
+Name: Sensible
+
+Package: com.tonyciroussel.wazeredirect
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Tony Ciroussel
+Installed-Size: 136
+Depends: firmware (>= 9.0), firmware (<< 10.0), mobilesubstrate
+Filename: debs/com.tonyciroussel.wazeredirect_1.0_iphoneos-arm.deb
+Size: 5738
+MD5sum: 570b087ee28597116eb2134748365d49
+SHA1: fc127ba84d1b1e56f0099063ba858419b0fbe6c9
+SHA256: fe6d7dcf0f3efb891d4be91d5a38c71b693d951fda361f29ee998f4a58ea0293
+Section: Tweaks
+Homepage: https://akebu.github.io/cydia/depictions/?p=com.tonyciroussel.wazeredirect
+Description: Launch Waze instead of Google maps in any web-browser
+Author: Tony Ciroussel
+Depiction: https://akebu.github.io/cydia/depictions/?p=com.tonyciroussel.wazeredirect
+Name: WazeRedirect
+
 Package: com.xlsn0w.JailbreakChecker
 Version: 2.0.0
 Architecture: iphoneos-arm
@@ -5193,6 +5288,24 @@ Description: Decrypts iOS Apps
 Icon: file:///Applications/crackerxi.app/AppIcon.png
 Name: CrackerXI+
 Website: https://ipastore.me
+
+Package: dumpdecrypted
+Version: 1.0-4+debug
+Architecture: iphoneos-arm
+Maintainer: Stefan Esser
+Installed-Size: 176
+Filename: debs/dumpdecrypted.deb
+Size: 6226
+MD5sum: d4f2dddb1ae8a954dbfe0b1c6ab788bf
+SHA1: 6263f556b010c2cd774db2ad0534c073d379a056
+SHA256: 4a00511a9f2763d5b0bdda99734b873975291136bbe9dea44a46b8f1ca6892f1
+Section: System
+Homepage: https://akebu.github.io/cydia/depictions/?p=dumpdecrypted
+Description: Dumps decrypted iPhone Applications to a file
+Tag: role::developer
+Author: Stefan Esser
+Depiction: https://akebu.github.io/cydia/depictions/?p=dumpdecrypted
+Name: dumpdecrypted
 
 Package: figlet
 Version: 2.2.5
