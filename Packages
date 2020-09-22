@@ -33,6 +33,22 @@ Tag: role::hacker
 Author: XCXiao
 Name: APFS删除工具
 
+Package: cn.cydia.swipex
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: Cydia
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: debs/cn.cydia.swipex_1.0.0_iphoneos-arm.deb
+Size: 6946
+MD5sum: aa7b250cdc81814d982a3fbf49c0555b
+SHA1: e8832d0b4606b4feb10595bbb56a54cdb8096e34
+SHA256: 681aa65e37f513fddea1a6e5e2f3bcb7e2a8f2ad8b6b99596fa96c6286a043b9
+Section: Tweaks
+Description: iPhone X滑动手势
+Author: Cydia
+Name: iPhone X滑动手势
+
 Package: cn.mobgo.webgo
 Version: 1.0.1
 Architecture: iphoneos-arm
