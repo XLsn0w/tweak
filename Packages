@@ -49,6 +49,22 @@ Description: iPhone X滑动手势
 Author: Cydia
 Name: iPhone X滑动手势
 
+Package: cn.cydia.wxcounter
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: Cydia+XLsn0w
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: debs/cn.cydia.wxcounter_1.0.0-1+debug_iphoneos-arm.deb
+Size: 5048
+MD5sum: 95ed79e63c3da81cd3a8745ea6040c87
+SHA1: 87852e11d88a6a4689edbfa68e508288a9349921
+SHA256: 01cef105c6f89ee56d3563c2fe8868e848c46482ff4f8410469e451144308fef
+Section: Tweaks
+Description: 微信计步器随意改
+Author: Cydia
+Name: 微信计步器
+
 Package: cn.mobgo.webgo
 Version: 1.0.1
 Architecture: iphoneos-arm
