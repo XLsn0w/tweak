@@ -6793,6 +6793,22 @@ Author: Tony Ciroussel
 Depiction: https://akebu.github.io/cydia/depictions/?p=com.tonyciroussel.wazeredirect
 Name: WazeRedirect
 
+Package: com.xcxiao.apfsmanager
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: XCXiao
+Installed-Size: 132
+Filename: debs/com.xcxiao.apfsmanager_0.0.1_iphoneos-arm.deb
+Size: 5804
+MD5sum: b4a54ff6207e1fa523147526f7fc5676
+SHA1: f563cab14677bf14264804d87a271879ab4c2cec
+SHA256: cedde8ab83effdbb4e3c921d335b4f16876a2fde65a72e91a5a9a1d2b7dcb88d
+Section: System
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: XCXiao
+Name: APFSManager
+
 Package: com.xlsn0w.JailbreakChecker
 Version: 2.0.0
 Architecture: iphoneos-arm
