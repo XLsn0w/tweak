@@ -17,6 +17,22 @@ Author: duyongchao <duyongchao.h@gmail.com>
 Dev: zidaneno5
 Name: Reveal2Loader
 
+Package: cn.cydia.apfsdeleter
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: 公众号:Cydia
+Installed-Size: 132
+Filename: debs/cn.cydia.apfsdeleter_1.0.0_iphoneos-arm.deb
+Size: 6584
+MD5sum: 4a80ba69556a8c56db7e9f3b7c6b6e88
+SHA1: 5f47cc447d876284ff4848acd4db9c8755ce63a7
+SHA256: 37d440e4a1d4f3e4c9ca26a5345350dcb1a1c9748e1734c4c47d8f71496f7e84
+Section: System
+Description: 删除一个APFS分区
+Tag: role::hacker
+Author: XCXiao
+Name: APFS删除工具
+
 Package: cn.mobgo.webgo
 Version: 1.0.1
 Architecture: iphoneos-arm
