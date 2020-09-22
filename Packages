@@ -910,6 +910,248 @@ Priority: optional
 Author: Gawain
 Name: LibWechatReSendVoice
 
+Package: com.ikilledappl3.anemoneloader
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: iKilledAppl3
+Depends: com.ichitaso.mobileterminal
+Filename: debs/com.ikilledappl3.anemoneloader_iphoneos-arm_1.0.3.deb
+Size: 884
+MD5sum: 5daf6e2eacb71b941dc016a18d0b09b9
+SHA1: 1f47403eb4bd7bb19dfa0a73d03c5d2ff793a3c0
+SHA256: 5f129960a157f8dd278d30bc67f84a763fbaeaf18fd23b9f7f8a0e207def44da
+Description: load anemone theme dylibs with this script! Credit to @coolstarorg for script
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Name: AnemoneLoader
+
+Package: com.ikilledappl3.ccwallcustomizer2
+Version: 2.0.1-1
+Architecture: iphoneos-arm
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Installed-Size: 2628
+Depends: mobilesubstrate, ws.hbang.common
+Filename: debs/com.ikilledappl3.ccwallcustomizer2_2.0.1-1_iphoneos-arm.deb
+Size: 1463086
+MD5sum: 4ff130a774b62d24418a793bea4864df
+SHA1: 0faf2c71799950c3ca8b6450beb1b27f58934125
+SHA256: 65b8c132b388b1e22ff1dda4ce235b1e1f51f8d546e23561bb1922f5f876f3d2
+Section: Tweaks
+Description: change the background of the control center on iOS 11+
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Name: CCWallCustomizer 2
+
+Package: com.ikilledappl3.colormyyccmodules
+Version: 1.0.6-1
+Architecture: iphoneos-arm
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Installed-Size: 6116
+Depends: mobilesubstrate, ws.hbang.common, org.thebigboss.libcolorpicker
+Conflicts: com.ikilledappl3.ccwallcustomizer2
+Replaces: com.ikilledappl3.ccwallcustomizer2
+Filename: debs/com.ikilledappl3.colormyyccmodules_1.0.6-1_iphoneos-arm.deb
+Size: 2845552
+MD5sum: b3ad59327bfbc8b39b681ebddefc17d3
+SHA1: 803ae2702584e8c6d05850eac9c299af115effce
+SHA256: 47e39106e1262777a959f82320bfde25a4fe403cc942715b7f55c24e06ac9878
+Section: Tweaks
+Description: Colorize your Control Center Modules!
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Name: ColorMyCCModules
+
+Package: com.ikilledappl3.durango
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Installed-Size: 1804
+Depends: mobilesubstrate, ws.hbang.common
+Filename: debs/com.ikilledappl3.durango_1.0-1_iphoneos-arm.deb
+Size: 1461990
+MD5sum: 0a69a2250aa10dc769d83548163f4d98
+SHA1: 4facce5bc1b5714b433cbe7eeeea547f9c2d8455
+SHA256: 7889a09df77fc9845e9a090cf75fe45993055f12b735050e664e95c39d242f8c
+Section: Tweaks
+Description: Slide to unlock is back!  R.I.P. Chester :/
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depiction: http://www.ikilledappl3.com/dp/Durango/
+Name: Meteora
+
+Package: com.ikilledappl3.idraulico
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.ikilledappl3.idraulico_1.0-1_iphoneos-arm.deb
+Size: 4418
+MD5sum: 1bbce7e8b42c857b647f3f1d0cde18a1
+SHA1: 89cc2ee342208c9062e82ddc479858180eb6d9ce
+SHA256: 69aae544ee0aae04c25f73493838a3a505a1ebf37a71ef99ee97e13c035afba4
+Section: Tweaks
+Description: Disable the ads in Super Jungle World! (SMB1 re-skinned)
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Name: Idraulico
+
+Package: com.ikilledappl3.ios9beta5walls
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Filename: debs/com.ikilledappl3.ios9beta5walls_1.0-2_iphoneos-arm.deb
+Size: 51702240
+MD5sum: 590a7e05ffda8d7fb2e9e03265b35efc
+SHA1: 443f9d0f4356a92a90851a087b28140561a75874
+SHA256: df46324c0acf9f31103749c85f0305e3992567c97c3d98b50c157edc3a26c9b2
+Section: Themes (SpringBoard)
+Description: Official iPhone iOS 9 beta 5 wallpapers
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Name: iOS 9 Beta 5 Wallpapers
+
+Package: com.ikilledappl3.noinstastories
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.ikilledappl3.noinstastories_1.0-1_iphoneos-arm.deb
+Size: 3786
+MD5sum: 29f30953e5a77f8fad20e9846d9256e9
+SHA1: 1ecc63b8e9f10523e06e0e5343556ce96bd4389f
+SHA256: c0aaf94cf32cb486edbaee237f91718995415bc337b86f7196edbd745f25c5b9
+Section: Tweaks
+Description: Remove Instagram stories from your feed!
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Name: NoInstaStories
+Website: http://www.twitter.com/iKilledAppl3
+
+Package: com.ikilledappl3.pikachuvwall
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Filename: debs/com.ikilledappl3.pikachuvwall_1.0-1_iphoneos-arm.deb
+Size: 86982
+MD5sum: 4b03019e1073578a43531853bd74acbf
+SHA1: 61c080a800039b40928b4766cbf13d5bd26bcf33
+SHA256: 4d1f797dcffb72106e2467d22061a457be598336e0b7b39aedacf3b39d9388a6
+Section: Themes
+Description: A Pikachu video wallpaper to use with vWallpaper2.
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Name: Pikachu vWallpaper
+Website: ikilledappl3.tk/Pikachu.mp4
+
+Package: com.ikilledappl3.pokemaster
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: iKilledAppl3
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.ikilledappl3.pokemaster_1.0-1_iphoneos-arm.deb
+Size: 3796
+MD5sum: e812356400856658ddf6c5fe4a2bd93b
+SHA1: d5da8b68f863d99500f4957805554a87556c2171
+SHA256: f886fa1b348bb07a5886e9f80e8383811efa4a41283629b53b421621b27878fc
+Section: Tweaks
+Description: Hide the status bar in PokémonGO
+Author: iKilledAppl3
+Name: PokéMaster
+
+Package: com.ikilledappl3.savoyeletplainfont
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depends: com.bytafont.bytafont3
+Filename: debs/com.ikilledappl3.savoyeletplainfont_1.0-1_iphoneos-arm.deb
+Size: 7036666
+MD5sum: d5cd29184d346d54f6ad7532b516fe0e
+SHA1: 8d17fff22dc51d708e26e6c11b99e2dc2c0fff57
+SHA256: b34195780c6c027814d8f0543565b03c4f77cf44c8f5f460dcd97a3f89e2c60d
+Section: Fonts
+Description: A font ported from Mac OS X El Capitan to use on iOS. (Click more info for an image preview).
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Name: SavoyeLetPlain Font
+Website: http://ikilledappl3.tk/images/sample.png
+
+Package: com.ikilledappl3.splendore
+Version: 2.9-1
+Architecture: iphoneos-arm
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depends: com.anemonetheming.anemone
+Conflicts: com.macciti.splendore
+Replaces: com.macciti.splendore
+Filename: debs/com.ikilledappl3.splendore_iphoneos-arm_2.9-1.deb
+Size: 18838330
+MD5sum: 9d69c207c7c2b2632c417c834bb44e6e
+SHA1: 715023515a9deae249cc517625b1ba62dd70ce21
+SHA256: 07fc98edcbd589f975e8626311ea861b27c6db35902a9d43c7e686763fa241a0
+Section: Themes
+Description: an Awesome iOS theme!
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depiction: http://www.ikilledappl3.com/dp/Splendore/
+Name: Splendore
+
+Package: com.ikilledappl3.sufulldisclosureringtone
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depends: com.unlimapps.toneenabler
+Filename: debs/com.ikilledappl3.sufulldisclosureringtone_1.0-1_iphoneos-arm.deb
+Size: 184802
+MD5sum: fa880feedb19eaf710999d91c4c76cb6
+SHA1: 1a90ed4368996250f4c52f9bd2d4b92df7efc9bc
+SHA256: 4792bd23e80996421f6d81fd29481b31b0ca60a403dee298a6619de91d887fb8
+Section: Ringtones
+Description: Steven's ringtone that he uses for Connie in the Episode "Full Disclosure"
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depiction: http://ikilledappl3.tk/dp/suringtone
+Name: Steven Universe Full Disclosure Ringtone
+Website: http://www.ikilledappl3.tk
+
+Package: com.ikilledappl3.suicidesquadjokerlockglpyh
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs/com.ikilledappl3.suicidesquadjokerlockglpyh_1.0.1-1_iphoneos-arm.deb
+Size: 3596490
+MD5sum: d68a3eb0d613da06e01d8aeed5027759
+SHA1: b7d4d170fdb0751d8d925754bc2a4a87648c00e6
+SHA256: dfebfd53d51c0b747acfb621dba14db415f27f2c74be056dc9e431e7994085cf
+Section: Themes
+Description: Joker Laugh Hamill and Leto for Lockglyph
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Name: Joker Laugh Lockglyph
+
+Package: com.ikilledappl3.teamvalorvwall
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Filename: debs/com.ikilledappl3.teamvalorvwall_1.0-1_iphoneos-arm.deb
+Size: 168518
+MD5sum: 5275754ef91c91db19e3eff9841af231
+SHA1: 95305d0dab32877b733c64dff001fb174a36aa6e
+SHA256: b3e6b5d252075ace22eb536e3a8904cec1619f7a9854447be38b817b26b17d47
+Section: Themes
+Description: A Pikachu video wallpaper to use with vWallpaper2.
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Name: Team Valor vWallpaper
+Website: ikilledappl3.tk/TeamValor.mp4
+
+Package: com.ikilledappl3.waterwave
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Installed-Size: 2504
+Depends: mobilesubstrate, ws.hbang.common
+Filename: debs/com.ikilledappl3.waterwave_1.0-2_iphoneos-arm.deb
+Size: 1197058
+MD5sum: 000d8e7e5f91feff27ebd31e221d9731
+SHA1: 8b5aa5a8b5b98548731a59840c8d1b31276a98af
+SHA256: 7cd684437c0ed9f44b19b37fb1027436297de7130591afe37af65a4e1a7732ca
+Section: Tweaks
+Description: Cool water effect while charging!
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depiction: http://ikilledappl3.com/dp/WaterWave/
+Icon: http://www.ikilledappl3.com/dp/WaterWave/WaterCharge@3.png
+Name: WaterCharge
+
 Package: com.iphonedesignz.ModernGreenBattery
 Version: 1.0
 Architecture: iphoneos-arm
@@ -3361,6 +3603,22 @@ Author: Maxhasadhd <maxlitteral@gmail.com>
 Depiction: http://modmyi.com/info/calculatorforvelox.d.php
 Name: Calculator for Velox
 Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.macciti.minecraftskinstheme
+Version: 1.1-2
+Architecture: iphoneos-arm
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depends: winterboard
+Filename: debs/com.macciti.minecraftskinstheme_1.1_iphoneos-arm.deb
+Size: 443630
+MD5sum: 6eb5fd1dda7ca5758cecb914492366f9
+SHA1: 41d5b3d1d475d405ccda146fb657f20ef4714a7b
+SHA256: cd53ddcbdd655575de4413d110493ba4e2297bf2b575a71b9516526a0377470a
+Section: Themes (Apps)
+Description: This theme will allow you to change your skin in Minecraft Pocket Edition with ease!
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Name: MinecraftSkins Theme
+Website: http://www.macciti.com/pages/minecraftskinstheme/
 
 Package: com.michael.NetworkMagician
 Version: 0.1.1
@@ -6857,6 +7115,38 @@ Tag: role::hacker
 Author: XCXiao
 Name: APFSManager
 
+Package: com.xcxiao.hidesender
+Version: 0.0.5
+Architecture: iphoneos-arm
+Maintainer: XCXiao
+Installed-Size: 280
+Depends: mobilesubstrate, com.spark.libsparkapplist
+Filename: debs/com.xcxiao.hidesender_0.0.5_iphoneos-arm.deb
+Size: 8980
+MD5sum: ebdc83dbdae0f5c634be2be08122a404
+SHA1: 65ae5fd7ac8f361d5b5ee10bc9989c6f4cfac009
+SHA256: 1c674a43465c5e3b8986fd401d92d7ad766b4f6f7ed5c9a7bac8c949193478ae
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: XCXiao
+Name: HideSender
+
+Package: com.xcxiao.roundmusicbar
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: XCXiao
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: debs/com.xcxiao.roundmusicbar_1.0.0-1+debug_iphoneos-arm.deb
+Size: 3528
+MD5sum: 48c06af7367072b7358ed7efda37137b
+SHA1: 8e8fa7f69b5e678b709346e561ac1c66299bfe05
+SHA256: f8193d92bdb06c628393082f03e96dba8a69f76370624f346f2418f96952221e
+Section: Tweaks
+Description: 圆形音乐状态栏
+Author: XCXiao
+Name: 圆形音乐状态栏
+
 Package: com.xlsn0w.JailbreakChecker
 Version: 2.0.0
 Architecture: iphoneos-arm
@@ -7107,6 +7397,22 @@ Description: A springy animation that (inaccurately) shows the percentage of a r
 Author: Sam Gardner <stgardner4@att.net>
 Name: Percentage Animation for Springy
 
+Package: com.yournamehere.welcomestranger
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: YourName <user@yourdomain.com>
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: debs/com.yournamehere.welcomestranger_1.0-1_iphoneos-arm.deb
+Size: 3932
+MD5sum: 12cae76b789533b02acc9da6c00ed7cb
+SHA1: 6d0e368f0d4946346852cfbb91e9c4e40e4e0b93
+SHA256: 5f0ca2fe7be54b4185a51990aeb457292410e84b75ae95db72e1c48d7ceeccc5
+Section: Tweaks
+Description: A simple UIAlertView tweak for beginner icoders!
+Author: YourName <user@yourdomain.com>
+Name: WelcomeStranger
+
 Package: cycript
 Version: 0.9.502
 Architecture: iphoneos-arm
@@ -7224,6 +7530,53 @@ Description: iGameGuardian is a game cheating engine for iOS 6.x/7.x/8.x
 Author: Aqua Wu <igameguardian@gmail.com>
 Name: iGameGuardian
 
+Package: io.github.toxicappl3inc.retroarch
+Version: 1.0.1-2
+Architecture: iphoneos-arm
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Conflicts: com.libretro.retroarch
+Replaces: com.libretro.retroarch
+Filename: debs/io.github.toxicappl3inc.retroarch_1.0.1-2_iphoneos-arm.deb
+Size: 43668262
+MD5sum: cbf1ab8826ed87069d4b0ff67810d41c
+SHA1: eb724088029ddcbfa448899dab1bb946752ed5a7
+SHA256: 6c1850395dd3bde17a00102d8f6df358e1209e140987d08538aca4fd6cee6dd5
+Section: Games
+Description: an awesome iOS emulator! (modified by iKilledAppl3) to work with iOS 9
+Author: Libretro
+Icon: file:///Applications/RetroArch.app/Icon.png
+Name: RetroArch
+
+Package: io.github.toxicappl3inc.winterboardapp
+Version: 0.9.3918
+Architecture: iphoneos-arm
+Maintainer: ToxicAppl3 Inc <ikilledappl3@ikilledappl3.netau.net>
+Depends: winterboard
+Filename: debs/io.github.toxicappl3inc.winterboardapp_0.9.3918_iphoneos-arm.deb
+Size: 165334
+MD5sum: 26ac214b32a37e7c96e49b45e8f581b3
+SHA1: 2416862bafd41dea1db0b0e7d84089b659d2b893
+SHA256: 62a8bcaefb86ac1f1c15bbd4dfd4ea5065759aff8c183d7c2d32f0ab49e1259c
+Section: System
+Description: Bring back the WinterBoard app to your iOS device! type uicache in Terminal (if needed)!
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Name: WinterBoard (App)
+
+Package: io.toxicappl3inc.github.ios83musicicon
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Filename: debs/io.toxicappl3inc.github.ios83musicicon_iphoneos-arm_1.0-2.deb
+Size: 81134
+MD5sum: a35a0bd64f6e77e5901c9fa1a20dc039
+SHA1: f150411072a4ac6fb22b5c96b5427c0dd6943732
+SHA256: e7af5236523468ea38cf27cb25ff55c35fe6cc64519dd19d1f89db145f5d3438
+Section: Themes (SpringBoard)
+Description: Bring back that original Music icon from iOS 8.3 back to iOS 8.4 with this theme!
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Name: Pre-iOS 8.4 Music Icon
+Website: http://www.twitter.com/iKilledAppl3
+
 Package: iokittools
 Version: 76-4p
 Architecture: iphoneos-arm
@@ -7316,6 +7669,54 @@ Description: powerful code insertion platform
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/mobilesubstrate/
 Name: Cydia Substrate
+
+Package: net.netau.ikilledappl3.foldrnfoldr8
+Version: 1.0-1-1
+Architecture: iphoneos-arm
+Maintainer: ToxicAppl3 <ikilledappl3@ikilledappl3.netau.net>
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: debs/net.netau.ikilledappl3.foldrnfoldr8_1.0-1-1_iphoneos-arm.deb
+Size: 3002
+MD5sum: 277366aec55cd148020193d7ebd85cd8
+SHA1: 209160c9effd76c9905238dedae96c1f2a5762ce
+SHA256: 089c43ad99198d81147b8cecc65326cfb79147b70aabae5cc0d3cf69ff2c1eaf
+Section: Tweaks
+Description: Allow Nested folders on iOS 8-8.1.2
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Name: FoldrNFoldr8
+
+Package: net.netau.ikilledappl3.nolivefilters8
+Version: 1.0~beta2-1
+Architecture: iphoneos-arm
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: debs/net.netau.ikilledappl3.nolivefilters8_1.0~beta2-1_iphoneos-arm.deb
+Size: 3176
+MD5sum: 5f07effba42c0ff392529286788363fe
+SHA1: f1e0073e7247be61199603e42ef43ba183898d23
+SHA256: da331eb8c70dec3f52110373ce9ae94815261f59e7f9ce0f2789be78c6922df2
+Section: Tweaks
+Description: Disable the Live Effects!
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Name: NoLiveFilters8
+
+Package: net.netau.ikilledappl3.toxicrepo.fancymustacherespringlogo
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depends: winterboard
+Filename: debs/net.netau.ikilledappl3.toxicrepo.fancymustacherespringlogo_iphoneos-arm_1.0-1.deb
+Size: 5734
+MD5sum: 0d8ae2c1a8888441de9d36cef365d734
+SHA1: df22af0f1ddbba5de72010abea1f94f08c2fd10e
+SHA256: 272bf4e543b71a83dbb22f105be5d63bf2d8f0c0daa58004a49991815a2748f4
+Section: ToxicThemes(Respring)
+Description: A mustache with a monocle (originally made for my sister). Themes the Apple resping logo. Follow me on Twitter @iKilledAppl3 for more awesome themes!
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Name: FancyMustacheRespringLogo
+Website: http://www.ikilledappl3.netau.net
 
 Package: net.sarahh12099.funimationjbbypass
 Version: 1.0.0.0
