@@ -317,6 +317,286 @@ Depiction: http://modmyi.com/info/nimbus.d.php
 Name: nimbus
 Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 
+Package: com.cydiabc.MsgFilt
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: Mao
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/msgfilt_0.1-1_iphoneos-arm.deb
+Size: 147296
+MD5sum: 744e5d71d8a5edbb82bce4e42def0958
+SHA1: a85a983427fe3a14670e7eccef28fab9fd0b93b0
+SHA256: 969494b25f9f2763b179cf994fed11fa68aeeb0f3e41e42f37555d77301a51cf
+Section: 微信
+Priority: optional
+Description: 群内消息屏蔽 群消息屏蔽 私聊消息屏蔽
+A12: 1
+Author: Mao
+Icon: file:///Applications/Cydia.app/Sections/Messaging.png
+Icon2: 10.png
+Name: 消息屏蔽助手
+Sponsor: Mao
+
+Package: com.cydiabc.a-bypass
+Version: 1.3.5
+Architecture: iphoneos-arm
+Maintainer: Ai-小苹果
+Installed-Size: 960
+Depends: mobilesubstrate, com.muirey03.libmryipc, applist
+Filename: debs/a-bypass_1.3.5_iphoneos-arm.deb
+Size: 125720
+MD5sum: 99a3c745c197bf126d515e0342668500
+SHA1: e5208e7df890a034c7fba9e86797527c3fb4c350
+SHA256: 6781b4aab3b39db8a0a8b4a223353133c3bc097f5840460ccced91ef060bac5c
+Section: 系统
+Description: 一款强力有效 简单设置的屏蔽越狱插件，能解决iOS13王者荣耀，使命召唤等一些游戏的闪退，支付宝开启指纹面容等等
+A12: 1
+Author: Baw Appie
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Icon2: 12.png
+Name: A-Bypass越狱屏蔽
+Sponsor: Ai-小苹果
+
+Package: com.cydiabc.bankabcnojb
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: Ai-小苹果
+Installed-Size: 925
+Depends: mobilesubstrate
+Filename: debs/bankabcnojb_1.1-1_iphoneos-arm.deb
+Size: 151634
+MD5sum: 6c4bfc2d66854ab0ac4158cde6d2e032
+SHA1: 8671633a340162cfcdc85d0b3c53a499cae4744d
+SHA256: c1b31451e8a28e01e700b6a530f8add5ba77dd261873ef347d7ea0d8befbe004
+Section: 插件
+Description: 中国农业银行屏蔽越狱检测
+A12: 1
+Author: Netskao
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Icon2: 1.png
+Name: 中国农业银行屏蔽越狱
+Sponsor: Ai-小苹果
+
+Package: com.cydiabc.ccbnojb
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: Ai-小苹果
+Installed-Size: 931
+Depends: mobilesubstrate
+Filename: debs/ccbnojb_1.1-1_iphoneos-arm.deb
+Size: 152160
+MD5sum: 2dd13a4b26658af54eb0d7879670f551
+SHA1: 803c9ebb811ed9b89405448b81285c08fd38f07a
+SHA256: afe4222520c76628167d5ede2674aa541ff48eeb37e0c79dd595a9014d6329cc
+Section: 插件
+Description: 中国建设银行屏蔽越狱检测
+A12: 1
+Author: Netskao
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Icon2: 1.png
+Name: 建设银行屏蔽越狱
+Sponsor: Ai-小苹果
+
+Package: com.cydiabc.choicy
+Version: 1.2.4-2
+Architecture: iphoneos-arm
+Maintainer: Ai-小苹果
+Installed-Size: 840
+Depends: mobilesubstrate, applist
+Filename: debs/choicy_1.2.4-2_iphoneos-arm.deb
+Size: 103556
+MD5sum: f7b35a0e2843b3e64ae866de082ee1d6
+SHA1: b1521e15ebca36076f9009dd6027a5e3af94bd71
+SHA256: afba9c92cae40a2f4781f69dec894c125dd0395ab907cc1f32d7af424a6eeef9
+Section: 系统
+Description: 更准确的屏蔽越狱检测，全功能完整汉化版，具体效果预览截图
+A12: 1
+Author: opa334
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Icon2: 12.png
+Name: Choicy越狱屏蔽
+Sponsor: Ai-小苹果
+
+Package: com.cydiabc.flyjb
+Version: 0.2.5.6
+Architecture: iphoneos-arm
+Maintainer: Ai-小苹果
+Depends: mobilesubstrate, applist (>= 1.5.15), preferenceloader
+Filename: debs/flyjb_0.2.5.6_iphoneos-arm.deb
+Size: 498950
+MD5sum: 2cf56916be7e3b3b2697afb3f79154de
+SHA1: 765b6a9842551826a414cbae3b1be4e83e0a1345
+SHA256: d9bc1b760b2a54e6190eecce3c265bf3f208d9d6865028dfdc47e8a82ee75ec8
+Section: 系统
+Description: 屏蔽越狱检测 激活指纹 面容支付，插件为韩语插件，已经汉化
+A12: 1
+Author: XsF1re
+Icon: file:///Applications/Cydia.app/Sections/System.png
+Icon2: 12.png
+Name: FlyJB屏蔽越狱检测
+Sponsor: Ai-小苹果
+
+Package: com.cydiabc.icbcjailbreakedbypass
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: Netskao
+Installed-Size: 965
+Depends: mobilesubstrate
+Filename: debs/icbcjailbreakedbypass_1.1-1_iphoneos-arm.deb
+Size: 171788
+MD5sum: 0c668de37c4ac3958716b86213ceee9f
+SHA1: c95171733190db4f166449346c74992dcb270997
+SHA256: 3cea30b459e771650db981d511106857f0c11ee6a1bccada897c0d738dd11189
+Section: 插件
+Description: 工商银行绕过越狱检测
+Tag: purpose::extension, compatible::ios13
+A12: 1
+Author: Netskao
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Icon2: 1.png
+Name: 工商银行屏蔽越狱
+Sponsor: Netskao
+
+Package: com.cydiabc.kernbypass
+Version: 0.0.7-1
+Architecture: iphoneos-arm
+Maintainer: akusio
+Installed-Size: 568
+Depends: mobilesubstrate, applist, preferenceloader
+Filename: debs/kernbypass_0.0.7-1_iphoneos-arm.deb
+Size: 26704
+MD5sum: edb5614381704ed99018d83e04a2f84d
+SHA1: f0ceebe7b5348ba0a85e72fb1b7c7ada429cd945
+SHA256: 12dd7dd4a5717d4695cd3a6573b5320e37e25971b217e4ced7576525b5af6121
+Section: 系统
+Description: KernBypass内核级屏蔽越狱，土拨鼠编译版，支持iOS11~13，自带服务启动脚本，若重启失效，重装本插件即可
+A12: 1
+Author: akusio/土拨鼠
+Icon: file:///Applications/Cydia.app/Sections/System.png
+Icon2: 12.png
+Name: KernBypass内核级屏蔽
+Sponsor: Ai-小苹果™
+
+Package: com.cydiabc.mcpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: XsF1re
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: debs/mcpatch_0.0.1_iphoneos-arm.deb
+Size: 2570
+MD5sum: b44351226b2b91ab09b2959730d86b05
+SHA1: 9da4838696563b88c6d6b215b8b6c390a2378d87
+SHA256: 2427e26d8c59f7a08ac4f8aac93da3434f9f46e93e71e842bfabf684c3a32398
+Section: 系统
+Description: 允许安装屏蔽更新文件，兼容12.4~13.3.1，其他系统自测
+A12: 1
+Author: XsF1re
+Icon: file:///Applications/Cydia.app/Sections/System.png
+Icon2: 12.png
+Name: MCPatch屏蔽更新
+Sponsor: Ai-小苹果™
+
+Package: com.cydiabc.otadisabler
+Version: 0.1-8
+Architecture: iphoneos-arm
+Maintainer: Ai-小苹果
+Installed-Size: 204
+Depends: firmware (>= 9.0), system-cmds, mobilesubstrate
+Filename: debs/otadisabler_0.1-8_iphoneos-arm.deb
+Size: 28366
+MD5sum: 6134976bbd4a5ecdf347d81b4d1fd17d
+SHA1: 2c0ccd9900656750aaf18232db5c83f24c0035ec
+SHA256: 3702bce4aead36a000b181e2f86c63d7e2bc78dbe45af4e0cea86a6f7a69b11b
+Section: 系统
+Description: 可以有效的屏蔽系统更新，支持iOS9~iOS13系统，首先，删除OTA系统升级包，设置 → 通用 → iPhone 储存空间，安装OTADisabler后注销后生效，无设置选项。
+A12: 1
+Author: ichitaso
+Icon: file:///Applications/Cydia.app/Sections/System.png
+Icon2: 12.png
+Name: OTADisabler屏蔽更新
+Sponsor: Ai-小苹果
+
+Package: com.cydiabc.pufaxinyongka
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: Ai-小苹果™
+Installed-Size: 372
+Depends: mobilesubstrate
+Filename: debs/pufaxinyongka_1.1-1_iphoneos-arm.deb
+Size: 69166
+MD5sum: 3973d3fc1410c4dbba4ccd25d2768eb8
+SHA1: f987c2b5d7b19f7f88437c56631597168c30bf43
+SHA256: 94895941720da756f0aa1f128a99c688587b26a27163b921ce78a4e2db624bf5
+Section: 插件
+Description: 浦发信用卡屏蔽越狱，兼容版本6.0.4，失效请反馈
+A12: 1
+Author: 小苹果
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Icon2: 1.png
+Name: 浦发信用卡屏蔽越狱
+Sponsor: Ai-小苹果™
+
+Package: com.cydiabc.shadow
+Version: 2.0.20
+Architecture: iphoneos-arm
+Maintainer: Ai-小苹果
+Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common (>= 1.13.1), applist, preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.7~beta3)
+Filename: debs/shadow_2.0.20_iphoneos-arm.deb
+Size: 253350
+MD5sum: 2e945ade5b8ed3d2217c21bd85e3d937
+SHA1: fb3a8aa7ae7d7d8a525286e0c79fc35fc0463601
+SHA256: 70e9b10430d76619053874a3a0060c320b1428caf11cc5a3a8a98dd984219881
+Section: 系统
+Description: 轻量级通用越狱检测，已完整汉化
+A12: 1
+Author: jjolano
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Icon2: 12.png
+Name: Shadow 屏蔽越狱检测
+Sponsor: Ai-小苹果
+
+Package: com.cydiabc.unsub
+Version: 0.1.9
+Architecture: iphoneos-arm
+Maintainer: Ai-小苹果
+Installed-Size: 624
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, firmware (>= 9.0)
+Conflicts: co.vexation.nosubstitute, com.opa334.nosubstitute12
+Filename: debs/unsub_0.1.9_iphoneos-arm.deb
+Size: 73946
+MD5sum: eeb917e98eb65be05a4f77998a902785
+SHA1: c3e4c6eb6141bf5880756e403214e138f8f0b0c1
+SHA256: 39972f88a0f31eaa3e527eadb31c0cc64d4d0da73fdb6f35352fe780d2a68925
+Section: 系统
+Description: 屏蔽软件越狱检测
+A12: 1
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/System.png
+Icon2: 12.png
+Name: UnSub 屏蔽越狱检测
+Sponsor: Ai-小苹果
+
+Package: com.cydiabc.voltage
+Version: 1.6.2
+Architecture: iphoneos-arm
+Maintainer: Ai-小苹果
+Pre-Depends: firmware (>= 9.0)
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: debs/com.cydiabc.voltage_1.6.2_iphoneos-arm.deb
+Size: 56758
+MD5sum: c3286516b6032985f42cd52389705c6e
+SHA1: 250c755c48209a80605020d487740da8dc69cb10
+SHA256: c4604f7b5a2d0bd387f67fc153f09a9f000dff1971417c6291430c48010ca5c8
+Section: 系统
+Description: 应用程序中拦截通知横幅，在运行某些应用中自动屏蔽其它应用发出的通知
+A12: 1
+Author: Summer Triangle
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Icon2: 12.png
+Name: Eyeplugs屏蔽通知
+Sponsor: Ai-小苹果
+
 Package: com.davidporterapps.ibattery
 Version: 1.0
 Architecture: iphoneos-arm
@@ -4572,6 +4852,27 @@ Author: Samg_is_a_Ninja, Moski
 Icon: file:///Applications/SuccessionDown.app/AppIcon60x60@3x.png
 Name: SuccessionDown
 
+Package: com.muirey03.libmryipc
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 481
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0)
+Conflicts: ws.hbang.stopcrashingpls (=1.0)
+Filename: debs/com.muirey03.libmryipc_2.0_iphoneos-arm.deb
+Size: 27254
+MD5sum: 48ee978b8ac2895ec318db77fd2b2779
+SHA1: 73b7225c87fa7a1c787957c1d3140dd9e2154837
+SHA256: bc3ae7260ab09b1cb456d41802793ec3e6b8bd316e2c01e972c9cfa7a05d5ad6
+Section: Development
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libmryipcDp
+Description: Easy-to-use, RocketBootstrap-less iOS IPC
+Tag: role::developer, purpose::library, cydia::obsolete, compatible::ios13
+Author: Muirey03 <tommy.muir@btinternet.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libmryipcDp
+Dev: muirey03
+Name: libMRYIPC
+
 Package: com.muris.lendmyphone
 Version: 1.0.4
 Architecture: iphoneos-arm
@@ -8017,4 +8318,26 @@ Author: NetMage <scw@scw.us>
 Depiction: http://modmyi.com/info/afctwoadd.d.php
 Name: afc2add
 Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: ws.hbang.common
+Version: 1.14
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1430
+Depends: preferenceloader, mobilesubstrate, com.rpetrich.rocketbootstrap, firmware (>= 13.0) | jp.ashikase.techsupport
+Filename: debs/hbang.common_1.14_iphoneos-arm.deb
+Size: 177316
+MD5sum: 253c7e46e67344ccd669d28c1c832c63
+SHA1: fc2a491a61ba9160bec39fc11d0e8826c4ebc71b
+SHA256: be57913670d797137c7c8ef980cc1bfe9bbd2b8b02d3598d63215d83fc42014b
+Section: Development
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hashbangcommonDp
+Description: Support library for tweaks
+Tag: purpose::extension, role::developer, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Author: HASHBANG Productions <support@hbang.ws>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hashbangcommonDp
+Dev: hbang
+Name: Cephei
+Sponsor: thebigboss.org <http://thebigboss.org>
 
