@@ -97,6 +97,94 @@ Author: Aqua Wu
 Name: iGameGuardian
 Sponsor: Vitcortim.co
 
+Package: cokepokes.crash-reporter
+Version: 1.16.0-7
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Pre-Depends: firmware (>=4.0)
+Depends: coreutils, dpkg, grep, cokepokes.jp.ashikase.libcrashreport (>= 1.1.0), cokepokes.jp.ashikase.libpackageinfo (>= 1.1.0), jp.ashikase.techsupport (>= 1.5.0.1-2), mobilesubstrate, preferenceloader
+Conflicts: crash-reporter
+Filename: debs/crashreporter.deb
+Size: 346248
+MD5sum: 1d379fe269a354809cc22c7b752ec5c5
+SHA1: 7316e50d704eb298b608c18dd8ef130f934734de
+SHA256: ae0114f65d5b4b60b9642e1cf6bad7ae05f6da3a343a942e40e1569a227366aa
+Section: System
+Homepage: http://github/ashikase/CrashReporter/
+Description: Send useful crash info to developers.
+Tag: purpose::uikit, role::enduser
+Author: Lance Fetters (ashikase) <support@ashikase.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=crashreporterData
+Dev: ashikase
+Name: CrashReporter (cokepokes)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: cokepokes.jp.ashikase.libcrashreport
+Version: 1.1.0-2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Pre-Depends: firmware (>= 3.0)
+Depends: cokepokes.jp.ashikase.libsymbolicate (>= 1.9.0), cokepokes.jp.ashikase.libpackageinfo
+Conflicts: jp.ashikase.libcrashreport
+Filename: debs/libcrashreport.deb
+Size: 50916
+MD5sum: 315e6c43822c96d2264af02cc06652bd
+SHA1: 71a59d90828518ec2eee5a902f1c9b4e69006f0d
+SHA256: aeab02392d70e7b57dbcd962455367c65fab6404fc80c2a4c6dcf5a03e973f76
+Section: Development
+Homepage: http://github.com/ashikase/libcrashreport
+Description: Library to parse and symbolicate crash reports.
+    This library is based upon CrashReporter by kennytm.
+Tag: role::developer
+Author: Lance Fetters (ashikase) <support@ashikase.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libcrashreportData
+Dev: ashikase
+Name: libcrashreport (cokepokes)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: cokepokes.jp.ashikase.libpackageinfo
+Version: 1.1.0.1-3
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Pre-Depends: firmware (>=3.0)
+Replaces: jp.ashikase.libpackageinfo
+Filename: debs/libpackageinfo.deb
+Size: 123116
+MD5sum: b3a9c152d42a76665b8e00919381f2d6
+SHA1: bbf9177164a4dd42dc7eb706f7a84ebe46a25036
+SHA256: 07b1a0dd90a9b9aac9ab008ac927460b10b9b87bc57590fee05818721d28575d
+Section: Development
+Homepage: http://github.com/ashikase/libpackageinfo
+Description: Library to retrieve package information.
+Tag: role::developer
+Author: Lance Fetters (ashikase) <support@ashikase.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libpackageinfoData
+Dev: ashikase
+Name: libpackageinfo (cokepokes)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: cokepokes.jp.ashikase.libsymbolicate
+Version: 1.9.0-2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Pre-Depends: firmware (>=4.0)
+Conflicts: jp.ashikase.libsymbolicate
+Filename: debs/libsymbolicate.deb
+Size: 45996
+MD5sum: 7f3ef6587700b9635be99b3a23b4c91a
+SHA1: ec4d3693fb44093e4a77acfd638de4bb61cfdff1
+SHA256: 4a59217581cba846631b02bc08c800e29b4e07dbda0151a0afc715caa6a7a310
+Section: Development
+Homepage: http://github.com/ashikase/libsymbolicate
+Description: Library to symbolicate memory addresses.
+    This library is based upon CrashReporter by kennytm.
+Tag: role::developer
+Author: Lance Fetters (ashikase) <support@ashikase.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsymbolicateData
+Dev: ashikase
+Name: libsymbolicate (cokepokes)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.NetVoice.NetVoice
 Version: 3.1.2
 Architecture: iphoneos-arm
@@ -316,6 +404,370 @@ Author: coffeejay <coffeejay@me.com>
 Depiction: http://modmyi.com/info/nimbus.d.php
 Name: nimbus
 Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.cokepokes.CPRevealLoader
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 10.0), mobilesubstrate
+Filename: debs/com.cokepokes.CPRevealLoader_0.1-1_iphoneos-arm.deb
+Size: 4099946
+MD5sum: 8863ff22818d9f5eaeed1670a79617f7
+SHA1: ecdfa862baa31b53e666f21ac79afa7553af1cb7
+SHA256: 4f287b403f6d699803cd3ee05ae9723ad51ee1ecf8172e686ccaa6f42f3e4211
+Section: Tweaks
+Priority: optional
+Description: Enable Reveal server in any app for debugging UI. Works on A12 & with Reveal client version 23 (12724)
+Author: CokePokes
+Name: CPRevealLoader
+
+Package: com.cokepokes.Masterball
+Version: 1.1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/com.cokepokes.Masterball_1.1_iphoneos-arm.deb
+Size: 11058
+MD5sum: 8c4291cddde567556cdd1411a6513900
+SHA1: 70c0cb766e2ea569d198bad6049bdbf2d2e30731
+SHA256: e8b771c8a0a856c642f595076add14c98b5a91f2982934269e67b166b3e6dd4d
+Section: Tweaks
+Priority: optional
+Description: Fixes the startup crash in the Pokemon Go app & hides jailbroken state
+Author: CokePokes
+Name: Masterball
+
+Package: com.cokepokes.Nestboard
+Version: 1.0-2
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate, libactivator (>= 1.8.3)
+Filename: debs/com.cokepokes.Nestboard_1.0-2_iphoneos-arm.deb
+Size: 1105212
+MD5sum: 2f55906f6621074b17f1ff10bfd89095
+SHA1: a628d17c1c8a37252d1e6595361618b47800e73d
+SHA256: 9905e6be0903e415c3cc41fa4081e14699ec73dcd62bca7bfd695b90ccbb04e0
+Section: Tweaks
+Priority: optional
+Author: CokePokes
+Name: Nestboard
+
+Package: com.cokepokes.SmartGlass-Clip-Saver
+Version: 1.0-2
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: debs/com.cokepokes.SmartGlass-Clip-Saver_1.0-2_iphoneos-arm.deb
+Size: 226870
+MD5sum: 7d02417980a83955ef778def1982a7a7
+SHA1: c6385a5c52e9c940d5b35f2ac53e5231eee7777e
+SHA256: bc3d5dde10c8ef7941f8ea38bbc4958ebee589500858a0a631b7d3a46493266b
+Section: Tweaks
+Priority: optional
+Description: Download & save SmartGlass game clips to camera roll.
+Tag: purpose::extension
+Author: CokePokes <cokepokes@gmail.com>
+Dev: cokepokes
+Name: SmartGlass Clip Saver
+
+Package: com.cokepokes.Snapchat-Volume-Statusbar
+Version: 0.7-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/com.cokepokes.Snapchat-Volume-Statusbar_0.7-1_iphoneos-arm.deb
+Size: 23828
+MD5sum: 9cc1e98076c8b780e3d45ce173f5bb3b
+SHA1: d8cf81f4e003bac9f3fb838e385ea7545cb19231
+SHA256: 84b187cdccef6970d727affd8c941215d4d52db2b1eed3d74da24ae51dbe2c46
+Section: Tweaks
+Priority: optional
+Description: A fucking awesome mobile substrate tweak!
+Author: CokePokes
+Name: Snapchat Volume Statusbar
+
+Package: com.cokepokes.appdispatch
+Version: 0.1-4
+Architecture: iphoneos-arm
+Depends: firmware (>= 10.0), mobilesubstrate, applist, preferenceloader
+Filename: debs/com.cokepokes.appdispatch_0.1-4_iphoneos-arm.deb
+Size: 76300
+MD5sum: c7f55e95fabd519036c47ea2ffc6d611
+SHA1: d8bd2a898e3cd50c0512c09f4012778074d6e906
+SHA256: 720ed1c1fced8aef78709191b4ad5a27744562d4d36ca8cdaa33ae35817d443d
+Section: Tweaks
+Priority: optional
+Description: Kills apps natively when visiting the home screen from application. Enable in Settings.
+Author: CokePokes
+Depiction: https://cokepokes.github.io/depiction/appdispatch.html
+Name: AppDispatch
+Sileodepiction: https://cokepokes.github.io/depiction/appdispatch/AppDispatch
+
+Package: com.cokepokes.appstoreplusplus
+Version: 0.9.13-2
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Conflicts: com.unlimapps.uaupdatetools
+Filename: debs/com.cokepokes.appstoreplusplus_0.9.13-2_iphoneos-arm.deb
+Size: 682110
+MD5sum: c768fba2f92615fc74df16bca183ec38
+SHA1: f532ab2adf5a72008dc0b41db9cb99c638a9705e
+SHA256: a395d2c0b4a3b39bc2110038e4014e0783fb3baa3f0e83c818c54a3ad15f7798
+Section: Tweaks
+Priority: optional
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.whatever
+Author: CokePokes
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Name: AppStore++
+
+Package: com.cokepokes.betterarlosound
+Version: 0.1-3
+Architecture: iphoneos-arm
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: debs/com.cokepokes.betterarlosound_0.1-3_iphoneos-arm.deb
+Size: 490990
+MD5sum: 7d4d68c56ec614273f54c5b648d793c1
+SHA1: 61f524a9a141897ef954c623340ea0937cc0a50d
+SHA256: ff869b2eda188857bbb9dafce37c4ac4e687b586858f59ee9bb0b335f2fde651
+Section: Tweaks
+Priority: optional
+Description: Makes the Arlo app notification fucking annoying. Perfect for ruining your sleep & figuring out someone is trying to break into your car resulting in having to pay a $500 deductible to your insurance company...because someone fucked with something you earned with your hard earned money. Fuck thieves, buy your own shit or get educated & find a better job. Also skrew people who don't recycle. Betches.
+Author: CokePokes
+Name: ArloAlertOnCrack
+
+Package: com.cokepokes.fucklargetitles
+Version: 0.2-1
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: debs/com.cokepokes.fucklargetitles_0.2-1_iphoneos-arm.deb
+Size: 33124
+MD5sum: b8aa492de57b446a625961999d32ac42
+SHA1: 1c7741e0e1dcdc7a7f0d21bbc0d2c3c7cb7d9d64
+SHA256: 9e112bbc15c97180781a2547896d541edb410efd88e431305b3dfc7803956f32
+Section: Tweaks
+Priority: optional
+Description: Removes the redeckulous iOS11 HUGE titles in Apps
+Author: CokePokes
+Name: fucklargetitles
+
+Package: com.cokepokes.fuckoffFB
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/com.cokepokes.fuckoffFB_0.1-1_iphoneos-arm.deb
+Size: 32430
+MD5sum: 0286e11a3b809fc637a40cbed4bffd55
+SHA1: a35ffad97a0ff36cccd7c85c1f8cd53d12992ae9
+SHA256: 47cba0a24810d8dcc5057673e07c0f8e29e9b7cdac026458156bfb60ba747b1f
+Section: Tweaks
+Priority: optional
+Description: Stop Facebook from crashing your apps!
+Author: CokePokes
+Name: Fuckoff Facebook
+
+Package: com.cokepokes.inutt
+Version: 1.2.0-2
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: debs/com.cokepokes.inutt_1.2.0-2_iphoneos-arm.deb
+Size: 25179394
+MD5sum: 883b64f56b67d51e9a122004d7c67022
+SHA1: a0f00739d92709ee0365752eae2b992f0ff180ef
+SHA256: afdeb02a4b9ce4278340408fe7da200a6cae6b232bee96fb4abd9d23e5a777c3
+Section: System
+Priority: optional
+Description: Search/download corn from four different corn sites!
+Author: CokePokes
+Depiction: https://cokepokes.github.io/depiction/inutt.html
+Name: iNutt
+
+Package: com.cokepokes.letsdowngrade
+Version: 0.1-2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: debs/com.cokepokes.letsdowngrade_0.1-2_iphoneos-arm.deb
+Size: 61092
+MD5sum: bff4ab9d5db9b3d9ca44537cc41b43e0
+SHA1: 9d57b3802e2db213bbbaedd9ad0b95d2d44b3848
+SHA256: a8ce03aee404d3dc41e9c9c4603d46d175ad442f64819f554efdc45c80b07e11
+Section: Development
+Priority: optional
+Description: Library to allow developers to downgrade AppStore apps
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Author: CokePokes <cokepokes@gmail.com>
+Dev: cokepokes
+Name: letsdowngrade
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.cokepokes.libnotifications
+Version: 0.3-2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 980
+Depends: firmware (>= 8.0)
+Filename: debs/com.cokepokes.libnotifications_0.3-2_iphoneos-arm.deb
+Size: 179210
+MD5sum: 3a2eb2c43f2fa2252636cfe5426d5d3e
+SHA1: 234c8e1cf495fc60af4d3cbd9eef7a58969c6bf0
+SHA256: 1632ff09a953e674c0139031f48f814c4aef3ca34bdb5e594e43c18b206b2098
+Section: Development
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libnotificationsDp
+Description: App notification library.
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Author: CokePokes <cokepokes@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libnotificationsDp
+Dev: cokepokes
+Name: libnotifications
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.cokepokes.phantom
+Version: 6.1.2-5
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 10.0), mobilesubstrate, shell-cmds, ldid
+Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.unlimapps.uasharedtools, tv.othman.scothman, tv.othman.scothman.ios11, com.pantsthief.snapchatnoclickbait, com.timecompiler.snapchatlog, com.nathaningraham.snapchatlowpowermodeenabler, com.expetelek.keepsnapchatsignedin, com.chloeeisoaky.luminous, com.neinzedd9.scfiltermover, net.ibrahim.scstorytimer, com.ithegentle.snapcheck, com.bengerard.snapselect, com.yungraj.streaknotify, com.n00neimp0rtant.picarchiver, brexit.chloee.snapcolor, com.ion.wraith, com.aeonlucid.snaphide, com.snaphelper.snapbreak.fr33, com.snaphelper.snapbreak
+Replaces: com.cokepokes.spectre
+Filename: debs/com.cokepokes.phantom_6.1.2-5_iphoneos-arm.deb
+Size: 1552966
+MD5sum: 67181ed89bd869e5ded2d5b6a2316d64
+SHA1: 00f58dcf98a5da92f24b56f7716b7c0989d82d17
+SHA256: 11e0c0ce00597adc4db8c2dfdfe96bbe9e53fdbc0969a75254d14acc89ec0a38
+Section: Tweaks
+Priority: optional
+Description: Tweaked Snapchat. Works on Snapchat 10.60 without bans.
+Author: CokePokes
+Depiction: https://cokepokes.github.io/depiction/phantom
+Name: Phantom [Beta]
+
+Package: com.cokepokes.silencio
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: debs/com.cokepokes.silencio_0.1-1_iphoneos-arm.deb
+Size: 38386
+MD5sum: 2d76da74ebfe2b3f5197356a8b3f73e7
+SHA1: 0e202f95239b7d80dc6ebdaa92050ad51f040f35
+SHA256: f3037b771f91c33d98f0fccc8c6cda5a55a5bd669411e661f782471d7364e276
+Section: Tweaks
+Priority: optional
+Description: Silences the emergency alerts in iOS. Requested on reddit.com/r/jailbreak. Let me know if it works when a alert comes.
+Author: CokePokes
+Name: Silencio
+
+Package: com.cokepokes.siriunlock
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/com.cokepokes.siriunlock_0.1-1_iphoneos-arm.deb
+Size: 60056
+MD5sum: 47d3fb186657d829801bbe9d0fd9d468
+SHA1: f9fbedc320be7bd666f9d53570d30ae0cca27448
+SHA256: 3dde68f541aefe1ad2695434350d3483fcf59ca0a8bdc25cc081cb255b4d0065
+Section: Tweaks
+Priority: optional
+Description: Allows Siri to access sensitive data when your phone is locked. (ie: read last text messages, show notes & contacts.) This is a bit of a security degrading tweak. No options to configure, it just works.
+Author: CokePokes
+Name: SiriUnlock
+
+Package: com.cokepokes.snapdecent
+Version: 0.2-2
+Architecture: iphoneos-arm
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: debs/com.cokepokes.snapdecent_0.2-2_iphoneos-arm.deb
+Size: 27366
+MD5sum: c9260cd5d5c4afcf978a0c699bb6523b
+SHA1: c88d58d674f26ee1d5562481171259d0b0081337
+SHA256: 2286b15c5b5d72f291c5c6331a507e52063518cfd0b7294b8e915b0024f35d8e
+Section: Tweaks
+Priority: optional
+Description: Uses a file modification on every Snapchat app launch to revert back to the cool user interface. FOR THE IDIOTS: ENABLES OLD SNAPCHAT LOOK
+Author: CokePokes
+Name: snapdecent
+
+Package: com.cokepokes.spectre
+Version: 0.4
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, shell-cmds
+Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.unlimapps.uasharedtools, tv.othman.scothman, tv.othman.scothman.ios11, com.pantsthief.snapchatnoclickbait, com.timecompiler.snapchatlog, com.nathaningraham.snapchatlowpowermodeenabler, com.expetelek.keepsnapchatsignedin, com.chloeeisoaky.luminous, com.neinzedd9.scfiltermover, net.ibrahim.scstorytimer, com.ithegentle.snapcheck, com.bengerard.snapselect, com.yungraj.streaknotify, com.n00neimp0rtant.picarchiver, brexit.chloee.snapcolor
+Replaces: com.cokepokes.phantom
+Filename: debs/com.cokepokes.spectre_0.4_iphoneos-arm.deb
+Size: 504408
+MD5sum: 04cffb7b01f8acb09f53ae4c3425fdf9
+SHA1: 0bd2133f97e7e1be6df16ec9a7720e3d7edd4a6e
+SHA256: d1a5285023695e4c083fc0575b450effdfffe560a1e8bdb7a2d54ae86bebd158
+Section: Tweaks
+Priority: optional
+Description: Tweaked Snapchat. Works on Snapchat 10.36.0.23. Right now, it only saves Snaps. **Note: It is incompatible with every Unlimapps tweak since Snapchat checks for uasharedtools. (Eh, it's bloatware anyways. You're better without it.)
+Author: CokePokes
+Name: Spectre [Beta] (formally Phantom)
+
+Package: com.cokepokes.supple
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 10.0), mobilesubstrate
+Filename: debs/com.cokepokes.supple_0.1-1_iphoneos-arm.deb
+Size: 1157266
+MD5sum: acef67c3e8c9bec791574441b76f5b92
+SHA1: 7ab9d902a5026472fdfe6766e7415ae06a531e73
+SHA256: 11dfc7160c875cb2ca9328d424dfd4efd4ff6f1077246ce49884f474d6fb2a01
+Section: Tweaks
+Priority: optional
+Description: Loads FLEX into whatever app you have open by holding the status bar for .5 seconds. Works on A12! (Credit: NSExceptional)
+Author: CokePokes
+Name: Supple
+Sileodepiction: https://cokepokes.github.io/depiction/supple/Supple
+
+Package: com.cokepokes.teluguremove
+Version: 0.1-2
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0)
+Filename: debs/com.cokepokes.teluguremove_0.1-2_iphoneos-arm.deb
+Size: 54886
+MD5sum: 2cd6f11d4551d383bc345324628128d6
+SHA1: 9abfabb31de3b6f16f4761c7668bb7d9526a52a5
+SHA256: 4206198bf90566236df86478747a269e3624501647f16edd22608e2a6e66520c
+Section: System
+Priority: optional
+Description: This package is only a script that runs during installation. It renames the font file to KohinoorTelugu.ttc.nope and reverts back when this package is uninstalled.
+Author: CokePokes
+Name: teluguremove
+
+Package: com.cokepokes.tumblrinf
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/com.cokepokes.tumblrinf_0.1-1_iphoneos-arm.deb
+Size: 134144
+MD5sum: 7a40cb5fda811c6cb55b0784b177356b
+SHA1: 266d0aa6b3fbf7e8e1a7109f1877dc2a8d50c756
+SHA256: 2e380e088e94cf6b1d36a09b4c2657b95caa1d06dfc7f123248d2926d3c7e087
+Section: Tweaks
+Priority: optional
+Author: CokePokes
+Name: Tumblr ∞
+
+Package: com.cokepokes.watchUtilsSB
+Version: 0.1-2
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.6)
+Filename: debs/com.cokepokes.watchUtilsSB_0.1-2_iphoneos-arm.deb
+Size: 13776
+MD5sum: cfeb1a6dc2b0bb81a20e88ce646683c0
+SHA1: f3e19c84e0283bb8af08a52c3676fbbe19185f0d
+SHA256: 647397c7a10d57d46e8ea1e8f7947b7430a82ee68596452bf4bc7679e9b04c32
+Section: Tweaks
+Priority: optional
+Homepage: https://gist.github.com/CokePokes/9ad9eb5578c94418f437b39475f75e2f
+Description: This tweak is useless without the companion app found here https://gist.github.com/CokePokes/9ad9eb5578c94418f437b39475f75e2f
+Author: CokePokes
+Depiction: https://gist.github.com/CokePokes/9ad9eb5578c94418f437b39475f75e2f/b6ddb1801b4b72036f6cd492d51394a225bac89e
+Name: Core WatchUtils
 
 Package: com.cydiabc.MsgFilt
 Version: 0.1-1
@@ -1190,6 +1642,26 @@ Priority: optional
 Author: Gawain
 Name: LibWechatReSendVoice
 
+Package: com.greeny.restats
+Version: 1.1-28
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 408
+Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader
+Conflicts: com.greeny.autostatisticsreset
+Filename: debs/com.greeny.restats_1.1-28_iphoneos-arm.deb
+Size: 223410
+MD5sum: 8d0bd8c033579cd141ca7e111a20a4f2
+SHA1: e10b4c473541a74db5d9a3a52f979803463c3c3b
+SHA256: 07fd425138bfe519aff49276368535367934d67b13b5193c020d6076612a09c0
+Section: Tweaks
+Description: Updated by CokePokes to work on iOS9-iOS11. Choose day to auto-reset Cellular stats
+Tag: purpose::extension, ios7support::1, ios8support::1, ios9support::1, ios10support::1, ios11support::1
+Author: GreenyDev <greenydev@greenmail.net.au>
+Dev: greeny
+Icon: file:///Library/PreferenceBundles/RCSPrefs.bundle/RCSPrefs@2x.png
+Name: ReStats
+
 Package: com.ikilledappl3.anemoneloader
 Version: 1.0.3
 Architecture: iphoneos-arm
@@ -1270,20 +1742,6 @@ Section: Tweaks
 Description: Disable the ads in Super Jungle World! (SMB1 re-skinned)
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
 Name: Idraulico
-
-Package: com.ikilledappl3.ios9beta5walls
-Version: 1.0-2
-Architecture: iphoneos-arm
-Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
-Filename: debs/com.ikilledappl3.ios9beta5walls_1.0-2_iphoneos-arm.deb
-Size: 51702240
-MD5sum: 590a7e05ffda8d7fb2e9e03265b35efc
-SHA1: 443f9d0f4356a92a90851a087b28140561a75874
-SHA256: df46324c0acf9f31103749c85f0305e3992567c97c3d98b50c157edc3a26c9b2
-Section: Themes (SpringBoard)
-Description: Official iPhone iOS 9 beta 5 wallpapers
-Author: iKilledAppl3 <ipodnewbee234@icloud.com>
-Name: iOS 9 Beta 5 Wallpapers
 
 Package: com.ikilledappl3.noinstastories
 Version: 1.0-1
@@ -3847,6 +4305,20 @@ Author: ioslinks <kobisn@icloud.com>
 Depiction: http://modmyi.com/info/fakeemail.d.php
 Name: Fake Email
 Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.laughingquoll.Siliqua
+Version: 1.0-2
+Architecture: iphoneos-arm
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: debs/com.laughingquoll.Siliqua_1.0-2_iphoneos-arm.deb
+Size: 26842
+MD5sum: 610a1b15502f9d12da3829b8c4918fb0
+SHA1: db906edcaf858d518ae64fd37f5f9c6f2453f559
+SHA256: db46e016508430d29a2be474dcf2ae09f89e3bcf0a7203069937e0afdcbabd6e
+Section: Tweaks
+Priority: optional
+Author: laughingquoll
+Name: Siliqua
 
 Package: com.laughingquoll.prefixui
 Version: 1.0-1
@@ -7416,6 +7888,22 @@ Tag: role::hacker
 Author: XCXiao
 Name: APFSManager
 
+Package: com.xcxiao.floatingdockxi
+Version: 0.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: XCXiao
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: debs/com.xcxiao.floatingdockxi_0.0.2-1+debug_iphoneos-arm.deb
+Size: 6228
+MD5sum: a455b80447d7e75fcfc38fb315740fa6
+SHA1: 19a53bbcc8adfc1609cdb7aacd96c3e49c262d04
+SHA256: d8547d2119ad3048ce2a02518f67dd58204507d09276704d3fd551a518f23a80
+Section: Tweaks
+Description: Dock浮动起来
+Author: XCXiao
+Name: 浮动Dock
+
 Package: com.xcxiao.hidesender
 Version: 0.0.5
 Architecture: iphoneos-arm
@@ -7909,6 +8397,28 @@ Description: 基于Objective-C的logify.pl重新创建，使用NSLog代替％log
 Tag: role::iOS hacker
 Author: XLsn0w
 Name: nslogify
+
+Package: jp.ashikase.techsupport
+Version: 1.5.0.1-2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Pre-Depends: firmware (>=3.0)
+Depends: cokepokes.jp.ashikase.libpackageinfo
+Conflicts: cokepokes.jp.ashikase.techsupport
+Filename: debs/techsupport.deb
+Size: 78108
+MD5sum: bb6ecf82e9f6b7d472f4aee4cfcd3345
+SHA1: 99c881f68931835cd5a992c7a7957109d83ad64c
+SHA256: 50a88b79bd88afe7c3abc3cefd75502a159ee9a303a0d80819b2c0867cb80401
+Section: Development
+Homepage: http://github.com/ashikase/TechSupport
+Description: Framework to assist in providing feedback to developers.
+Tag: role::developer
+Author: Lance Fetters (ashikase) <support@ashikase.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=techsupportData
+Dev: ashikase
+Name: TechSupport Framework (cokepokes)
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: libflex
 Version: 4.0.0
