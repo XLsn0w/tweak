@@ -65,6 +65,23 @@ Description: 微信计步器随意改
 Author: Cydia
 Name: 微信计步器
 
+Package: cn.darker.mode
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: XLsn0w
+Installed-Size: 176
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: debs/cn.darker.mode_1.0.0_iphoneos-arm.deb
+Size: 8270
+MD5sum: c26ab32bf136c230bbe1d8d2af5d76fb
+SHA1: e09b08fba33ba017e4881d647ee7b3f48e9bcf51
+SHA256: d91f3891f7b55cc3060a4157ac46ea7e6f82f12a9d6300d910d02d585f4ff8bc
+Section: Tweaks
+Description: 使得 iOS 13/14 黑暗模式更黑 有利于OLED屏幕
+Author: XLsn0w
+Depiction: https://xlsn0w.github.io/tweak/
+Name: OLED屏幕黑暗模式
+
 Package: cn.mobgo.webgo
 Version: 1.0.1
 Architecture: iphoneos-arm
