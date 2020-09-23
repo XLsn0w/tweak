@@ -83,6 +83,20 @@ Depiction: http://modmyi.com/info/webgo.d.php
 Name: WebGo
 Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 
+Package: cn.xlsn0w.dock
+Version: 0.0.5-1+debug
+Architecture: iphoneos-arm
+Installed-Size: 160
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: debs/cn.xlsn0w.dock_0.0.5-1+debug_iphoneos-arm.deb
+Size: 9240
+MD5sum: 26fa8a10810bc6cad79d0a7cef030150
+SHA1: 8ce9f52842ddb494c2842fdaedc938364d2ec2a6
+SHA256: 219aec28333ea8326617354ba96ef0c334fe68c62ec4fbf93dfc327745cf93d2
+Section: Tweaks
+Description: 5个Dock 悬浮
+Name: XLsn0wDock
+
 Package: co.vitcortim.igameguardian
 Version: 8.0k1
 Architecture: iphoneos-arm
