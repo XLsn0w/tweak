@@ -84,17 +84,18 @@ Name: WebGo
 Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 
 Package: cn.xlsn0w.dock
-Version: 0.0.5-1+debug
+Version: 1.1.0-4+debug
 Architecture: iphoneos-arm
 Installed-Size: 160
 Depends: mobilesubstrate, firmware (>= 11.0)
-Filename: debs/cn.xlsn0w.dock_0.0.5-1+debug_iphoneos-arm.deb
-Size: 9240
-MD5sum: 26fa8a10810bc6cad79d0a7cef030150
-SHA1: 8ce9f52842ddb494c2842fdaedc938364d2ec2a6
-SHA256: 219aec28333ea8326617354ba96ef0c334fe68c62ec4fbf93dfc327745cf93d2
+Filename: debs/cn.xlsn0w.dock_1.1.0-4+debug_iphoneos-arm.deb
+Size: 9300
+MD5sum: 4914575de063a6b7a2ccdead29cedf70
+SHA1: a437d2a46c3430db721f02463ec551d5b97e465d
+SHA256: 54eb8c727c65b8428481e9a8079a44aaa9587fda62b8120566c223edeae3ea24
 Section: Tweaks
-Description: 5个Dock 悬浮
+Description: 自定义Dock个数; 在应用内上滑显示Dock栏
+Author: XLsn0w
 Name: XLsn0wDock
 
 Package: co.vitcortim.igameguardian
@@ -7901,22 +7902,6 @@ Description: An awesome tool of some sort!!
 Tag: role::hacker
 Author: XCXiao
 Name: APFSManager
-
-Package: com.xcxiao.floatingdockxi
-Version: 0.0.2-1+debug
-Architecture: iphoneos-arm
-Maintainer: XCXiao
-Installed-Size: 156
-Depends: mobilesubstrate
-Filename: debs/com.xcxiao.floatingdockxi_0.0.2-1+debug_iphoneos-arm.deb
-Size: 6228
-MD5sum: a455b80447d7e75fcfc38fb315740fa6
-SHA1: 19a53bbcc8adfc1609cdb7aacd96c3e49c262d04
-SHA256: d8547d2119ad3048ce2a02518f67dd58204507d09276704d3fd551a518f23a80
-Section: Tweaks
-Description: Dock浮动起来
-Author: XCXiao
-Name: 浮动Dock
 
 Package: com.xcxiao.hidesender
 Version: 0.0.5
