@@ -101,19 +101,19 @@ Name: WebGo
 Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 
 Package: cn.xlsn0w.dock
-Version: 1.1.2-2
+Version: 1.1.3-1
 Architecture: iphoneos-arm
 Installed-Size: 136
 Depends: mobilesubstrate, firmware (>= 11.0)
-Filename: debs/cn.xlsn0w.dock_1.1.2-2_iphoneos-arm.deb
-Size: 4598
-MD5sum: d27bf968b859a9cba40de7ba2f3bd7a1
-SHA1: 282d5d7341db5f2833027f962ed0cc65e83c78af
-SHA256: a1456ab8f7968e40117db42ba4ebed64bc573201fa5b1f087e6336db2a1569c4
+Filename: debs/cn.xlsn0w.dock_1.1.3-1_iphoneos-arm.deb
+Size: 5252
+MD5sum: 1c2f41913c431a1e78b617fa2fb43ca5
+SHA1: b90880487e6d737e282c91f377a4d3708e29a0ae
+SHA256: 0b4698db316a95198c2aa4beabd939b0face5407f7a0334d25bb0e6d07ab9835
 Section: Tweaks
 Description: 自定义Dock个数; 在应用内上滑显示Dock栏
 Author: XLsn0w
-Name: XLsn0w5Dock
+Name: XLsn0wDock
 
 Package: co.vitcortim.igameguardian
 Version: 8.0k1
