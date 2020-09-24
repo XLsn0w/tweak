@@ -101,19 +101,19 @@ Name: WebGo
 Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 
 Package: cn.xlsn0w.dock
-Version: 1.1.0-4+debug
+Version: 1.1.1-1+debug
 Architecture: iphoneos-arm
 Installed-Size: 160
 Depends: mobilesubstrate, firmware (>= 11.0)
-Filename: debs/cn.xlsn0w.dock_1.1.0_iphoneos-arm.deb
-Size: 9300
-MD5sum: 4914575de063a6b7a2ccdead29cedf70
-SHA1: a437d2a46c3430db721f02463ec551d5b97e465d
-SHA256: 54eb8c727c65b8428481e9a8079a44aaa9587fda62b8120566c223edeae3ea24
+Filename: debs/cn.xlsn0w.dock_1.1.1-1+debug_iphoneos-arm.deb
+Size: 9302
+MD5sum: 1f47702b966797457c3f92b8235edd15
+SHA1: 80f5be3b2b9a94b07e1ea6b1acbb36eed8593938
+SHA256: 8719666b83e5c6c929cddc4f7af3996ca2d8a4c82181c339392ab204f674c938
 Section: Tweaks
 Description: 自定义Dock个数; 在应用内上滑显示Dock栏
 Author: XLsn0w
-Name: XLsn0wDock
+Name: XLsn0wDock14
 
 Package: co.vitcortim.igameguardian
 Version: 8.0k1
@@ -7951,6 +7951,22 @@ Section: Tweaks
 Description: 圆形音乐状态栏
 Author: XCXiao
 Name: 圆形音乐状态栏
+
+Package: com.xcxiao.wakeitup
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: XCXiao
+Installed-Size: 124
+Depends: mobilesubstrate
+Filename: debs/com.xcxiao.wakeitup_0.0.1-1+debug_iphoneos-arm.deb
+Size: 9156
+MD5sum: 710428243df95c4f90555b414bc05916
+SHA1: 79cfa3d39542e06ee3f35fc5e534c577a6700752
+SHA256: 77cb763d5424a49e1fde64b36995bcf5f4d01f40b703074d0b8261ad86486a27
+Section: Tweaks
+Description: SpringBoard Lift to wake up.
+Author: XCXiao
+Name: LiftToWakeUp
 
 Package: com.xlsn0w.JailbreakChecker
 Version: 2.0.0
