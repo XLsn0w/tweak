@@ -5487,6 +5487,114 @@ Dev: opa334
 Name: CCSupport
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.opa334.fastsafaripw
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: opa334
+Installed-Size: 296
+Depends: firmware (<=10.3.3), mobilesubstrate, ws.hbang.common
+Filename: debs/com.opa334.fastsafaripw_1.0_iphoneos-arm.deb
+Size: 18930
+MD5sum: ba21d1b735c245ac349855b20d79248c
+SHA1: 6984e41a607feeb1e30ed14d76c71c1f2e4949f8
+SHA256: 66cf175dfb24f62003e02150aaece46e1dc948a2497c1424e09bfc2d222960bf
+Section: Tweaks
+Homepage: https://opa334.github.io/
+Description: A fast way to access 1Password or LastPass!
+Author: opa334
+Depiction: https://opa334.github.io/depic/FastSafariPW/index.html
+Name: FastSafariPW
+
+Package: com.opa334.nosubstitute12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: opa334
+Installed-Size: 296
+Depends: mobilesubstrate, applist
+Filename: debs/com.opa334.nosubstitute12_1.0_iphoneos-arm.deb
+Size: 17952
+MD5sum: 813b2e04ed7cf749406e3994a49ee196
+SHA1: a9aa069babfefa5f24dfd719a3e4673f4a7ff45e
+SHA256: 02fa5327be84fa648ee2c52e4ae2df7a34d6cd925d9592f9a090424e71108dfe
+Section: Tweaks
+Homepage: https://opa334.github.io/
+Description: Disable Substitute on a per app basis!
+Author: opa334
+Depiction: https://opa334.github.io/depic/NoSubstitute12/index.html
+Name: NoSubstitute12
+
+Package: com.opa334.notrecording
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: opa334
+Installed-Size: 416
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, applist
+Filename: debs/com.opa334.notrecording_1.0_iphoneos-arm.deb
+Size: 16848
+MD5sum: f253577f4c52a9a27d9f44a19f1b6be6
+SHA1: 77de766802fc786ea5fd71a6fd463cc21941b8d2
+SHA256: 82116945ec991a5bf3c4a72b501351544f3284170c67c99ae3f6053cbb14a714
+Section: Tweaks
+Description: Spoof screen recording detection!
+Author: opa334
+Name: NotRecording
+
+Package: com.opa334.powerloghelperdfix
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: opa334
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: debs/com.opa334.powerloghelperdfix_1.0_iphoneos-arm.deb
+Size: 3344
+MD5sum: 05378ef29b1af1723a1ef69a146e17f8
+SHA1: 28afd1239a2fbd18da6efffba7ae25dc11a4539e
+SHA256: 2e3fe2a753ae5514b1f81cb322c3736ecb5109256f47beaa3532aaff134b79d5
+Section: Tweaks
+Description: Block tweak injection into powerlogHelperd!
+Author: opa334
+Depiction: https://opa334.github.io/depic/powerlogHelperdFix/index.html
+Name: powerlogHelperdFix
+
+Package: com.opa334.safariplussnakeoil
+Version: 1.7.13
+Architecture: iphoneos-arm
+Maintainer: opa334 <opa334@protonmail.com>
+Installed-Size: 5384
+Depends: firmware (>=8.0), mobilesubstrate, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap
+Conflicts: com.opa334.safariplus
+Filename: debs/com.opa334.safariplussnakeoil_1.7.13_iphoneos-arm.deb
+Size: 1132488
+MD5sum: 33c46dfa94ac51e60a7f7a5edc6fd2c9
+SHA1: c18d3b970a7dbc3987d7dc79e9c30cd037340f42
+SHA256: 20f1977f50b30d285fcfc6057d2e294a8a4dd26a88dd433bf334614ee7a9690e
+Section: Tweaks
+Homepage: https://opa334.github.io/
+Description: Various enhancements to Safari!
+Author: opa334 <opa334@protonmail.com>
+Depiction: https://opa334.github.io/depic/SafariPlus/index.html
+Icon: https://opa334.github.io/depic/SafariPlus/Resources/icon.png
+Name: Safari Plus (Cepheiless)
+
+Package: com.opa334.whitepointmodule
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: opa334
+Installed-Size: 184
+Depends: mobilesubstrate, com.opa334.ccsupport, firmware (>= 11.0)
+Filename: debs/com.opa334.whitepointmodule_1.2.2_iphoneos-arm.deb
+Size: 16964
+MD5sum: 29fa27d72d9875bf5252cb2d0d74dc06
+SHA1: 7466e0759b7f580f9d20928c23a724095bd4d5a2
+SHA256: 2b6891d8e0096f795ab12b467c4b0cb1a55a1c6ad07b1d3a18c3868f53f2dbbc
+Section: Control Center (Modules)
+Description: Reduce White Point from Control Center!
+Author: opa334
+Depiction: https://opa334.github.io/depic/WhitePointModule/index.html
+Icon: https://opa334.github.io/depic/WhitePointModule/Resources/icon.png
+Name: White Point Module
+Sileodepiction: https://opa334.github.io/depic/WhitePointModule/sileo.json
+
 Package: com.paigu.amj
 Version: 1.0.0-1+debug
 Architecture: iphoneos-arm
@@ -6742,6 +6850,45 @@ Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/ytuhd.html
 Name: YTUHD SW
 Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/ytuhd.json
+
+Package: com.redenticdev.appmore
+Version: 0.0.9
+Architecture: iphoneos-arm
+Maintainer: RedenticDev <redenticdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/AppMore_0.0.9_iphoneos-arm.deb
+Size: 4264
+MD5sum: 58b1733408489fedd5ec584c56110365
+SHA1: ded282493aafac17310276681fbad90b5ad57399
+SHA256: 82472f58f141de0e26af209359c1ed0efd79928581dfd0c87cc9c91b1254ff6a
+Section: Tweaks
+Description: Auto-extend app's description in AppStore updates
+Author: RedenticDev <redenticdev@gmail.com>
+Depiction: https://redentic.dev/depictions/?p=com.redenticdev.appmore
+Icon: https://redentic.dev/depictions/com.redenticdev.appmore/icon.png
+Name: AppMore
+Sileodepiction: https://redentic.dev/depictions/com.redenticdev.appmore/sileo.json
+
+Package: com.redenticdev.fastlpm
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: RedenticDev <redenticdev@gmail.com>
+Installed-Size: 556
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11), ws.hbang.common
+Replaces: com.olxios.quickpowermode
+Filename: debs/com.redenticdev.fastlpm_1.1.2_iphoneos-arm.deb
+Size: 86112
+MD5sum: 5ac5a29f8f85bf22fc1439fc85c256ea
+SHA1: 27d4a930686e11db47c21b0d410ae6392dd6d6e1
+SHA256: e24f48aea9c9be8513a455520ace389776eaf6e7252083be6fca33c63129ee3b
+Section: Tweaks
+Description: Toggle LPM by tapping the battery icon
+Author: RedenticDev <redenticdev@gmail.com>
+Depiction: https://redentic.dev/depictions/?p=com.redenticdev.fastlpm
+Icon: https://redentic.dev/depictions/com.redenticdev.fastlpm/icon.png
+Name: FastLPM
+Sileodepiction: https://redentic.dev/depictions/com.redenticdev.fastlpm/sileo.json
 
 Package: com.roqy.roqybt
 Version: 0.9.9-6
