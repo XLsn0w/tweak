@@ -8621,6 +8621,102 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libflexDp
 Dev: tannerbennett
 Name: libFLEX
 
+Package: me.jjolano.alertdismiss
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: jjolano
+Installed-Size: 536
+Depends: mobilesubstrate, preferenceloader, firmware (>= 8.0)
+Filename: debs/me.jjolano.alertdismiss_1.0.4_iphoneos-arm.deb
+Size: 11866
+MD5sum: 114e7f39b60f3e4525d9cc51a8fb782a
+SHA1: dcdf45e85b8371b8e86f086be24990dbbf1a709d
+SHA256: 14d8b6074cc3fdc2f812c2165e9da80e43642cf79574789a2fddcf5601c057a7
+Section: Tweaks
+Description: Add a Force Dismiss button to any UIAlertController.
+Author: jjolano
+Name: AlertDismiss
+
+Package: me.jjolano.lowpowercharging
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: jjolano
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: debs/me.jjolano.lowpowercharging_0.0.2_iphoneos-arm.deb
+Size: 4170
+MD5sum: 154dd07dbeadd5a7db02c424a7c8f4c2
+SHA1: 0772760054f68abe411ed639fc8df9ec0c468d22
+SHA256: a42d34fb86e07750bf0b6ae8e96e36601b95b4d0c1ad9037145edafdf24f1b8d
+Section: Tweaks
+Description: Enables Low Power Mode automatically when charging.
+Author: jjolano
+Name: LowPowerCharging
+
+Package: me.jjolano.lowpowerlock
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: jjolano
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: debs/me.jjolano.lowpowerlock_0.0.2_iphoneos-arm.deb
+Size: 4224
+MD5sum: 8576e4acc4165eccf52cf754080cc744
+SHA1: 10c97db9d6ace40901aaa0406debaf466a3b4d7b
+SHA256: 06ba95e600fd25a06e37aff8803acfa29d051167ce1c57e26921477eb5916299
+Section: Tweaks
+Description: Enables Low Power Mode automatically while your device is locked.
+Author: jjolano
+Name: LowPowerLock
+
+Package: me.jjolano.lowpowertweaks
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: jjolano
+Installed-Size: 536
+Depends: mobilesubstrate, ws.hbang.common, applist, preferenceloader
+Filename: debs/me.jjolano.lowpowertweaks_0.0.4_iphoneos-arm.deb
+Size: 13488
+MD5sum: 339926425664244dc6aca5e9257adb02
+SHA1: 8b677183f9a047ab36c150a4afb2902d4a13b0df
+SHA256: 6b77bdae5f9dbc7295d87c37e37019d25046bce5faef74e1ea39b2202372a210
+Section: Tweaks
+Description: Selectively disable tweaks while Low Power Mode is enabled.
+Author: jjolano
+Name: LowPowerTweaks
+
+Package: me.jjolano.nofolderbadge
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: jjolano
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: debs/me.jjolano.nofolderbadge_0.0.2_iphoneos-arm.deb
+Size: 3394
+MD5sum: f37360e04e6b582d7f52b65d435adb56
+SHA1: f24f2ad5a59e5a2a1c7d7ae68c3978c558c6c2cb
+SHA256: 4ebcbee75495ac2c98d898c08170901c047a24ecb9838f5301939a07784847f3
+Section: Tweaks
+Description: Removes badges from folders.
+Author: jjolano
+Name: NoFolderBadge
+
+Package: me.jjolano.shadow
+Version: 2.0.20
+Architecture: iphoneos-arm
+Maintainer: jjolano
+Installed-Size: 1012
+Depends: mobilesubstrate, ws.hbang.common, applist, preferenceloader
+Filename: debs/me.jjolano.shadow_2.0.20_iphoneos-arm.deb
+Size: 131472
+MD5sum: 2f22c4d1e2a81f64a42697283da4b436
+SHA1: 2378f837f1501ffe6177f925da170efebf09d53d
+SHA256: c974b31167c9f977f4b3fb1f766c2c9b6add19d4de315fa4744a273481cb8300
+Section: Tweaks
+Description: A lightweight general jailbreak detection bypass.
+Author: jjolano
+Name: Shadow
+
 Package: me.midnightchips.snapback
 Version: 2.0.1
 Architecture: iphoneos-arm
