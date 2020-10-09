@@ -8312,6 +8312,22 @@ Description: 美团众包反越狱检测，请不要安装其他屏蔽越狱软�
 Author: 糖醋丶炒排骨
 Name: 美团众包JBDBypass
 
+Package: com.yourcompany.szyh
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/dock.deb
+Size: 4076
+MD5sum: 58fb2bb816ffa7268726059e30ccb3f3
+SHA1: d89c7a2011be73e47b206a8181068cb5dd1591b0
+SHA256: e4d3bb01934bfd6991d4cdc267450a8736fad50058b103ff2484bcd4919bed00
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: zlw555
+Name: szyh
+
 Package: com.yourepo.samgisaninja.cydia11icon
 Version: 1.0.2
 Architecture: iphoneos-arm
