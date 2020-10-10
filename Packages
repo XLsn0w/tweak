@@ -218,6 +218,18 @@ Dev: ashikase
 Name: libsymbolicate (cokepokes)
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.LSearch
+Version: 1.0
+Architecture: iphoneos-arm
+Pre-Depends: firmware (>=6.0)
+Filename: debs/LSearch.deb
+Size: 459454
+MD5sum: 35f9c51f117b2f5c1ce8b222750f60cf
+SHA1: fbd892b7b5365b487b7d0f76aa87249c5a0c2705
+SHA256: 4942676d5101f3d7752c4a4f64a29f922bd30087b51ef36d929255d07d836516
+Author: 神气的煤气
+Name: LSearch
+
 Package: com.NetVoice.NetVoice
 Version: 3.1.2
 Architecture: iphoneos-arm
@@ -4321,6 +4333,20 @@ Author: JunesiPhone <junesgraphics@gmail.com>
 Depiction: http://www.junesiphone.com/supersecret/depiction.php?iframe=depiction/lockpluspro
 Name: LockPlus Pro
 
+Package: com.keep.datameters
+Version: 1.4.3-2
+Architecture: iphoneos-arm
+Essential: no
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Filename: debs/datameters.deb
+Size: 103240
+MD5sum: b0d3753d95d7601f088bab2d8866205d
+SHA1: 21807932479261ee2f35b2ce5f5d58bcc7ba1c23
+SHA256: a3faf9aba4af1e82b2f57fde0c20f293f951bb0fb0f9ff6a716f20ba704a2993
+Section: 插件
+Priority: standard
+Name: Datameter 精简
+
 Package: com.kobisnir.fakeemail
 Version: 4.7
 Architecture: iphoneos-arm
@@ -5594,6 +5620,25 @@ Depiction: https://opa334.github.io/depic/WhitePointModule/index.html
 Icon: https://opa334.github.io/depic/WhitePointModule/Resources/icon.png
 Name: White Point Module
 Sileodepiction: https://opa334.github.io/depic/WhitePointModule/sileo.json
+
+Package: com.orangebananaspy.nudekeysios12
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Orangebananaspy <admin@orangebananaspy.com>
+Installed-Size: 18224
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Conflicts: org.thebigboss.nudekeys
+Filename: debs/com.orangebananaspy.nudekeysios12_1.0.0_iphoneos-arm.deb
+Size: 9862698
+MD5sum: 3f24383089ea07a2ca42f157dcce4eaf
+SHA1: 779550ae0d182902d8ee485ee8deff85cf8ee39e
+SHA256: 4d52177d2b16830ef55c3e9a04c0a7b62b7760233a4ed300847e0647d26c2cca
+Section: Tweaks
+Description: Strip those sexy keys!
+Tag: purpose::extension, compatible::ios12
+Author: Orangebananaspy <support@orangebananaspy.com>
+Dev: orangebananaspy
+Name: NudeKeys (iOS 12)
 
 Package: com.paigu.amj
 Version: 1.0.0-1+debug
@@ -8751,6 +8796,22 @@ Depiction: https://midnightchips.me/depiction/?snapback
 Icon: https://midnightchips.me/packages/SnapBack/SileoIcon.png
 Name: SnapBack
 Sileodepiction: https://midnightchips.me/sileo/snapback.json
+
+Package: me.tomt000.copylog
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: TomT000
+Installed-Size: 796
+Depends: mobilesubstrate
+Filename: debs/me.tomt000.copylog_1.0.2_iphoneos-arm.deb
+Size: 367422
+MD5sum: b5693fca9db8f8d83b6332bf4e28c075
+SHA1: 68c0360c9bfcadc1b15b128b96e72a3b943db294
+SHA256: 5f1d82d0d5ad5a3c18564771384fdda8bb68fd45c55a23dbee7b8e38497c3531
+Section: Tweaks
+Description: Clipboard history manager for iOS!
+Author: TomT000
+Name: CopyLog
 
 Package: mobilesubstrate
 Version: 0.9.7104
