@@ -304,6 +304,38 @@ Depiction: http://modmyi.com/info/lockinfocydget.d.php
 Name: LockInfo Cydget
 Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 
+Package: com.atwiiks.betterccxi
+Version: 1.4.8
+Architecture: iphoneos-arm
+Maintainer: ATWiiks
+Installed-Size: 320
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Filename: debs/com.atwiiks.betterccxi_1.4.8_iphoneos-arm.deb
+Size: 48898
+MD5sum: ebdad1e913fe896be40c64d315fd0907
+SHA1: a34a2f07b838a514dd8b9eb3d2d22f00627c2d14
+SHA256: 328dcba1a5d0b9caaeabbb669c7deff84b3e617175453a3e132fc0a86d48eb3a
+Section: Tweaks
+Description: Enhance your control center on iOS 11 and iOS 12
+Author: ATWiiks
+Name: BetterCCXI
+
+Package: com.atwiiks.betterccxiweather
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: ATWiiks
+Installed-Size: 92
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader, com.atwiiks.betterccxi
+Filename: debs/com.atwiiks.betterccxiweather_1.0.1_iphoneos-arm.deb
+Size: 11304
+MD5sum: c3af4e83b1c341e5843ebaf8c5718e2c
+SHA1: 013efb145f6ab7a25f6f55ed7bfce5e763c7015b
+SHA256: b35a6a1911254d1cec80443a812e64b8728629232e7a290f9144f292c060700e
+Section: Tweaks
+Description: Weather Module for BetterCCXI
+Author: ATWiiks
+Name: BetterCCXI (Weather Addon)
+
 Package: com.bates.lyrics
 Version: 1.2
 Architecture: iphoneos-arm
@@ -1673,6 +1705,22 @@ Description: System Info Widget that displays battery and storage space
 Author: DGh0st <deeppwnage@yahoo.com>
 Name: SystemInfoWidget
 
+Package: com.donbytyqi.tinybanners
+Version: 0.3.1
+Architecture: iphoneos-arm
+Maintainer: Don
+Installed-Size: 436
+Depends: mobilesubstrate,preferenceloader,applist
+Filename: debs/com.donbytyqi.tinybanners_0.3.1_iphoneos-arm.deb
+Size: 88638
+MD5sum: 5b1c1672cca236637a35429988e9a755
+SHA1: 7606ad3f9693ed988742feee2cc0f0e9b3952b29
+SHA256: ab049e0ae8bdb7efc4d883ea11f82609b8f35d1b395c15a148b5e53ddaf6d02a
+Section: Tweaks
+Description: Unobtrusive yet useful notification banners!
+Author: Don
+Name: TinyBanners
+
 Package: com.gawain.LibWechatReSendVoice
 Version: 0.1-1
 Architecture: iphoneos-arm
@@ -1934,6 +1982,22 @@ Author: iKilledAppl3 <ipodnewbee234@icloud.com>
 Depiction: http://ikilledappl3.com/dp/WaterWave/
 Icon: http://www.ikilledappl3.com/dp/WaterWave/WaterCharge@3.png
 Name: WaterCharge
+
+Package: com.ioscreatix.weathervane
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: ATWiiks
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: debs/com.ioscreatix.weathervane_1.2.0_iphoneos-arm.deb
+Size: 9840
+MD5sum: 287a033d3100433dd4c114b4fda6220e
+SHA1: fa84059f77e861a082c9d2009a90b9b719139533
+SHA256: 3e553ee95ec39ca03a7f03ecb174882a5ace8c26fc6f0d5063e816195c67c60f
+Section: Tweaks
+Description: Access Wifi Networks and Bluetooth Devices from the Control Center on iOS 11 and iOS 12
+Author: ATWiiks
+Name: WeatherVane
 
 Package: com.iphonedesignz.ModernGreenBattery
 Version: 1.0
@@ -4316,16 +4380,17 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.zaddyv
 Name: ZaddyVerifyRoll
 
 Package: com.junesiphone.lockpluspro
-Version: 1.4.2
+Version: 1.6.2
 Architecture: iphoneos-arm
 Maintainer: June <junesgraphics@gmail.com>
-Installed-Size: 36480
+Installed-Size: 40760
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/lockpluspro.deb
-Size: 16234228
-MD5sum: b1d243cd24cf049a4a0768d47b3e9b51
-SHA1: 694b17cc6888815383da6bcd442e111456ece690
-SHA256: cf81fc74c591a03a85edd6ea3b4fa6b8e067da578696a8ff7975f03223d54c8e
+Conflicts: com.repo.xarold.com.chargemode, com.julioverne.chargemode, com.brunonfl.s8edge
+Filename: debs/com.junesiphone.lockpluspro_1.6.2_iphoneos-arm.deb
+Size: 11987934
+MD5sum: f13901b47d78e3cb6b561df84c584bfd
+SHA1: 6812590394f9e5d5a03d6766011f6d0b2edb5d9b
+SHA256: 04da4c4ad5bfcbd3807e80a3e015aa4357243aa608de17bdde3fc676a7d1f686
 Section: Addons (Tweaks)
 Description: The ultimate lock screen tweak!
 Tag: cydia::paid
@@ -4395,6 +4460,22 @@ Description: An awesome framework of some sort!!
 Tag: role::developer
 Author: LaughingQuoll
 Name: PrefixUI
+
+Package: com.laughingquoll.siliqua2
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: LaughingQuoll
+Installed-Size: 176
+Depends: mobilesubstrate, com.laughingquoll.prefixui
+Filename: debs/com.laughingquoll.siliqua2_2.0.1_iphoneos-arm.deb
+Size: 12904
+MD5sum: 9d6d302c1209356a884d8245832d4f0d
+SHA1: 4aa815cbc796bfe7ef9c8a4942fa1d1de51bc832
+SHA256: 6560caf999f00464d786c14c2599966dff180f2aec2df8e3b3a1251d1d092571
+Section: Tweaks
+Description: AirPods Gestures and New Features
+Author: LaughingQuoll
+Name: Siliqua 2
 
 Package: com.litteral.calculatorforvelox
 Version: 1.1
@@ -8309,6 +8390,38 @@ Description: 微信管家
 Author: XLsn0w
 Name: 微信管家
 
+Package: com.yourcompany.aysx
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/爱阅书香6.3.deb
+Size: 3618
+MD5sum: 7557d59a83ca08c67d5208ac7d0f4a8f
+SHA1: b03acf61af02fe3a2ad5096c671e3cf67ecf7b48
+SHA256: be87b9dea7f36f7946a43a4f0add42ccee0528c058720dd8aa31f509c20ae45a
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: zlw555
+Name: 爱阅书香6.3
+
+Package: com.yourcompany.beiwanglu
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 124
+Depends: mobilesubstrate
+Filename: debs/备忘录去工具栏.deb
+Size: 5394
+MD5sum: 87069d47c4fdb566c77577e4dff1ab76
+SHA1: 57c82601c5cb8cafedcb72f81c6434b93a144c14
+SHA256: ea22ebf3e28da69f15c07e249a1019cad337ca9714d83379b85148163d59bc4e
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: zlw555
+Name: 备忘录去工具栏
+
 Package: com.yourcompany.caiyuncrack
 Version: 1.0.0-2
 Architecture: iphoneos-arm
@@ -8341,6 +8454,38 @@ Description: 激活去广告权限、无限次短视频下载、增强反越狱�
 Author: 糖醋丶炒排骨
 Name: 黑匣子player-
 
+Package: com.yourcompany.jpyh
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/隐藏键盘设置.deb
+Size: 4446
+MD5sum: d19db26a8ac4ed96b1a0e44c48028d3e
+SHA1: c71b3085b9010dad2c3d7af138ba5bb6fbede8e0
+SHA256: 720456acad5beeb368c70e47f7a49196e25e75c62d2449b28669443eeeff86f0
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: zlw555
+Name: 隐藏键盘设置
+
+Package: com.yourcompany.jrppyy
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/农业+农信屏蔽越狱.deb
+Size: 4278
+MD5sum: e474d7047971633e89272d21281fdda0
+SHA1: 6b8c26120cfe7ea39453d3aed158144557983223
+SHA256: d3f36fc71e78406f8869eac3b32047e956530d278d71f459da36dff64719fde0
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: zlw555
+Name: 农@信
+
 Package: com.yourcompany.meituan
 Version: 1.0.0-1
 Architecture: iphoneos-arm
@@ -8357,6 +8502,22 @@ Description: 美团众包反越狱检测，请不要安装其他屏蔽越狱软�
 Author: 糖醋丶炒排骨
 Name: 美团众包JBDBypass
 
+Package: com.yourcompany.qidiandushu
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/起点读书.deb
+Size: 3758
+MD5sum: e3db79e949e3c505e579a44cf08edb20
+SHA1: 8eee709701b79e24712d5583044f9a9f29052785
+SHA256: 5c1810a75e82c2836d34fea2949ef57a80520b812d954055459bce324a744948
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: zlw555
+Name: 起点读书QAD
+
 Package: com.yourcompany.szyh
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
@@ -8372,6 +8533,38 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: zlw555
 Name: szyh
+
+Package: com.yourcompany.thor
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/thor.deb
+Size: 3594
+MD5sum: 45f614a4b330a146eb7348b9544f1173
+SHA1: 1d834331503dab6bef2ccc62922f6e5ff5e1f7c5
+SHA256: c314a63c0e3ed5e19e2367f6b13e9b03e2fc63d2ba7ce535bc130a7162f052fe
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: zlw555
+Name: thor
+
+Package: com.yourcompany.wxzw
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/微信指纹支付.deb
+Size: 4120
+MD5sum: e37bdbe037d2e9755c9375857e39724f
+SHA1: 638043f330df3dc7c3de24696e1c15520de575d4
+SHA256: 4e5dadce87c382c44f04636f2132b94a9f0e334f28732dc0f85c76602ee7fe44
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: zlw555
+Name: 微信指纹
 
 Package: com.yourepo.samgisaninja.cydia11icon
 Version: 1.0.2
@@ -8442,6 +8635,22 @@ Section: Tweaks
 Description: A simple UIAlertView tweak for beginner icoders!
 Author: YourName <user@yourdomain.com>
 Name: WelcomeStranger
+
+Package: com.zlw555.xhome
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/x手势.deb
+Size: 3876
+MD5sum: 2eace753a5997c0c583d00cfa7a0dec4
+SHA1: a773d0103524d75b572c9e3757a47da06d69492a
+SHA256: a0bf6ea36844dda60ed41dddc820da797cdd0dc5abfe8662d9105fcb9d97a17c
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: zlw555
+Name: x手势
 
 Package: cycript
 Version: 0.9.502
@@ -8661,6 +8870,23 @@ Dev: ashikase
 Name: TechSupport Framework (cokepokes)
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: jp.soh.iconresizerforios11
+Version: 1.9.9.8-3+debug
+Architecture: iphoneos-arm
+Maintainer: Soh Satoh
+Installed-Size: 3796
+Depends: mobilesubstrate, com.chpwn.iconsupport, ws.hbang.common (>= 1.11)
+Filename: debs/jp.soh.iconresizerforios11_1.9.9.8-3+debug_iphoneos-arm.deb
+Size: 1036636
+MD5sum: 920d9483da0fc982846240dd6ae0135f
+SHA1: 1c44e3c1016eaeb70960e45f56c932c070107dbc
+SHA256: c6863d01dce957c0c3b6bf015fa2bc46987b3328d20d7a38d24b9ef01567b9d3
+Section: Homescreen_Customization
+Description: Control icons on Homescreen whatever you want to do. Confirmed works on iOS11&12.
+Tag: cydia::commercial, compatible_min::ios10, compatible_max::ios12.4
+Author: Soh Satoh
+Name: Iconator11 (iOS11&12)
+
 Package: libflex
 Version: 4.0.0
 Architecture: iphoneos-arm
@@ -8833,6 +9059,22 @@ Description: powerful code insertion platform
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/mobilesubstrate/
 Name: Cydia Substrate
+
+Package: net.dodgraphics.midevice
+Version: 1.0.0-2
+Architecture: iphoneos-arm
+Maintainer: DODGraphics
+Installed-Size: 544
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, org.thebigboss.libcolorpicker, applist
+Filename: debs/net.dodgraphics.midevice_1.0.0-2_iphoneos-arm.deb
+Size: 162028
+MD5sum: a52e2fc3391a0d3fdaf0cf800e4b4156
+SHA1: 2c4c46e907e3339b93deaabc41e1b9ce726f4ed3
+SHA256: 5cbc411d80b132314447e181aa2086a3bca2be4aeaaf88cdeb0b85f40499d973
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: DODGraphics
+Name: MiDevice
 
 Package: net.netau.ikilledappl3.foldrnfoldr8
 Version: 1.0-1-1
