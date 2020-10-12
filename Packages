@@ -8566,6 +8566,37 @@ Description: An awesome MobileSubstrate tweak!
 Author: zlw555
 Name: 微信指纹
 
+Package: com.yourepo.itweakios.carriercrack-global
+Version: 3.1.18
+Architecture: iphoneos-arm
+Maintainer: iTweakiOS <itweakios@yahoo.com.com>
+Pre-Depends: firmware (>= 13)
+Depends: com.yourepo.itweakios.ccpatch10
+Filename: debs/carriercrack_global_3_1_18_iphoneos_arm.deb
+Size: 5410214
+MD5sum: d0b0938ef2ce9c9264763efb06ea5a39
+SHA1: 21edff3f32f76e199bf57b2514d54ce795ed7530
+SHA256: f31a46343694b8d2992bddc7421e814fec75bc67c6586d8ecc6c85f32ae1ecf5
+Section: Tweaks
+Description: Enables hidden features, introduces new features, amplifies cell signal, amplifies data speeds and more!
+Author: iTweakiOS <itweakios@yahoo.com>
+Name: CarrierCrack - Global
+
+Package: com.yourepo.itweakios.ccpatch10
+Version: 4.0.1
+Architecture: iphoneos-arm
+Maintainer: Pwn20wnd <itweakios@yahoo.com>
+Depends: mobilesubstrate, firmware (>=10.0)
+Filename: debs/ccpatch10_4.0.1_iphoneos-arm.deb
+Size: 44266
+MD5sum: 5e07d60d28e00c743e0b1f441b832c2c
+SHA1: a4c8245f0ea88e544b11e7333992d0979037b0fe
+SHA256: 862ad772dc5d291a0a0c33c86a37365eafc79608780497ac481cfe39c8de9c70
+Section: Tweaks
+Description: Carrier bundle verification bypass
+Author: Pwn20wnd <itweakios@yahoo.com>
+Name: CommCenter Patch
+
 Package: com.yourepo.samgisaninja.cydia11icon
 Version: 1.0.2
 Architecture: iphoneos-arm
